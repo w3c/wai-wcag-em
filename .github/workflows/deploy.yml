@@ -1,0 +1,39 @@
+name: GitHub Pages Deploy
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+# Allow this job to clone the repo and create a page deployment
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout git repository
+        uses: actions/checkout@v4
+      - name: spec-generator
+        run: |
+          mkdir _site
+          tar cf guidelines.tar *
+          curl https://labs.w3.org/spec-generator/?type=respec -F file=@guidelines.tar -o _site/index.html -f --retry 3
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
