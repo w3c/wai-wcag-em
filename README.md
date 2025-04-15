@@ -1,13 +1,8 @@
+# 2025 update for WCAG-EM
 
-# MyNote
+This repo contains drafts and explorations of a potential 2025 update of WCAG-EM.
 
-This is the repository for MyNote.
+## Changelog
 
-## Remove everything from this line when you're done
-
-Please update the following files:
-
-* w3c.json : make sure group ID and contacts are correct
-* index.html : update the respec config as needed
-* README.md : remove these instructions and update as needed
-* .travis.yml : for automatic publishing, you'll need the [proper group decision email](https://github.com/w3c/echidna/wiki/How-to-use-Echidna-with-ReSpec-and-GitHub#working-group-approval) and you'll need to [secure your TOKEN](https://github.com/w3c/echidna/wiki/How-to-use-Echidna-with-ReSpec-and-GitHub#working-group-approval)
+- 15 April 2025: add IDs throughout that match the IDs in WCAG-EM 1.0 to ensure no internal links are broken.
+- 14 April 2025: auto-publish main
