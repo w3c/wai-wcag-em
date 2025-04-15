@@ -1,6 +1,6 @@
 ### Purposes for this Methodology
 
-In many situations it is necessary to evaluate the accessibility of a website, for example before releasing, acquiring, or redesigning the website, and for periodic monitoring of the accessibility performance of a website over time. This methodology is designed for anyone who wants to follow a common approach for evaluating the conformance of websites to WCAG 2.0. This includes:
+In many situations it is necessary to evaluate the accessibility of a website, for example before releasing, acquiring, or redesigning the website, and for periodic monitoring of the accessibility performance of a website over time. This methodology is designed for anyone who wants to follow a common approach for evaluating the conformance of websites to WCAG 2. This includes:
 
 *   Web consultants who want to analyze and report the accessibility conformance of websites, to inform website owners.
 *   Web accessibility evaluation service providers who want to evaluate websites to validate accessibility conformance.
