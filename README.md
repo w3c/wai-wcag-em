@@ -1,3 +1,8 @@
 # 2025 update for WCAG-EM
 
 This repo contains drafts and explorations of a potential 2025 update of WCAG-EM.
+
+## Changelog
+
+- 15 April 2025: add IDs throughout that match the IDs in WCAG-EM 1.0 to ensure no internal links are broken.
+- 14 April 2025: auto-publish main

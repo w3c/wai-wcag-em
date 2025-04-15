@@ -1,4 +1,4 @@
-### Background Reading
+### Background Reading {#reading}
 
 The information below, related to web accessibility essentials, evaluation, and WCAG 2.0 is important for using this methodology. Evaluators using this methodology are expected to be deeply familiar with all the listed resources:
 

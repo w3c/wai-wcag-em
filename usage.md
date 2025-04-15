@@ -2,7 +2,7 @@
 
 This methodology is used for thorough evaluation of websites using WCAG 2.0. Before evaluating an entire website it is usually good to do a preliminary evaluation of different web pages from the target website to identify obvious accessibility barriers and develop an overall understanding of the accessibility of the website. [Easy Checks - A First Review of Web Accessibility](http://www.w3.org/WAI/eval/preliminary) describes such an approach for preliminary evaluation that is complementary to this methodology.
 
-### Required Expertise
+### Required Expertise {#expertise}
 
 Users of this methodology are assumed to have solid understanding of how to evaluate web content using WCAG 2.0, accessible web design, assistive technologies, and of how people with different disabilities use the Web. This includes an understanding of web technologies; accessibility barriers that people with disabilities experience; assistive technologies and adaptive approaches that people with disabilities use; and evaluation techniques, tools, and methods to identify barriers for people with disabilities. In particular, it is assumed that users of this methodology are deeply familiar with all the resources listed in [Background Reading](#reading).
 
@@ -18,7 +18,7 @@ Involving people with disabilities including people with aging-related impairmen
 
 This methodology is independent of any particular web accessibility evaluation tool, web browser, and other software tool. While most accessibility checks are not fully automatable, evaluation tools can significantly assist evaluators during the evaluation process and contribute to more effective evaluation. For example, some web accessibility evaluation tools can scan entire websites to help identify relevant pages for manual evaluation. Tools can also assist during manual (human) evaluation of accessibility checks. [Selecting Web Accessibility Evaluation Tools](http://www.w3.org/WAI/eval/selectingtools) provides further guidance on using tools which is beyond the scope of this document.
 
-## Scope of Applicability
+## Scope of Applicability {#applicability}
 
 This methodology is designed for evaluating full, self-enclosed [websites](#website). That is, for every [web page](#webpage) it is unambiguous whether it is part of the website or not. This includes websites of organizations, entities, persons, events, products, and services.
 
@@ -51,28 +51,31 @@ In the preceding example, if the university website in its entirety is defined a
 
 This methodology is applicable to the broad variety of website types. The following provides considerations for particular situations, noting that websites may combine several aspects. Thus the following list is non-exclusive and non-exhaustive:
 
-Small Websites
-: For websites with few web pages the sampling procedure defined in [Step 3: Select a Representative Sample](#step3) will likely result in selecting most or all of the web pages from the target website. In cases where all web pages can be evaluated, the sampling procedure can be skipped and the selected sample is considered to be the entire website in the remaining steps.
+<dl>
 
-Web Applications
-: Web applications are generally composed of dynamically generated content and functionality (see [web page states](#states)). Web applications tend to be more complex and interactive. Some examples of web applications include webmail clients, document editors, and online shops. Web applications may be part of a larger website but can also constitute a website of their own in the context of this methodology. That is, an individual and separable entity for evaluation.
+<dt>Small Websites</dt>
+<dd>For websites with few web pages the sampling procedure defined in [Step 3: Select a Representative Sample](#step3) will likely result in selecting most or all of the web pages from the target website. In cases where all web pages can be evaluated, the sampling procedure can be skipped and the selected sample is considered to be the entire website in the remaining steps.</dd>
 
-**Note:** Due to the many possibilities of generating content and functionality in web applications it is sometimes not feasible to exhaustively identify every possible web page, web page state, and functionality. Web applications will typically require more time and effort to evaluate, and they will typically need larger web page samples to reflect the different types of content, functionality, and processes.
+<dt>Web Applications</dt>
+<dd>Web applications are generally composed of dynamically generated content and functionality (see [web page states](#states)). Web applications tend to be more complex and interactive. Some examples of web applications include webmail clients, document editors, and online shops. Web applications may be part of a larger website but can also constitute a website of their own in the context of this methodology. That is, an individual and separable entity for evaluation.
 
-Website with Separable Areas
-: In some cases websites may have clearly separable areas where using one area does not require or depend on using another area of the website. For example, an organization might provide an extranet for its employees only that is linked from the public website but is otherwise separate, or it might have sub-sites for individual departments of the organization that are each clearly distinct from one another. Such separable areas can be considered as individual websites each for evaluation. In some cases there may be [common web pages](#common), such as legal notices, that need to be considered as part of each website area.
+**Note:** Due to the many possibilities of generating content and functionality in web applications it is sometimes not feasible to exhaustively identify every possible web page, web page state, and functionality. Web applications will typically require more time and effort to evaluate, and they will typically need larger web page samples to reflect the different types of content, functionality, and processes.</dd>
 
-**Note:** Some websites provide additional or different content and functionality depending on the user (typically after a log-in). This additional content and functionality is generally part of the essential purpose and functionality of the website and is thus not considered to be a separable website area.
+<dt id="separable">Website with Separable Areas</dt>
+<dd>In some cases websites may have clearly separable areas where using one area does not require or depend on using another area of the website. For example, an organization might provide an extranet for its employees only that is linked from the public website but is otherwise separate, or it might have sub-sites for individual departments of the organization that are each clearly distinct from one another. Such separable areas can be considered as individual websites each for evaluation. In some cases there may be [common web pages](#common), such as legal notices, that need to be considered as part of each website area.</dd>
 
-Website in Multiple Versions
-: Some websites are available in multiple versions that are independent of one another in use, that is, using one version does not require or depend on using another version of the website. For example, a website may have a mobile version and there may be versions of a website in different languages that meet this characteristic. Usually each such website version has a different set of URIs. Such website versions can be considered as individual websites for evaluation.
+**Note:** Some websites provide additional or different content and functionality depending on the user (typically after a log-in). This additional content and functionality is generally part of the essential purpose and functionality of the website and is thus not considered to be a separable website area.</dd>
 
-**Note:** Websites using responsive design techniques (i.e. adapting the presentation according to user hardware, software, and preferences) as opposed to redirecting the user to a different location are not considered to be independent website versions.
+<dt>Website in Multiple Versions</dt>
+<dd>Some websites are available in multiple versions that are independent of one another in use, that is, using one version does not require or depend on using another version of the website. For example, a website may have a mobile version and there may be versions of a website in different languages that meet this characteristic. Usually each such website version has a different set of URIs. Such website versions can be considered as individual websites for evaluation.
 
-Website Using Responsive Design
-: Responsive design techniques adjust the order, flow, and sometimes behavior of the content to best suit the device on which it is used. For example, to adjust the content and functionality according to the size of the viewport, screen resolution, orientation of the screen, and other aspects of a mobile device and the context in which it is being used. In this methodology such changes to the content, functionality, appearance, and behavior are not considered to be independent website versions but rather [web page states](#states) that need to be included in the evaluation scope.
+**Note:** Websites using responsive design techniques (i.e. adapting the presentation according to user hardware, software, and preferences) as opposed to redirecting the user to a different location are not considered to be independent website versions.</dd>
 
-**Note:** Considerations for mobile devices, operating systems, and assistive technologies need to be taken for websites using responsive design techniques, in particular during [Step 1.c: Define an Accessibility Support Baseline](#step1c).
+<dt>Website Using Responsive Design</dt>
+<dd>Responsive design techniques adjust the order, flow, and sometimes behavior of the content to best suit the device on which it is used. For example, to adjust the content and functionality according to the size of the viewport, screen resolution, orientation of the screen, and other aspects of a mobile device and the context in which it is being used. In this methodology such changes to the content, functionality, appearance, and behavior are not considered to be independent website versions but rather [web page states](#states) that need to be included in the evaluation scope.
+
+**Note:** Considerations for mobile devices, operating systems, and assistive technologies need to be taken for websites using responsive design techniques, in particular during [Step 1.c: Define an Accessibility Support Baseline](#step1c).</dd>
+</dl
 
 ### Particular Evaluation Contexts
 
