@@ -1,10 +1,10 @@
 ## Using This Methodology
 
-This methodology is used for thorough evaluation of websites using WCAG 2.0. Before evaluating an entire website it is usually good to do a preliminary evaluation of different web pages from the target website to identify obvious accessibility barriers and develop an overall understanding of the accessibility of the website. [Easy Checks - A First Review of Web Accessibility](http://www.w3.org/WAI/eval/preliminary) describes such an approach for preliminary evaluation that is complementary to this methodology.
+This methodology is used for thorough evaluation of websites using WCAG 2. Before evaluating an entire website it is usually good to do a preliminary evaluation of different web pages from the target website to identify obvious accessibility barriers and develop an overall understanding of the accessibility of the website. [Easy Checks - A First Review of Web Accessibility](http://www.w3.org/WAI/eval/preliminary) describes such an approach for preliminary evaluation that is complementary to this methodology.
 
 ### Required Expertise {#expertise}
 
-Users of this methodology are assumed to have solid understanding of how to evaluate web content using WCAG 2.0, accessible web design, assistive technologies, and of how people with different disabilities use the Web. This includes an understanding of web technologies; accessibility barriers that people with disabilities experience; assistive technologies and adaptive approaches that people with disabilities use; and evaluation techniques, tools, and methods to identify barriers for people with disabilities. In particular, it is assumed that users of this methodology are deeply familiar with all the resources listed in [Background Reading](#reading).
+Users of this methodology are assumed to have solid understanding of how to evaluate web content using WCAG 2, accessible web design, assistive technologies, and of how people with different disabilities use the Web. This includes an understanding of web technologies; accessibility barriers that people with disabilities experience; assistive technologies and adaptive approaches that people with disabilities use; and evaluation techniques, tools, and methods to identify barriers for people with disabilities. In particular, it is assumed that users of this methodology are deeply familiar with all the resources listed in [Background Reading](#reading).
 
 ### Combined Expertise (Optional)
 

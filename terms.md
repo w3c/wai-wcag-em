@@ -4,11 +4,11 @@ For the purposes of this document, the following terms and definitions apply:
 
 <dl>
 <dt id="complete">Complete processes</dt>
-<dd>From <a href="http://www.w3.org/TR/WCAG20/#cc3">WCAG 2.0 Conformance Requirement for Complete Processes</a>:<blockquote>  
-When a web page is one of a series of web pages presenting a process (i.e., a sequence of steps that need to be completed in order to accomplish an activity), all web pages in the process conform at the specified level or better. (Conformance is not possible at a particular level if any page in the process does not conform at that level or better.)</blockquote></dd>
+<dd>From <a href="https://www.w3.org/TR/WCAG22/#cc3">WCAG 2.2 Conformance Requirement for Complete Processes</a>:<blockquote>  
+When a Web page is one of a series of Web pages presenting a process (i.e., a sequence of steps that need to be completed in order to accomplish an activity), all Web pages in the process conform at the specified level or better. (Conformance is not possible at a particular level if any page in the process does not conform at that level or better.)</blockquote></dd>
 
 <dt id="conformance">Conformance</dt>
-<dd>From <a href="http://www.w3.org/TR/WCAG/#conformancedef">WCAG 2.0 definition for "conformance"</a>:  
+<dd>From <a href="https://www.w3.org/TR/WCAG/#dfn-conform">WCAG 2.2 definition for "conformance"</a>:  
 <blockquote>Satisfying all the requirements of a given standard, guideline or specification.</blockquote></dd>
 
 <dt id="common">Common web pages</dt>
@@ -33,7 +33,7 @@ When a web page is one of a series of web pages presenting a process (i.e., a se
 
 <dt id="relied">Relied upon (Technologies)</dt>
 
-<dd>From <a href="http://www.w3.org/TR/WCAG20/#reliedupondef">WCAG 2.0 definition for "relied upon"</a>:  
+<dd>From <a href="https://www.w3.org/TR/WCAG22/#dfn-reliedupon">WCAG 2.2 definition for "relied upon"</a>:  
 <blockquote>The content would not conform if that technology is turned off or is not supported.</blockquote></dd>
 
 <dt id="template">Templates</dt>
@@ -53,7 +53,7 @@ When a web page is one of a series of web pages presenting a process (i.e., a se
 <dd>The person, team of people, organization, in-house department, or other entity that is responsible for the website.</dd>
 
 <dt id="webpage">Web page</dt>
-<dd>From <a href="http://www.w3.org/TR/WCAG20/#webpagedef">WCAG 2.0 definition for "web page"</a>:  
+<dd>From <a href="https://www.w3.org/TR/WCAG22/#dfn-webpage">WCAG 2.2 definition for "web page"</a>:  
 <blockquote>A non-embedded resource obtained from a single URI using HTTP plus any other resources that are used in the rendering or intended to be rendered together with it by a user agent.</blockquote>
 
 **Note:** Web pages may include multimedia content, interactive components, and rich and mobile web applications. Web pages are not limited to HTML and can be PDF documents and any other format.</dd>
