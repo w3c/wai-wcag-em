@@ -39,6 +39,13 @@ var respecConfig = {
 			companyURI: "https://www.logius.nl",
 			w3cid: 72541,
 		},
+		{
+			name: "Steve Faulkner",
+			mailto: "sfaulkner@tetralogical.com",
+			company: "Tetralogical",
+			companyURI: "https://tetralogical.com/",
+			w3cid: 35007
+		}
 	],
 	
 	formerEditors: [
