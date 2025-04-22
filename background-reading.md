@@ -13,7 +13,7 @@ The following documents introduce the essential components of web accessibility 
 
 These are particularly important resources that outline different approaches for evaluating websites for accessibility:
 
-* [Easy Checks - A First Review of Web Accessibility](http://www.w3.org/WAI/eval/preliminary)
+* [Easy Checks - A First Review of Web Accessibility](https://www.w3.org/WAI/test-evaluate/easy-checks/)
 * [Involving Users in Web Accessibility Evaluation](http://www.w3.org/WAI/eval/users)
 * [Selecting Web Accessibility Evaluation Tools](http://www.w3.org/WAI/eval/selectingtools)
 * [Using Combined Expertise to Evaluate Web Accessibility](http://www.w3.org/WAI/eval/reviewteams)
