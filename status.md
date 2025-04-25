@@ -1,13 +1,21 @@
-This document is a [Working Group Note](http://www.w3.org/Consortium/Process/tr#WGNote). 
+
+This section describes the status of this document at the time of its publication. A list of current W3C publications and the latest revision of this technical report can be found in the [W3C standards and drafts index](https://www.w3.org/TR/) at https://www.w3.org/TR/.
 
 <details>
+<summary>Status details</summary>
+  
+This document is a draft [Working Group Note](http://www.w3.org/Consortium/Process/tr#WGNote). 
+
 It builds on WCAG-EM, which was developed by the [WCAG 2.0 Evaluation Methodology Task Force (Eval TF)](http://www.w3.org/WAI/ER/2011/eval/eval-tf), a joint task force of the [Web Content Accessibility Guidelines Working Group (WCAG WG)](http://www.w3.org/WAI/GL/) and [Evaluation and Repair Tools Working Group (ERT WG)](http://www.w3.org/WAI/ER/). It provides informative guidance on evaluation in accordance with [Web Content Accessibility Guidelines (WCAG) 2.0](http://www.w3.org/WAI/intro/wcag).
 
-As a Working Group Note this content is stable. At the current stage the Working Group does not plan to make further changes. Should the need arise, however, the document could be updated. Comments received on this document will help the Working Group to decide if updates are needed, or will be taken into account should a republication be planned. Please send any comments, including errors identified, to the public mailing list [public-wcag-em-comments@w3.org](mailto:public-wcag-em-comments@w3.org) (publicly visible [mailing list archive](http://lists.w3.org/Archives/Public/public-wcag-em-comments/)). Please include the following in your comments: the location within the document, the suggested change, and the rationale for your comment.
+This document is published by the [Accessibility Guidelines Working Group](https://www.w3.org/groups/wg/ag/) as an Editor's Draft.
 
-This document has been produced as part of the [W3C Web Accessibility Initiative (WAI)](http://www.w3.org/WAI/). The goals of the WCAG WG and ERT WG are discussed in the [WCAG Working Group charter](http://www.w3.org/WAI/GL/2010/06/charter) and the [ERT Working Group charter](http://www.w3.org/WAI/ER/charter4) respectively. WCAG WG and ERT WG are part of the [WAI Technical Activity](http://www.w3.org/WAI/Technical/Activity).
+Publication as an Editor's Draft does not imply endorsement by W3C and its Members.
 
-Publication as a Working Group Note does not imply endorsement by the W3C Membership. This is a draft document and may be updated, replaced or obsoleted by other documents at any time. It is inappropriate to cite this document as other than work in progress.
+This is a draft document and may be updated, replaced, or obsoleted by other documents at any time. It is inappropriate to cite this document as other than work in progress.
 
-This document was produced by two groups operating under the [5 February 2004 W3C Patent Policy](http://www.w3.org/Consortium/Patent-Policy-20040205/). The groups do not expect this document to become a W3C Recommendation. W3C maintains a [public list of any patent disclosures for WCAG WG](http://www.w3.org/2004/01/pp-impl/35422/status) and [public list of any patent disclosures for ERT WG](http://www.w3.org/2004/01/pp-impl/32094/status) made in connection with the deliverables of each group; these pages also include instructions for disclosing a patent. An individual who has actual knowledge of a patent which the individual believes contains [Essential Claim(s)](http://www.w3.org/Consortium/Patent-Policy-20040205/#def-essential) must disclose the information in accordance with [section 6 of the W3C Patent Policy](http://www.w3.org/Consortium/Patent-Policy-20040205/#sec-Disclosure).
+This document was produced by a group operating under the [W3C Patent Policy](https://www.w3.org/policies/patent-policy/). W3C maintains a [public list of any patent disclosures](https://www.w3.org/groups/wg/apa/ipr) made in connection with the deliverables of the group; that page also includes instructions for disclosing a patent. An individual who has actual knowledge of a patent which the individual believes contains [Essential Claim(s)](https://www.w3.org/policies/patent-policy/#def-essential) must disclose the information in accordance with [section 6 of the W3C Patent Policy](https://www.w3.org/policies/patent-policy/#sec-Disclosure).
+
+This document is governed by the [03 November 2023 W3C Process Document](https://www.w3.org/policies/process/20231103/).
+
 </details>
