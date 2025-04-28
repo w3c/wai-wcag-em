@@ -38,7 +38,7 @@ When a Web page is one of a series of Web pages presenting a process (i.e., a se
 
 <dt id="template">Templates</dt>
 
-<dd>From <a href="http://www.w3.org/TR/ATAG20/#def-Template">ATAG 2.0 definition for "templates"</a>:  
+<dd>From <a href="https://www.w3.org/TR/ATAG20/#def-Template">ATAG 2.0 definition for "templates"</a>:  
 <blockquote>Content patterns that are filled in by authors or the authoring tool to produce web content for end users (e.g., document templates, content management templates, presentation themes). Often templates will pre-specify at least some authoring decisions.</blockquote></dd>
 
 <dt id="website">Website</dt>

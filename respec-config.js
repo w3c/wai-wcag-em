@@ -16,7 +16,7 @@ var respecConfig = {
 			key: "Previous Version",
 			data: [
 				{
-					href: "http://www.w3.org/TR/2014/NOTE-WCAG-EM-20140710/",
+					href: "https://www.w3.org/TR/2014/NOTE-WCAG-EM-20140710/",
 				},
 			],
 		},
@@ -61,8 +61,8 @@ var respecConfig = {
 		},
     ],
 	//authors:  [
-	//    { name: "Your Name", url: "http://example.org/",
-	//      company: "Your Company", companyURI: "http://example.com/" },
+	//    { name: "Your Name", url: "https://example.org/",
+	//      company: "Your Company", companyURI: "https://example.com/" },
 	//],
 	
 	/*

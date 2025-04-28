@@ -6,12 +6,12 @@ This methodology is designed for evaluating full, self-enclosed [websites](#webs
 
 Specific examples of websites include:
 
-*   "The public website of Example Org. located at http://www.example.org"
-*   "The intranet website of Example Org. located at http://intranet.example.org"
-*   "The online shop of Example Org. located at http://www.example.org/shop/"
+*   "The public website of Example Org. located at https://www.example.org"
+*   "The intranet website of Example Org. located at https://intranet.example.org"
+*   "The online shop of Example Org. located at https://www.example.org/shop/"
 *   "Release version 1.5.3 of Online Reservations System (ORS) application"
-*   "Mobile version of the Example Org. website located at http://m.example.org"
-*   "Dutch version of the Example Org. website located at http://nl.example.org"
+*   "Mobile version of the Example Org. website located at https://m.example.org"
+*   "Dutch version of the Example Org. website located at https://nl.example.org"
 
 A website can be part of a larger website, such as the online shop in the preceding examples. A website can also be a clearly separable version of the website such as the mobile or Dutch language versions of the website, as shown in the preceding examples. This methodology can be applied to any such determinable website, regardless of whether or not it is part of a larger website. The exact definition of a target website to be evaluated is determined as part of [Step 1.a](#step1a).
 
