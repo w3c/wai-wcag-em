@@ -18,7 +18,7 @@ During this step the overall scope of the evaluation is defined. It is a fundame
 
 During this step the target website (the web pages and states of web pages that are in scope of the evaluation) is defined. This scope of the website is defined according to the terms established in the section [Scope of Applicability](#applicability).
 
-To avoid later mismatches of expectations between the evaluator, evaluation commissioner, and readers of the resulting evaluation report, it is important to define the target website so that it is unambiguous that a web page is within its scope. Using formalizations including [regular expressions](http://en.wikipedia.org/wiki/Regular_expression) and listings of web addresses (URIs) is recommended where possible.
+To avoid later mismatches of expectations between the evaluator, evaluation commissioner, and readers of the resulting evaluation report, it is important to define the target website so that it is unambiguous that a web page is within its scope. Using formalizations including [regular expressions](https://en.wikipedia.org/wiki/Regular_expression) and listings of web addresses (URIs) is recommended where possible.
 
 It is also important to document any particular aspects of the target website to support its identification. This includes:
 
@@ -224,11 +224,11 @@ During this step the evaluator audits (detailed evaluation of) all of the web pa
 
 The five WCAG 2.2 conformance requirements are:
 
-1.  [Conformance Level](http://www.w3.org/TR/WCAG22/#cc1)
-2.  [Full pages](http://www.w3.org/TR/WCAG22/#cc2)
-3.  [Complete processes](http://www.w3.org/TR/WCAG22/#cc3)
-4.  [Only Accessibility-Supported Ways of Using Technologies](http://www.w3.org/TR/WCAG22/#cc4)
-5.  [Non-Interference](http://www.w3.org/TR/WCAG22/#cc5)
+1.  [Conformance Level](https://www.w3.org/TR/WCAG22/#cc1)
+2.  [Full pages](https://www.w3.org/TR/WCAG22/#cc2)
+3.  [Complete processes](https://www.w3.org/TR/WCAG22/#cc3)
+4.  [Only Accessibility-Supported Ways of Using Technologies](https://www.w3.org/TR/WCAG22/#cc4)
+5.  [Non-Interference](https://www.w3.org/TR/WCAG22/#cc5)
 
 Further guidance on evaluating to these conformance requirements is provided in the following sections. The [WCAG 2 Layers of Guidance](https://www.w3.org/TR/WCAG22/#wcag-2-layers-of-guidance) and [Understanding Conformance](https://www.w3.org/WAI/WCAG22/Understanding/conformance) provide more background and guidance on the WCAG 2 conformance requirements, which is beyond the scope of this document.
 
@@ -240,7 +240,7 @@ Further guidance on evaluating to these conformance requirements is provided in 
 
 For each web page and web page state in the sample selected in [Step 3: Select a Representative Sample](#step3) that is not within or the end of a complete process, check its conformance with each of the five WCAG conformance requirements, with the target conformance level defined in [Step 1.b: Define the Conformance Target](#step1b). This includes all components of the web page or web page state without activating any functions, entering any data, or otherwise initiating a process. Such functionality and interaction, including web pages and web page states that are within or the end of a complete process, will be evaluated in the subsequent step.
 
-**Note:** Many web pages and web page states in the sample will have components, such as the header, navigation bars, search form, and others that occur repeatedly. While the requirement is to check [full pages](http://www.w3.org/TR/WCAG22/#cc2), typically these components do not need to be re-evaluated on each occurrence unless they appear or behave differently, or when additional evaluation requirements are defined in [Step 1.d: Define Additional Evaluation Requirements (Optional)](#step1d).
+**Note:** Many web pages and web page states in the sample will have components, such as the header, navigation bars, search form, and others that occur repeatedly. While the requirement is to check [full pages](https://www.w3.org/TR/WCAG22/#cc2), typically these components do not need to be re-evaluated on each occurrence unless they appear or behave differently, or when additional evaluation requirements are defined in [Step 1.d: Define Additional Evaluation Requirements (Optional)](#step1d).
 
 ##### WCAG 2 Success Criteria
 
@@ -258,7 +258,7 @@ Content on a web page or web page state might have alternate versions. For examp
 
 ##### Accessibility Support
 
-Content on a web page or web page state needs to be provided in a way that is _accessibility supported_ (either directly or through an alternate version). For example, the captions for a video need to be provided in a way that they can be displayed to users. The WCAG 2 definition for [accessibility supported](http://www.w3.org/TR/WCAG22/#dfn-accessibility-supported) defines specific requirements for the use of [web content technologies](http://www.w3.org/TR/WCAG22/#dfn-technologies) to qualify as accessibility-supported. [Understanding Accessibility Support Web Technology Uses](https://www.w3.org/WAI/WCAG22/Understanding/conformance#documented-lists) provides further guidance on accessibility support that is beyond the scope of this document. However, WCAG 2 does not define a particular threshold or set of software that a website needs to support for accessibility. The definition of such a baseline depends on several parameters including the purpose, target audience, and language of website. The baseline used to evaluate a particular website is defined in [Step 1.c: Define an Accessibility Support Baseline](#step1c).
+Content on a web page or web page state needs to be provided in a way that is _accessibility supported_ (either directly or through an alternate version). For example, the captions for a video need to be provided in a way that they can be displayed to users. The WCAG 2 definition for [accessibility supported](https://www.w3.org/TR/WCAG22/#dfn-accessibility-supported) defines specific requirements for the use of [web content technologies](https://www.w3.org/TR/WCAG22/#dfn-technologies) to qualify as accessibility-supported. [Understanding Accessibility Support Web Technology Uses](https://www.w3.org/WAI/WCAG22/Understanding/conformance#documented-lists) provides further guidance on accessibility support that is beyond the scope of this document. However, WCAG 2 does not define a particular threshold or set of software that a website needs to support for accessibility. The definition of such a baseline depends on several parameters including the purpose, target audience, and language of website. The baseline used to evaluate a particular website is defined in [Step 1.c: Define an Accessibility Support Baseline](#step1c).
 
 ##### Non-Interference
 
@@ -348,20 +348,20 @@ This recording may apply globally for the entire evaluation, to individual web p
 
 <strong id="req5c">Methodology Requirement 5.c:</strong> Provide a statement describing the outcomes of the conformance evaluation (Optional).
 
-**Reminder:** In the majority of situations, using this methodology alone does not result in [WCAG 2 conformance claims](http://www.w3.org/TR/WCAG22/#conformance-claims) for the target websites; see [Relation to WCAG 2 Conformance Claims](#context) for more background.
+**Reminder:** In the majority of situations, using this methodology alone does not result in [WCAG 2 conformance claims](https://www.w3.org/TR/WCAG22/#conformance-claims) for the target websites; see [Relation to WCAG 2 Conformance Claims](#context) for more background.
 
 Website owners may wish to make public statements about the outcomes from evaluations following this methodology. This can be done when at least every non-optional methodology requirement is satisfied, the conformance target defined in [Step 1.b. Define the Conformance Target](#step1b) is satisfied by all web pages and web page states audited (in [Step 4: Audit the Selected Sample](#step4)), and the website owner commits to ensuring the validity and maintaining the accuracy of the evaluation statement made.
 
 An evaluation statement according to this methodology includes at least the following information:
 
 1.  **Date** of when the evaluation statement was issued;
-2.  **Guidelines title, version and URI:** "Web Content Accessibility Guidelines 2.2 at [http://www.w3.org/TR/WCAG22/](https://www.w3.org/TR/WCAG22/)";
+2.  **Guidelines title, version and URI:** "Web Content Accessibility Guidelines 2.2 at [https://www.w3.org/TR/WCAG22/](https://www.w3.org/TR/WCAG22/)";
 3.  **Conformance level evaluated**: Level A, AA or AAA, as defined in [Step 1.b. Define the Conformance Target](#step1b);
 4.  **Definition of the website** as defined in [Step 1.a: Define the Scope of the Website](#step1a);
 5.  **Web technologies relied upon** as identified in [Step 2.d: Identify Web Technologies Relied Upon](#step2d);
 6.  **Accessibility support baseline** as defined in [Step 1.c: Define an Accessibility Support Baseline](#step1c).
 
-Evaluation statements according to this methodology can also be made when only [partial conformance](http://www.w3.org/TR/WCAG22/#conformance-partial) to WCAG 2 has been achieved. In such cases the evaluation statements also include the following information:
+Evaluation statements according to this methodology can also be made when only [partial conformance](https://www.w3.org/TR/WCAG22/#conformance-partial) to WCAG 2 has been achieved. In such cases the evaluation statements also include the following information:
 
 7.  **Website areas** that do not conform to WCAG 2;
 8.  **Reason for not conforming to WCAG 2:** "third-party content" or "lack of accessibility support for languages".
@@ -376,4 +376,4 @@ While aggregated scores provide a numerical indicator to help communicate progre
 
 <strong id="req5e">Methodology Requirement 5.e:</strong> Provide machine-readable reports of the evaluation results (Optional).
 
-Machine-readable reports facilitate processing the evaluation results by authoring, web accessibility evaluation tools, and quality assurance tools. The [Evaluation and Report Language (EARL)](http://www.w3.org/WAI/intro/earl) is a machine-readable format that was specifically designed for this purpose. It is recommended to use EARL for providing machine-readable reports. See also [Understanding Metadata](https://www.w3.org/WAI/WCAG22/Understanding/understanding-metadata) from WCAG 2 to learn more about uses of metadata, including machine-readable reports, such as EARL.
+Machine-readable reports facilitate processing the evaluation results by authoring, web accessibility evaluation tools, and quality assurance tools. The [Evaluation and Report Language (EARL)](https://www.w3.org/WAI/standards-guidelines/earl/) is a machine-readable format that was specifically designed for this purpose. It is recommended to use EARL for providing machine-readable reports. See also [Understanding Metadata](https://www.w3.org/WAI/WCAG22/Understanding/understanding-metadata) from WCAG 2 to learn more about uses of metadata, including machine-readable reports, such as EARL.

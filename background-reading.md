@@ -6,17 +6,17 @@ The information below, related to web accessibility essentials, evaluation, and 
 
 The following documents introduce the essential components of web accessibility and explain how people with disabilities use the Web. They are critical for understanding the broader context of web accessibility evaluation:
 
-* [Essential Components of Web Accessibility](http://www.w3.org/WAI/intro/components.php)
-* [How People with Disabilities Use the Web](http://www.w3.org/WAI/intro/people-use-web/)
+* [Essential Components of Web Accessibility](https://www.w3.org/WAI/fundamentals/components/)
+* [How People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/)
 
 #### Evaluating Websites for Accessibility
 
 These are particularly important resources that outline different approaches for evaluating websites for accessibility:
 
 * [Easy Checks - A First Review of Web Accessibility](https://www.w3.org/WAI/test-evaluate/easy-checks/)
-* [Involving Users in Web Accessibility Evaluation](http://www.w3.org/WAI/eval/users)
-* [Selecting Web Accessibility Evaluation Tools](http://www.w3.org/WAI/eval/selectingtools)
-* [Using Combined Expertise to Evaluate Web Accessibility](http://www.w3.org/WAI/eval/reviewteams)
+* [Involving Users in Web Accessibility Evaluation](https://www.w3.org/WAI/test-evaluate/involving-users/)
+* [Selecting Web Accessibility Evaluation Tools](https://www.w3.org/WAI/test-evaluate/tools/selecting/)
+* [Using Combined Expertise to Evaluate Web Accessibility](https://www.w3.org/WAI/test-evaluate/combined-expertise/)
 
 #### Web Content Accessibility Guidelines (WCAG) 2
 
