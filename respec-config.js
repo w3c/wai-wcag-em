@@ -75,6 +75,12 @@ var respecConfig = {
 	group: "ag",
 	github: "w3c/wai-wcag-em",
 	
-	maxTocLevel: 4
+	maxTocLevel: 4,
 	
+	postProcess: [
+		() => {
+			// Remove stray <p> elements added by Markdown between dt/dd elements
+			document.querySelectorAll("dl > p:empty").forEach((el) => el.remove());
+		}
+	]
 };
