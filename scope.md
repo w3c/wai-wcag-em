@@ -42,7 +42,7 @@ This methodology is applicable to the broad variety of website types. The follow
 **Note:** Due to the many possibilities of generating content and functionality in web applications it is sometimes not feasible to exhaustively identify every possible web page, web page state, and functionality. Web applications will typically require more time and effort to evaluate, and they will typically need larger web page samples to reflect the different types of content, functionality, and processes.</dd>
 
 <dt id="separable">Website with Separable Areas</dt>
-<dd>In some cases websites may have clearly separable areas where using one area does not require or depend on using another area of the website. For example, an organization might provide an extranet for its employees only that is linked from the public website but is otherwise separate, or it might have sub-sites for individual departments of the organization that are each clearly distinct from one another. Such separable areas can be considered as individual websites each for evaluation. In some cases there may be [common web pages](#common), such as legal notices, that need to be considered as part of each website area.</dd>
+<dd>In some cases websites may have clearly separable areas where using one area does not require or depend on using another area of the website. For example, an organization might provide an extranet for its employees only that is linked from the public website but is otherwise separate, or it might have sub-sites for individual departments of the organization that are each clearly distinct from one another. Such separable areas can be considered as individual websites each for evaluation. In some cases there may be [common web pages](#common), such as legal notices, that need to be considered as part of each website area.
 
 **Note:** Some websites provide additional or different content and functionality depending on the user (typically after a log-in). This additional content and functionality is generally part of the essential purpose and functionality of the website and is thus not considered to be a separable website area.</dd>
 
@@ -55,7 +55,7 @@ This methodology is applicable to the broad variety of website types. The follow
 <dd>Responsive design techniques adjust the order, flow, and sometimes behavior of the content to best suit the device on which it is used. For example, to adjust the content and functionality according to the size of the viewport, screen resolution, orientation of the screen, and other aspects of a mobile device and the context in which it is being used. In this methodology such changes to the content, functionality, appearance, and behavior are not considered to be independent website versions but rather [web page states](#states) that need to be included in the evaluation scope.
 
 **Note:** Considerations for mobile devices, operating systems, and assistive technologies need to be taken for websites using responsive design techniques, in particular during [Step 1.c: Define an Accessibility Support Baseline](#step1c).</dd>
-</dl
+</dl>
 
 ### Particular Evaluation Contexts
 

@@ -1,0 +1,11 @@
+name: PR Spec Validation
+on: pull_request
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout git repository
+        uses: actions/checkout@v4
+      - name: Run spec-prod
+        uses: w3c/spec-prod@v2

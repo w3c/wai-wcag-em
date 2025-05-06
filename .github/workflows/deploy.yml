@@ -17,19 +17,23 @@ jobs:
     steps:
       - name: Checkout git repository
         uses: actions/checkout@v4
-      - name: spec-generator
-        run: |
-          mkdir _site
-          tar cf guidelines.tar *
-          curl https://labs.w3.org/spec-generator/?type=respec -F file=@guidelines.tar -o _site/index.html -f --retry 3
-          cp *.png _site
+      - name: Run spec-prod
+        uses: w3c/spec-prod@v2
+
+  upload:
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Download spec-prod-result artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: spec-prod-result
+          path: _site
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
-        with:
-          path: _site
 
   deploy:
-    needs: build
+    needs: upload
     runs-on: ubuntu-latest
     environment:
       name: github-pages
