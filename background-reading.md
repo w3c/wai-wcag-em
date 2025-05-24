@@ -27,3 +27,13 @@ This is the internationally recognized standard explaining how to make web conte
 * [How to Meet WCAG 2 (Quick Reference)](https://www.w3.org/WAI/WCAG22/quickref/)
 * [Understanding WCAG 2.2](https://www.w3.org/WAI/WCAG22/Understanding/)
 * [Techniques for WCAG 2.2](https://www.w3.org/WAI/WCAG22/Techniques/)
+
+#### ICT Accessibility
+* [Guidance on Applying WCAG 2.2 to Mobile Applications (WCAG2Mobile)](https://www.w3.org/TR/wcag2mobile-22/)
+* [Guidance on Applying WCAG 2 to Non-Web Information and Communications Technologies (WCAG2ICT)](https://www.w3.org/TR/wcag2ict-22/)
+
+#### Other Standards which incorporate WCAG 2 by reference 
+
+*[Section 508 of the Rehabilitation Act](https://www.access-board.gov/ict/)
+*[EN 301 549 (PDF)](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf)
+ 
