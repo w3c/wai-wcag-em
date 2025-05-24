@@ -34,6 +34,6 @@ This is the internationally recognized standard explaining how to make web conte
 
 #### Other Standards which incorporate WCAG 2 by reference 
 
-*[Section 508 of the Rehabilitation Act](https://www.access-board.gov/ict/)
-*[EN 301 549 (PDF)](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf)
+* [Section 508 of the Rehabilitation Act](https://www.access-board.gov/ict/)
+* [EN 301 549 (PDF)](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf)
  
