@@ -16,11 +16,11 @@ For the purposes of this document, the following terms and definitions apply:
 <dd>Artifact that is made to be consumed via electronic means, such as a website, app, kiosk or document.</dd>
 
 <dt id="functionality">Essential functionality</dt>
-<dd>Functionality of a website that, if removed, fundamentally changes the use or purpose of the website for users. This includes information that users of a website refer to and tasks that they carry out to perform this functionality.
+<dd>Functionality of a digital product that, if removed, fundamentally changes the use or purpose of the product for users. This includes information that users of a product refer to and tasks that they carry out to perform this functionality.
 
-**Note:** Examples of essential functionality include "selecting and purchasing a product from the shop area of the website", "completing and submitting a form provided on the website", and "registering for an account on the website".
+**Note:** Examples of essential functionality include “selecting and purchasing an item from an online shop”, “completing and submitting a form provided in an application”, and “registering for an account on the kiosk”.
 
-**Note:** Other functionality is not excluded from the scope of evaluation. The term "essential functionality" is intended to help identify critical web pages and include them among others in an evaluation.</dd>
+**Note:** Other functionality is not excluded from the scope of evaluation. The term “essential functionality” is intended to help identify critical samples and include them among others in an evaluation.</dd>
 
 <dt id="evaluator">Evaluator</dt>
 <dd>The person, team of people, organization, in-house department, or other entity responsible for carrying out the evaluation.</dd>
@@ -28,7 +28,7 @@ For the purposes of this document, the following terms and definitions apply:
 <dt id="commissioner">Evaluation commissioner</dt>
 <dd>The person, team of people, organization, in-house department, or other entity that commissioned the evaluation.
 
-**Note:** In many cases the evaluation commissioner may be the website owner or website developer, in other cases it may be another entity such as a procurer or an accessibility monitoring survey owner.</dd>
+**Note:** In many cases the evaluation commissioner may be the product owner or product developer, in other cases it may be another entity such as a procurer or an accessibility monitoring survey owner.</dd>
 
 <dt id="relied">Relied upon (Technologies)</dt>
 
