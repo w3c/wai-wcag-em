@@ -38,7 +38,7 @@ Part of initiating the evaluation process is to define the target WCAG 2 conform
 
 <strong id="req1c">Methodology Requirement 1.c:</strong> Define the web browser, assistive technologies and other [user agents](https://www.w3.org/TR/WCAG22/#dfn-useragent) for which features provided on the digital product are to be [accessibility supported](https://www.w3.org/TR/WCAG22/#dfn-accessibility-supported).
 
-Particularly for new web technologies it is not always possible to ensure that every accessibility feature provided on a digital product, such as a 'show captions' function in a media player, is supported by every possible combination of operating system, web browser, assistive technology, and other user agents. WCAG 2 does not pre-define which combinations of features and technologies must be supported as this depends on the particular context of the product, including its language, the web technologies that are used to create the content, and the user agents currently available. [Understanding Accessibility Support](https://www.w3.org/WAI/WCAG22/Understanding/conformance#accessibility-support) provides more guidance on the WCAG 2 concept of _accessibility support_.
+Particularly for new technologies it is not always possible to ensure that every accessibility feature provided on a digital product, such as a 'show captions' function in a media player, is supported by every possible combination of operating system, web browser, assistive technology, and other user agents. WCAG 2 does not pre-define which combinations of features and technologies must be supported as this depends on the particular context of the product, including its language, the technologies that are used to create the content, and the user agents currently available. [Understanding Accessibility Support](https://www.w3.org/WAI/WCAG22/Understanding/conformance#accessibility-support) provides more guidance on the WCAG 2 concept of _accessibility support_.
 
 During this step the evaluator determines the minimum set of combinations of operating systems, web browsers, assistive technologies, and other user agents that the product is expected to work with, and that is in-line with the WCAG 2 guidance on accessibility support (linked above). This step is carried out in consultation with the evaluation commissioner to ensure common expectation for the targeted level of accessibility support. The product's owner and product's developer may also have such a list of combinations that the product was designed to support, which could be a starting point for this step. Depending on the purpose of the evaluation such a list may need to be updated, for example to assess how well the product works with more current browsers.
 
@@ -117,9 +117,9 @@ Some examples of different types of samples that evaluators can look for include
 
 #### Step 2.d: Identify Technologies Relied Upon {#step2d}
 
-<strong id="req2d">Methodology Requirement 2.d:</strong> Identify the web technologies [relied upon](#relied) to provide the product.
+<strong id="req2d">Methodology Requirement 2.d:</strong> Identify the technologies [relied upon](#relied) to provide the product.
 
-During this step, the web technologies relied upon for conformance are identified. This includes base web technologies such as HTML and CSS, auxiliary web technologies such as JavaScript and WAI-ARIA, as well as specific web technologies such as SMIL, SVG and PDF. The outcome of this step is a list of technologies that are [relied upon according to WCAG 2](https://www.w3.org/TR/WCAG22/#dfn-relied-upon). This list will be used in the following steps to help select representative samples for evaluation.
+During this step, the technologies relied upon for conformance are identified. This includes base technologies such as HTML and CSS, auxiliary technologies such as JavaScript and WAI-ARIA, as well as specific technologies such as SMIL, SVG and PDF. The outcome of this step is a list of technologies that are [relied upon according to WCAG 2](https://www.w3.org/TR/WCAG22/#dfn-relied-upon). This list will be used in the following steps to help select representative samples for evaluation.
 
 **Note:** Where possible, it is often also useful to identify any content management system, version, and configuration as it may be relevant to explain the evaluation results. Also any libraries and components used to create the product, such as Dojo, jQuery, and others may be relevant. Particularly for web applications, much of the accessibility support is built into libraries and components, and evaluation can become more effective and efficient when these are identified.
 
@@ -169,16 +169,16 @@ The selection carried out during this step relies initially on the exploration c
 
 #### Step 3.a: Include a Structured Sample {#step3a}
 
-<strong id="req3a">Methodology Requirement 3.a:</strong> Select samples that reflect all identified (1) [common samples](#common), (2) [essential functionality](#functionality), (3) types of samples, (4) web technologies relied upon, and (5) other relevant samples.
+<strong id="req3a">Methodology Requirement 3.a:</strong> Select samples that reflect all identified (1) [common samples](#common), (2) [essential functionality](#functionality), (3) types of samples, (4) technologies relied upon, and (5) other relevant samples.
 
 Select a sample that includes:
 
-1.  All common samples that were identified in [Step 2.a: Identify Common Web Pages of the Digital Product](#step2a):
+1.  All common samples that were identified in [Step 2.a: Identify Common Samples of the Digital Product](#step2a):
 2.  All other relevant samples that were identified in [Step 2.e: Identify Other Relevant Samples](#step2e);
 3.  If not already reflected in the previous steps, select additional samples with:
     1.  Content from each essential functionality identified in [Step 2.b: Identify Essential Functionality of the Digital Product](#step2b);
-    2.  Content from the different types of web pages identified in [Step 2.c: Identify the Variety of Sample Types](#step2c);
-    3.  Content provided using the web technologies identified in [Step 2.d: Identify Web Technologies Relied Upon](#step2d).
+    2.  Content from the different types of samples identified in [Step 2.c: Identify the Variety of Sample Types](#step2c);
+    3.  Content provided using the technologies identified in [Step 2.d: Identify Technologies Relied Upon](#step2d).
 
 **Note:** An individual samples may reflect more than one of each of the criteria listed above. For example, a single sample may be representative of a particular design layout, functionality, and technologies used. The purpose of this step is to have representation of the different types of samples, functionality, and technologies that occur on the digital product. Careful selection of these representative instances can significantly reduce the required sample size while maintaining appropriate representation of the entire digital product. The number of required instances of samples depends on the particular aspects of the digital product explained in the previous section, [factors influencing the sample size](#sample).
 
@@ -234,7 +234,7 @@ Further guidance on evaluating to these conformance requirements is provided in 
 
 **Note:** Carrying out this step requires deep understanding of the WCAG 2 conformance requirements and the expertise described in section [Required Expertise](#expertise).
 
-#### Step 4.a: Check All Initial Web Pages {#step4a}
+#### Step 4.a: Check All Initial Samples {#step4a}
 
 <strong id="req4a">Methodology Requirement 4.a:</strong> Check that each sample that is not within or the end of a complete process conforms to each of the five WCAG 2 conformance requirements at the target conformance level.
 
@@ -306,7 +306,7 @@ Documenting the outcomes for each step includes at least the following:
     *   Accessibility support baseline defined in [Step 1.c: Define an Accessibility Support Baseline](#step1c)
     *   Additional requirements, if any, defined in [Step 1.d: Define Additional Evaluation Requirements (Optional)](#step1d)
 *   **Digital Product Exploration**
-    *   Web technologies relied upon identified in [Step 2.d: Identify Web Technologies Relied Upon](#step2d)
+    *   Technologies relied upon identified in [Step 2.d: Identify Technologies Relied Upon](#step2d)
     *   Optional: Common samples identified in [Step 2.a: Identify Common Samples of the Digital Product](#step2a)
     *   Optional: Essential functionality identified in [Step 2.b: Identify Essential Functionality of the Digital Product](#step2b)
     *   Optional: Variety of web page types identified in [Step 2.c: Identify the Variety of Samples](#step2c)
@@ -358,7 +358,7 @@ An evaluation statement according to this methodology includes at least the foll
 2.  **Guidelines title, version and URI:** "Web Content Accessibility Guidelines 2.2 at [https://www.w3.org/TR/WCAG22/](https://www.w3.org/TR/WCAG22/)";
 3.  **Conformance level evaluated**: Level A, AA or AAA, as defined in [Step 1.b. Define the Conformance Target](#step1b);
 4.  **Definition of the Digital Product** as defined in [Step 1.a: Define the Scope of the Digital Product](#step1a);
-5.  **Technologies relied upon** as identified in [Step 2.d: Identify Web Technologies Relied Upon](#step2d);
+5.  **Technologies relied upon** as identified in [Step 2.d: Identify Technologies Relied Upon](#step2d);
 6.  **Accessibility support baseline** as defined in [Step 1.c: Define an Accessibility Support Baseline](#step1c).
 
 Evaluation statements according to this methodology can also be made when only [partial conformance](https://www.w3.org/TR/WCAG22/#conformance-partial) to WCAG 2 has been achieved. In such cases the evaluation statements also include the following information:
