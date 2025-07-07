@@ -54,7 +54,7 @@ When a user interface is one of a series of user interfaces presenting a process
 <dd>The person, team of people, organization, in-house department, or other entity that is responsible for the digital product.</dd>
 
 <dt id="userinterface">User interface</dt>
-<dd>Content and interactive content that is percievable to a user without <a href=""https://www.w3.org/TR/WCAG22/#dfn-change-of-context">changes of context</a></dd>
+<dd>Content and interactive content that is perceivable to a user without <a href=""https://www.w3.org/TR/WCAG22/#dfn-change-of-context">changes of context</a></dd>
 
 <dt id="webpage">Web page</dt>
 <dd>From <a href="https://www.w3.org/TR/WCAG22/#dfn-webpage">WCAG 2.2 definition for "web page"</a>:  
