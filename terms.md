@@ -16,6 +16,9 @@ When a Web page is one of a series of Web pages presenting a process (i.e., a se
 
 **Note:** A definition for [web page states](#states) is provided below.</dd>
 
+<dt id="product">Digital product</dt>
+<dd>@@@, such as websites, apps, kiosks and documents.</dd>
+
 <dt id="functionality">Essential functionality</dt>
 <dd>Functionality of a website that, if removed, fundamentally changes the use or purpose of the website for users. This includes information that users of a website refer to and tasks that they carry out to perform this functionality.
 
