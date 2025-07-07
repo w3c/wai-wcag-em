@@ -3,10 +3,6 @@
 For the purposes of this document, the following terms and definitions apply:
 
 <dl>
-<dt id="complete">Complete processes</dt>
-<dd>From <a href="https://www.w3.org/TR/WCAG22/#cc3">WCAG 2.2 Conformance Requirement for Complete Processes</a>:<blockquote>  
-When a Web page is one of a series of Web pages presenting a process (i.e., a sequence of steps that need to be completed in order to accomplish an activity), all Web pages in the process conform at the specified level or better. (Conformance is not possible at a particular level if any page in the process does not conform at that level or better.)</blockquote></dd>
-
 <dt id="conformance">Conformance</dt>
 <dd>From <a href="https://www.w3.org/TR/WCAG/#dfn-conform">WCAG 2.2 definition for "conformance"</a>:  
 <blockquote>Satisfying all the requirements of a given standard, guideline or specification.</blockquote></dd>
@@ -17,7 +13,7 @@ When a Web page is one of a series of Web pages presenting a process (i.e., a se
 **Note:** A definition for [web page states](#states) is provided below.</dd>
 
 <dt id="product">Digital product</dt>
-<dd>@@@, such as websites, apps, kiosks and documents.</dd>
+<dd>Artifact that is made to be consumed via electronic means, such as a website, app, kiosk or document.</dd>
 
 <dt id="functionality">Essential functionality</dt>
 <dd>Functionality of a website that, if removed, fundamentally changes the use or purpose of the website for users. This includes information that users of a website refer to and tasks that they carry out to perform this functionality.
