@@ -9,9 +9,9 @@ The following documents introduce the essential components of web accessibility 
 * [Essential Components of Web Accessibility](https://www.w3.org/WAI/fundamentals/components/)
 * [How People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/)
 
-#### Evaluating Websites for Accessibility
+#### Evaluating Digital Products for Accessibility
 
-These are particularly important resources that outline different approaches for evaluating websites for accessibility:
+These are particularly important resources that outline different approaches for evaluating digital products for accessibility:
 
 * [Easy Checks - A First Review of Web Accessibility](https://www.w3.org/WAI/test-evaluate/easy-checks/)
 * [Involving Users in Web Accessibility Evaluation](https://www.w3.org/WAI/test-evaluate/involving-users/)
@@ -20,7 +20,7 @@ These are particularly important resources that outline different approaches for
 
 #### Web Content Accessibility Guidelines (WCAG) 2
 
-This is the internationally recognized standard explaining how to make web content more accessible to people with disabilities. The following resources are particularly important for accessibility evaluation of websites:
+This is the internationally recognized standard explaining how to make web content more accessible to people with disabilities. The following resources are particularly important for accessibility evaluation of digital products:
 
 * [WCAG 2 Overview](https://www.w3.org/WAI/standards-guidelines/wcag/)
 * [WCAG 2.2 Technical Specification](https://www.w3.org/TR/WCAG22)
