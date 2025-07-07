@@ -20,7 +20,7 @@ When a user interface is one of a series of user interfaces presenting a process
 <dt id="functionality">Essential functionality</dt>
 <dd>Functionality of a digital product that, if removed, fundamentally changes the use or purpose of the product for users. This includes information that users of a product refer to and tasks that they carry out to perform this functionality.
 
-**Note:** Examples of essential functionality include "selecting and purchasing a product from the shop area of the disgital product", "completing and submitting a form provided in a digital product", and "registering for an account in a digital product".
+**Note:** Examples of essential functionality include "selecting and purchasing a product from the shop area of the digital product", "completing and submitting a form provided in a digital product", and "registering for an account in a digital product".
 
 **Note:** Other functionality is not excluded from the scope of evaluation. The term "essential functionality" is intended to help identify critical user interfaces and include them among others in an evaluation.</dd>
 
