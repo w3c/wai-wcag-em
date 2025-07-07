@@ -17,12 +17,15 @@ When a user interface is one of a series of user interfaces presenting a process
 
 **Note:** A definition for [user interface states](#states) is provided below.</dd>
 
+<dt id="product">Digital product</dt>
+<dd>Artifact that is made to be consumed via electronic means, such as a website, app, kiosk or document.</dd>
+
 <dt id="functionality">Essential functionality</dt>
 <dd>Functionality of a digital product that, if removed, fundamentally changes the use or purpose of the product for users. This includes information that users of a product refer to and tasks that they carry out to perform this functionality.
 
-**Note:** Examples of essential functionality include "selecting and purchasing a product from the shop area of the digital product", "completing and submitting a form provided in a digital product", and "registering for an account in a digital product".
+**Note:** Examples of essential functionality include “selecting and purchasing an item from an online shop”, “completing and submitting a form provided in an application”, and “registering for an account on the kiosk”.
 
-**Note:** Other functionality is not excluded from the scope of evaluation. The term "essential functionality" is intended to help identify critical user interfaces and include them among others in an evaluation.</dd>
+**Note:** Other functionality is not excluded from the scope of evaluation. The term “essential functionality” is intended to help identify critical samples and include them among others in an evaluation.</dd>
 
 <dt id="evaluator">Evaluator</dt>
 <dd>The person, team of people, organization, in-house department, or other entity responsible for carrying out the evaluation.</dd>
@@ -30,12 +33,16 @@ When a user interface is one of a series of user interfaces presenting a process
 <dt id="commissioner">Evaluation commissioner</dt>
 <dd>The person, team of people, organization, in-house department, or other entity that commissioned the evaluation.
 
-**Note:** In many cases the evaluation commissioner may be the owner or developer, in other cases it may be another entity such as a procurer or an accessibility monitoring survey owner.</dd>
+**Note:** In many cases the evaluation commissioner may be the product owner or product developer, in other cases it may be another entity such as a procurer or an accessibility monitoring survey owner.</dd>
 
 <dt id="relied">Relied upon (Technologies)</dt>
 
 <dd>From <a href="https://www.w3.org/TR/WCAG22/#dfn-reliedupon">WCAG 2.2 definition for "relied upon"</a>:  
 <blockquote>The content would not conform if that technology is turned off or is not supported.</blockquote></dd>
+
+<dt id="sample">Sample</dt>
+
+<dd>@@@</dd>
 
 <dt id="template">Templates</dt>
 
