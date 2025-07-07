@@ -144,7 +144,7 @@ Examples of other relevant samples and sample states include those:
 
 During this step the evaluator selects a sample that is representative of the target product to be evaluated. The purpose of this selection is to ensure that the evaluation results reflect the accessibility performance of the digital product with reasonable confidence. In cases where it is feasible to evaluate all pages or views of a digital product, which is highly recommended, this sampling procedure can be skipped and the “selected sample” in the remaining steps of this evaluation process is the entire digital product. In some cases, such as for small websites, this sampling procedure may result in selecting all pages or views states of the website, or all screens of the mobile application.
 
-<p id="sample">The actual size of the sample needed to evaluate a digital product depends on many factors including:</p>
+<p id="samplesize">The actual size of the sample needed to evaluate a digital product depends on many factors including:</p>
 
 *   **Size of the digital product** — products with more pages or views typically require a larger sample to evaluate.
 *   **Age of the digital product** — older digital products tend to have more (often not easy to find) content with different levels of complexity, consistency, and design and development processes, so that a larger sample is typically required to evaluate.
