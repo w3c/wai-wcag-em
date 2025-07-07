@@ -40,10 +40,6 @@ When a user interface is one of a series of user interfaces presenting a process
 <dd>From <a href="https://www.w3.org/TR/WCAG22/#dfn-reliedupon">WCAG 2.2 definition for "relied upon"</a>:  
 <blockquote>The content would not conform if that technology is turned off or is not supported.</blockquote></dd>
 
-<dt id="sample">Sample</dt>
-
-<dd>@@@</dd>
-
 <dt id="template">Templates</dt>
 
 <dd>From <a href="https://www.w3.org/TR/ATAG20/#def-Template">ATAG 2.0 definition for "templates"</a>:  
