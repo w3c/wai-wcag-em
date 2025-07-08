@@ -46,7 +46,7 @@ When a user interface is one of a series of user interfaces presenting a process
 <blockquote>The content would not conform if that technology is turned off or is not supported.</blockquote></dd>
 
 <dt id="sample">Sample</dt>
-<dd>The entirety of a web page, document page, app screen, or a subset of the afromentioned.</dd>
+<dd>The entirety of a web page, document page, app screen, or a subset of the aformentioned.</dd>
 
 <dt id="template">Templates</dt>
 
