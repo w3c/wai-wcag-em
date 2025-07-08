@@ -14,7 +14,7 @@ During this step the overall scope of the evaluation is defined. It is a fundame
 
 #### Step 1.a: Define the Scope of the Product  {#step1a}
 
-<strong id="req1a">Methodology Requirement 1.a:</strong> Define the target [digital product](#product) according to [Scope of Applicability](#applicability), so that for each [user interface](#webpage) it is unambiguous whether it is within the scope of evaluation or not.
+<strong id="req1a">Methodology Requirement 1.a:</strong> Define the target [digital product](#website) according to [Scope of Applicability](#applicability), so that for each [user interface](#webpage) it is unambiguous whether it is within the scope of evaluation or not.
 
 During this step the target product (the samples and states of samples that are in scope of the evaluation) is defined. This scope of the product is defined according to the terms established in the section [Scope of Applicability](#applicability).
 

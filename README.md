@@ -2,6 +2,14 @@
 
 This repo contains drafts and explorations of a potential 2025 update of the 2014 [WCAG-EM](https://www.w3.org/TR/WCAG-EM/).
 
+## Setup
+
+Start a web server from the top-level repository folder and open `index.html`
+
+```bash
+python3 -m http.server 8000 & sleep 2 && open http://localhost:8000
+```
+
 ## Changelog
 
 ### Big picture
