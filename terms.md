@@ -46,7 +46,7 @@ When a user interface is one of a series of user interfaces presenting a process
 <blockquote>The content would not conform if that technology is turned off or is not supported.</blockquote></dd>
 
 <dt id="sample">Sample</dt>
-<dd>The entirety of a web page, document page, app screen, or a subset of the afromentioned.</dd>
+<dd>The entirety of a web page, document page, app screen, or a subset of the aformentioned.</dd>
 
 <dt id="template">Templates</dt>
 
@@ -68,3 +68,4 @@ When a user interface is one of a series of user interfaces presenting a process
 <dd>From <a href="https://www.w3.org/TR/WCAG22/#dfn-webpage">WCAG 2.2 definition for "web page"</a>:  
 <blockquote>A non-embedded resource obtained from a single URI using HTTP plus any other resources that are used in the rendering or intended to be rendered together with it by a user agent.</blockquote></dd>
 </dl>
+
