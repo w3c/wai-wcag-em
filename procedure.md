@@ -190,11 +190,12 @@ A randomly selected sample acts as an indicator to verify that the structured sa
 
 The number of samples to randomly select is **10% of the structured sample** selected through the previous steps. For example, if the structured sample selected for a digital product resulted in 80 samples, then the random sample size is 8 samples. (Note: The size of the structured sample is different than the size of the digital product.)
 
-To perform this selection, randomly select unique samples from the target digital product that are not already part of the structured sample selected through the previous steps. Depending on the type of product and the access that an evaluator has for it there are different techniques that may need to be used for this selection. This may include:
+To perform this selection, randomly select unique samples from the target digital product that are not already part of the structured sample selected through the previous steps. Depending on the type of product and the access that an evaluator has for it there are different techniques that may need to be used for this selection. The evaluator may:
 
-*   Using a tool that will traverse the digital product and propose a list of randomly selected samples;
-*   Using a script that will generate a list of all samples available on a digital product, to select from;
-*   Using server logs, search engines and other creative methods to get to a random sample.
+*   Use a tool that will traverse the digital product and propose a list of randomly selected samples;
+*   Use a script that will generate a list of all samples available on a digital product, to select from;
+*   Manually list all pages, views, or screens in a the digital product and pick items from that list randomly;
+*   Use server logs, crawlers, search engines and other creative methods to get to a random sample.
 
 Document the samples that were randomly selected as these will need to be compared to the remaining structured sample in [Step 4.c: Compare Structured and Random Samples](#step4c).
 
