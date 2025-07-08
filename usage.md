@@ -10,7 +10,7 @@ Users of this methodology are assumed to have solid understanding of how to eval
 
 This methodology can be carried out by an individual evaluator with the skills described in the previous section ([Required Expertise](#expertise)), or a team of evaluators with collective expertise. Using the combined expertise of different evaluators may sometimes be necessary or beneficial when one evaluator alone does not possess all of the required expertise. [Using Combined Expertise to Evaluate Web Accessibility](https://www.w3.org/WAI/test-evaluate/combined-expertise/) provides further guidance on using combined expertise of review teams, which is beyond the scope of this document.
 
-### Involving Users (Optional but *Recommended*)
+### Involving Users (Optional)
 
 Involving people with disabilities including people with aging-related impairments (who are not experienced evaluators or part of a review team) may help identify additional accessibility barriers that are not easily discovered by expert evaluation alone. While not required for using this methodology, it is strongly recommended for evaluators to involve real people with a wide range of abilities during the evaluation process. [Involving Users in Web Accessibility Evaluation](https://www.w3.org/WAI/test-evaluate/involving-users/) provides further guidance on involving users in web accessibility evaluation, which is beyond the scope of this document.
 
