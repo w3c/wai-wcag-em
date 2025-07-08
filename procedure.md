@@ -186,7 +186,7 @@ Select a sample that includes:
 
 <strong id="req3b">Methodology Requirement 3.b:</strong> Select a random sample, and include them for auditing.
 
-A randomly selected sample acts as an indicator to verify that the structured sample selected through the previous steps is sufficiently representative of the content provided on the website. Confidence in the overall evaluation outcome increases when the evaluation results from both selection approaches correlate.
+A randomly selected sample acts as an indicator to verify that the structured sample selected through the previous steps is sufficiently representative of the content provided on the website. This is an important step to improve the confidence in the overall evaluation outcome  when the evaluation results from both selection approaches correlate.
 
 The number of samples to randomly select is **10% of the structured sample** selected through the previous steps. For example, if the structured sample selected for a digital product resulted in 80 samples, then the random sample size is 8 samples. (Note: The size of the structured sample is different than the size of the digital product.)
 
@@ -194,11 +194,11 @@ To perform this selection, randomly select unique samples from the target digita
 
 *   Using a tool that will traverse the digital product and propose a list of randomly selected samples;
 *   Using a script that will generate a list of all samples available on a digital product, to select from;
-*   Using server logs, search engines, blind-folded colleagues, and other creative methods to get to a random sample.
+*   Using server logs, search engines and other creative methods to get to a random sample.
 
 Document the samples that were randomly selected as these will need to be compared to the remaining structured sample in [Step 4.c: Compare Structured and Random Samples](#step4c).
 
-**Note:** While the random sample need not be selected according to strictly scientific criteria, the scope of the selection needs to span the entire scope of the digital product (any samples on the digital product may be selected), and the selection of individual samples does not follow a predictable pattern. Recording the method used to generate the random sample is important for replicability and reliability of the results.
+**Note:** While the random sample need not be selected according to strictly scientific criteria, the scope of the selection needs to span the entire scope of the digital product (any samples on the digital product may be selected), and the selection of individual samples does not follow a predictable pattern. Recording the method used to generate the random sample is crucial for ensuring the reliability and replicability of the findings.
 
 #### Step 3.c: Include Complete Processes {#step3c}
 
