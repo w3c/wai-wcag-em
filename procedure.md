@@ -300,7 +300,7 @@ Documenting the outcomes for each step includes at least the following:
     *   Name of the [evaluator](#evaluator)
     *   Name of the [evaluation commissioner](#commissioner)
     *   Date of the evaluation (completion date or duration period)
-    *   Optional: list of dates, such as the date of the initial report and dates of repeat evaluations (version numbers are recommended).
+    *   Optional: list of dates, such as the date of the initial report and dates of repeat evaluations (version numbers are recommended)
     *   Optional: name of the person, team or organisation responsible for the digital product (this may be different from the evaluation commissioner)
 *   **Evaluation Scope**
     *   Scope of the digital product defined in [Step 1.a: Define the Scope of the Digital Product](#step1a)
