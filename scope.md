@@ -29,6 +29,10 @@ This methodology is applicable to the broad variety of digital products. The fol
 <dd>Web applications are generally composed of dynamically generated content and functionality (see <a href="#states">web page states</a>). Web applications tend to be more complex and interactive. Some examples of web applications include webmail clients, document editors, and online shops. Web applications may be part of a larger website but can also constitute a website of their own in the context of this methodology. That is, an individual and separable entity for evaluation.
 
 <strong>Note:</strong> Due to the many possibilities of generating content and functionality in web applications it is sometimes not feasible to exhaustively identify every possible web page, web page state, and functionality. Web applications will typically require more time and effort to evaluate, and they will typically need larger web page samples to reflect the different types of content, functionality, and processes.</dd>
+
+<dt>Native applications</dt>
+<dd>For native applications, no list of URLs can be generated to base a representative sample on. Instead, samples can be identified with unique screenshots and/or descriptions of the path that lead to the specific sample. In this case, you'll want to ensure <a href="#complete">complete processes</a> are taken into account.</dd>
+
 </dl>
 
 ### Particular Evaluation Contexts
