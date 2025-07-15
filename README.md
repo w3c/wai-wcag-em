@@ -20,6 +20,8 @@ python3 -m http.server 8000 & sleep 2 && open http://localhost:8000
 
 ### All changes
 
+- 14 July 2025: to suggested content of report, add new meta data for “About the evaluation”: list of dates incl mention of repeat evaluation and version numbers; name of person, team or organisation responsible for the product (may be different from the commissioner).
+- 10 July 2025: move background reading and terms into appendices, call terms “Glossary” (to align with WCAG 22 wording). Add method for sampling that can work without web pages, that suggests to manually list all UI. ([cd17e12](https://github.com/w3c/wai-wcag-em/commit/cd17e1283f417efb733e23fa3e1dff595a2587b7))
 - 8 July 2025: simplify introduction, use active verbs, a list for factors and 'target audience' instead of 'purpose', move terms and background reading to end of document ([b3ceab3](https://github.com/w3c/wai-wcag-em/commit/b3ceab3c7fb4508053ef10be8e16e9dbdfa45eba)).
 - 7 July 2025: replace “web pages” mostly with “samples”, websites mostly with “digital products”, and remove “web” from “web technologies” and “web accessibility”([1ab9fea](https://github.com/w3c/wai-wcag-em/commit/1ab9fea91917949122fcb9ed5221d056addb93d5)); define “samples”, “digital products”, “user interface” ([6d6b6d5](https://github.com/w3c/wai-wcag-em/commit/6d6b6d512429e69377e1c7584a79d96b48b589a7)).
 - 25 May 2025: add reading material on ICT Accessibility and standards that incorporate WCAG 2 ([05d6aa4](https://github.com/w3c/wai-wcag-em/commit/05d6aa4bd3a167049a93191658c70836500c104a)).
