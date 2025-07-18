@@ -1,6 +1,6 @@
 ## Scope of Applicability {#applicability}
 
-This methodology is designed for evaluating full, self-enclosed [websites](#website). That is, for every [web page](#webpage) it is unambiguous whether it is part of the website or not. This includes websites of organizations, entities, persons, events, products, and services.
+This methodology is designed for evaluating full, self-enclosed [digital-products](#digital-product). That is, for every [web page](#webpage) it is unambiguous whether it is part of the website or not. This includes websites of organizations, entities, persons, events, products, and services.
 
 ### Examples of Websites
 
