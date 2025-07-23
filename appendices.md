@@ -62,7 +62,7 @@ When a user interface is one of a series of user interfaces presenting a process
 <dt id="developer">Developer</dt>
 <dd>The person, team of people, organization, in-house department, or other entity that is involved in the  development process including but not limited to content authors, designers, front-end developers, back-end programmers, quality assurance testers, and project managers.</dd>
 
-<dt id="website">Digital product</dt>
+<dt id="digital-product">Digital product</dt>
 <dd>A coherent collection of one or more related user interfaces that together provide common use or functionality. It includes Web sites, web apps, e-books, kiosk apps, mobile apps and documents (PDF, Word) etc.
 
 **Note:** The focus of this methodology is on full, self-enclosed digital products. Digital products may be composed of smaller subsets of user interfaces, each of which can be considered to be an individual product. For example, a digital product may include an online shop, an area for each department within the organization, a blog area, and other areas that may each be considered to be a digital product.</dd>
