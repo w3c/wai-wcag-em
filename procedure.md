@@ -203,6 +203,7 @@ Document the samples that were randomly selected as these will need to be compar
 
 #### Step 3.3: Include Complete Processes {#step3c}
 
+
 <strong id="req3c">Methodology Requirement 3.3</strong> Include all samples that are part of a [complete process](#complete) in the selected sample.
 
 The selected sample has to include all pages or views that belong to a series presenting a complete process. When samples belong to a process, all pages or views that belong to that same process have to be included.
