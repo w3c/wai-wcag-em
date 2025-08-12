@@ -127,7 +127,7 @@ During this step, the technologies relied upon for conformance are identified. T
 
 <strong id="req2e">Methodology Requirement 2.5:</strong> Identify other samples that are relevant to people with disabilities and to accessibility of the digital product.
 
-Some digital products include samples and sample states that are specifically relevant for people with disabilities and the accessibility of the digital product. The outcome of this step is a list of such samples and sample states, if they have not already been identified as part of [Step 2.a: Identify Common Samples of the Digital Product](#step2a).
+Some digital products include samples and sample states that are specifically relevant for people with disabilities and the accessibility of the digital product. The outcome of this step is a list of such samples and sample states, if they have not already been identified as part of [Step 2.1: Identify Common Samples of the Digital Product](#step2a).
 
 ##### Examples of Other Relevant Samples
 
@@ -153,9 +153,9 @@ During this step the evaluator selects a sample that is representative of the ta
     *   **How the content is generated** — products with content that is aggregated from different sources or that is processed as it is served (at runtime) typically require larger samples to cover the combinations of content that can be generated;
     *   **How the content is implemented** — products that are available in different versions, are served according to users and their preferences, or adapt to access devices require larger samples to cover these different situations.
 *   **Consistency of the product** — lower consistency requires a larger sample to evaluate; consider the following:
-    *   **Variety of sample types** — products with a broader variety of sample types (see [Step 2.c: Identify the Variety of Sample Types](#step2c)) require larger samples to evaluate;
-    *   **Variety of functionality** — digital products with a broader variety of functionality (see [Step 2.b: Identify Essential Functionality of the Digital Product](#step2b)), in particular different types of applications, require larger samples to evaluate;
-    *   **Variety of technologies** — digital products with a broader variety of technologies in use (see [Step 2.d: Identify Technologies Relied Upon](#step2d)) require larger samples to evaluate;
+    *   **Variety of sample types** — products with a broader variety of sample types (see [Step 2.3: Identify the Variety of Sample Types](#step2c)) require larger samples to evaluate;
+    *   **Variety of functionality** — digital products with a broader variety of functionality (see [Step 2.2: Identify Essential Functionality of the Digital Product](#step2b)), in particular different types of applications, require larger samples to evaluate;
+    *   **Variety of technologies** — digital products with a broader variety of technologies in use (see [Step 2.4: Identify Technologies Relied Upon](#step2d)) require larger samples to evaluate;
     *   **Variety of coding styles** — products with a broader variety of coding styles (typically these are from different scripts that generate the code, templates, and web page authors) require larger samples to evaluate.
 *   **Adherence to development processes** — lower adherence requires a larger sample to evaluate; consider the following:
     *   **Formalization of the process** — products with formalized development and quality assurance processes tend to show more consistency in the coding and quality of the samples so that they typically require smaller samples to evaluate;
@@ -259,7 +259,7 @@ Content on a sample might have alternate versions. For example, video content ma
 
 ##### Accessibility Support
 
-Content on a sample needs to be provided in a way that is _accessibility supported_ (either directly or through an alternate version). For example, the captions for a video need to be provided in a way that they can be displayed to users. The WCAG 2 definition for [accessibility supported](https://www.w3.org/TR/WCAG22/#dfn-accessibility-supported) defines specific requirements for the use of [web content technologies](https://www.w3.org/TR/WCAG22/#dfn-technologies) to qualify as accessibility-supported. [Understanding Accessibility Support Web Technology Uses](https://www.w3.org/WAI/WCAG22/Understanding/conformance#documented-lists) provides further guidance on accessibility support that is beyond the scope of this document. However, WCAG 2 does not define a particular threshold or set of software that a digital product needs to support for accessibility. The definition of such a baseline depends on several parameters including the purpose, target audience, and language of the digital product. The baseline used to evaluate a particular digital product is defined in [Step 1.c: Define an Accessibility Support Baseline](#step1c).
+Content on a sample needs to be provided in a way that is _accessibility supported_ (either directly or through an alternate version). For example, the captions for a video need to be provided in a way that they can be displayed to users. The WCAG 2 definition for [accessibility supported](https://www.w3.org/TR/WCAG22/#dfn-accessibility-supported) defines specific requirements for the use of [web content technologies](https://www.w3.org/TR/WCAG22/#dfn-technologies) to qualify as accessibility-supported. [Understanding Accessibility Support Web Technology Uses](https://www.w3.org/WAI/WCAG22/Understanding/conformance#documented-lists) provides further guidance on accessibility support that is beyond the scope of this document. However, WCAG 2 does not define a particular threshold or set of software that a digital product needs to support for accessibility. The definition of such a baseline depends on several parameters including the purpose, target audience, and language of the digital product. The baseline used to evaluate a particular digital product is defined in [Step 1.3: Define an Accessibility Support Baseline](#step1c).
 
 ##### Non-Interference
 
