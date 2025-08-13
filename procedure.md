@@ -2,7 +2,7 @@
 
 This section describes the stages and activities of an evaluation procedure. The stages are not necessarily sequential. Also the exact sequence of the activities carried out during the evaluation stages depends on the type of digital product, the purpose of the evaluation, and the process used by the evaluator. Some of the activities can overlap or may be carried out in parallel. The following diagram illustrates the iterations between the stages defined in this section:
 
-![Diagram about the iterations between the steps in this methodology. Explanation in the following paragraph.](process.png)
+![Diagram about the iterations between the steps in this methodology. Explanation in the following paragraph.](process.jpg)
 
 The workflow diagram above depicts five sequential steps: 1. Define the evaluation scope; 2. Explore the target digital product; 3. Select a representative sample; 4. Audit the selected sample and 5. Report the findings. Each step has an arrow to the next step, and arrows back to all prior steps. This illustrates how evaluators proceed from one step to the next, and may return to any preceding step in the process as new information is revealed to them during the evaluation process.
 
@@ -44,7 +44,7 @@ During this step the evaluator determines the minimum set of combinations of ope
 
 <p class="note">This initial definition of the baseline does not limit the evaluator from using additional operating systems, web browsers, assistive technologies and other user agents at a later point, for example to evaluate content that was not identified at this early stage of the evaluation process. In this case the baseline is extended with the additional tools that were used.</p>
 
-<p class="note">For some products in closed networks, such as an intranet website, where both the users and the computers used to access the product are known, this baseline may be limited to the operating systems, web browsers and assistive technologies used within this closed network. However, in most cases this baseline is ideally broader to cover the majority of current user agents used by people with disabilities in any applicable particular geographic region and language community.</p>
+<p class="note">For some products in closed networks, such as an intranet product, where both the users and the computers used to access the product are known, this baseline may be limited to the operating systems, web browsers and assistive technologies used within this closed network. However, in most cases this baseline is ideally broader to cover the majority of current user agents used by people with disabilities in any applicable particular geographic region and language community.</p>
 
 #### Step 1.4: Define Additional Evaluation Requirements (Optional)  {#step1d}
 
