@@ -48,7 +48,7 @@ For the purposes of this document, the following terms and definitions apply:
 <dt id="complete">Complete processes</dt>
 <dd> Based on <a href="https://www.w3.org/TR/WCAG22/#cc3">WCAG 2.2 Conformance Requirement for Complete Processes</a>: 
 
-When a <a href="#view">view</a> is one of a series of views presenting a process (i.e., a sequence of steps that need to be completed in order to accomplish an activity), all views in the process conform at the specified level or better. (Conformance is not possible at a particular level if any page in the process does not conform at that level or better.)</dd>
+When a <a href="#view">view</a> is one of a series of views presenting a process (i.e., a sequence of steps that need to be completed in order to accomplish an activity), all views in the process conform at the specified level or better. (Conformance is not possible at a particular level if any view in the process does not conform at that level or better.)</dd>
 
 <dt id="conformance">Conformance</dt>
 <dd>From <a href="https://www.w3.org/TR/WCAG/#dfn-conform">WCAG 2.2 definition for "conformance"</a>:  
