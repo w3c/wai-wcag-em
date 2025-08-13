@@ -65,7 +65,8 @@ When a <a href="#view">view</a> is one of a series of views presenting a process
 <dt id="digital-product">Digital product</dt>
 <dd>A coherent collection of one or more related views that together provide common use or functionality. It includes Web sites, web apps, e-books, kiosk apps, mobile apps and documents (PDF, Word) etc.
 
-**Note:** The focus of this methodology is on full, self-enclosed digital products. Digital products may be composed of smaller subsets of views, each of which can be considered to be an individual product. For example, a digital product may include an online shop, an area for each department within the organization, a blog area, and other areas that may each be considered to be a digital product.</dd>
+<p class="note">
+**Note:** The focus of this methodology is on full, self-enclosed digital products. Digital products may be composed of smaller subsets of views, each of which can be considered to be an individual product. For example, a digital product may include an online shop, an area for each department within the organization, a blog area, and other areas that may each be considered to be a digital product.</p></dd>
 
 <dt id="functionality">Essential functionality</dt>
 <dd>Functionality of a digital product that, if removed, fundamentally changes the use or purpose of the product for users. This includes information that users of a product refer to and tasks that they carry out to perform this functionality.
