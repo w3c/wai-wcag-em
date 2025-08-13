@@ -4,7 +4,7 @@ This section describes the stages and activities of an evaluation procedure. The
 
 <svg aria-label="Diagram about the iterations between the steps in this methodology. Explanation in the following paragraph." width="600" height="650" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" overflow="hidden"><g aria-hidden="true"><rect x="0" y="0" width="600" height="650" fill="#FFFFFF"/><path d="M52 39.3334C52 32.5219 57.5218 27 64.3334 27L504.667 27C511.478 27 517 32.5219 517 39.3334L517 88.6666C517 95.4781 511.478 101 504.667 101L64.3334 101C57.5218 101 52 95.4781 52 88.6666Z" stroke="#042433" stroke-width="2" stroke-miterlimit="8" fill="#47D45A" fill-rule="evenodd"/><text font-family="ADLaM Display,ADLaM Display_MSFontService,sans-serif" font-weight="400" font-size="24" transform="translate(64.7161 73)">STEP 1: Define the evaluation scope</text><path d="M52 164.167C52 157.447 57.4472 152 64.1666 152L504.833 152C511.553 152 517 157.447 517 164.167L517 212.833C517 219.553 511.553 225 504.833 225L64.1666 225C57.4472 225 52 219.553 52 212.833Z" stroke="#042433" stroke-width="2" stroke-miterlimit="8" fill="#78206E" fill-rule="evenodd"/><text fill="#FFFFFF" font-family="ADLaM Display,ADLaM Display_MSFontService,sans-serif" font-weight="400" font-size="24" transform="translate(64.7161 197)">STEP 2: Explore the target product</text><path d="M49 288.334C49 281.522 54.5219 276 61.3336 276L504.666 276C511.478 276 517 281.522 517 288.334L517 337.666C517 344.478 511.478 350 504.666 350L61.3336 350C54.5219 350 49 344.478 49 337.666Z" stroke="#042433" stroke-width="2" stroke-miterlimit="8" fill="#0070C0" fill-rule="evenodd"/><text fill="#FFFFFF" font-family="ADLaM Display,ADLaM Display_MSFontService,sans-serif" font-weight="400" font-size="24" transform="translate(61.7577 322)">STEP 3: Select a representative sample</text><path d="M283 143 288 143 288 101 298 101 298 143 303 143 293 153Z" stroke="#042433" stroke-width="2" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/><path d="M283 267 288 267 288 226 298 226 298 267 303 267 293 277Z" stroke="#042433" stroke-width="2" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/><path d="M52 413.167C52 406.447 57.4472 401 64.1666 401L504.833 401C511.553 401 517 406.447 517 413.167L517 461.833C517 468.553 511.553 474 504.833 474L64.1666 474C57.4472 474 52 468.553 52 461.833Z" stroke="#042433" stroke-width="2" stroke-miterlimit="8" fill="#FFFF00" fill-rule="evenodd"/><text font-family="ADLaM Display,ADLaM Display_MSFontService,sans-serif" font-weight="400" font-size="24" transform="translate(64.716 446)">STEP 4: Review the selected sample</text><path d="M52 537.167C52 530.447 57.4472 525 64.1666 525L504.833 525C511.553 525 517 530.447 517 537.167L517 585.833C517 592.553 511.553 598 504.833 598L64.1666 598C57.4472 598 52 592.553 52 585.833Z" stroke="#042433" stroke-width="2" stroke-miterlimit="8" fill="#C00000" fill-rule="evenodd"/><text fill="#FFFFFF" font-family="ADLaM Display,ADLaM Display_MSFontService,sans-serif" font-weight="400" font-size="24" transform="translate(64.7159 570)">STEP 5: Report the findings</text><path d="M284 514.5 289.25 514.5 289.25 474 299.75 474 299.75 514.5 305 514.5 294.5 525Z" stroke="#042433" stroke-width="2" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/><path d="M284 389.5 289.25 389.5 289.25 350 299.75 350 299.75 389.5 305 389.5 294.5 400Z" stroke="#042433" stroke-width="2" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/><path d="M22 66.5 32.5003 56 43 66.5 37.7501 66.5 37.7501 561.501 43 561.501 32.5003 572 22 561.501 27.2499 561.501 27.2499 66.5Z" stroke="#042433" stroke-width="2" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/></g></svg>
 
-The workflow diagram above depicts five sequential steps: 1. Define the evaluation scope; 2. Explore the target digital product; 3. Select a representative sample; 4. Audit the selected sample and 5. Report the findings. Each step has an arrow to the next step, and arrows back to all prior steps. This illustrates how evaluators proceed from one step to the next, and may return to any preceding step in the process as new information is revealed to them during the evaluation process.
+The workflow diagram above depicts five sequential steps: 1. Define the evaluation scope; 2. Explore the target digital product; 3. Select a representative sample; 4. Evaluate the selected sample and 5. Report the findings. Each step has an arrow to the next step, and arrows back to all prior steps. This illustrates how evaluators proceed from one step to the next, and may return to any preceding step in the process as new information is revealed to them during the evaluation process.
 
 ### Step 1: Define the Evaluation Scope  {#step1}
 
@@ -44,7 +44,7 @@ During this step the evaluator determines the minimum set of combinations of ope
 
 <p class="note">This initial definition of the baseline does not limit the evaluator from using additional operating systems, web browsers, assistive technologies and other user agents at a later point, for example to evaluate content that was not identified at this early stage of the evaluation process. In this case the baseline is extended with the additional tools that were used.</p>
 
-<p class="note">For some products in closed networks, such as an intranet product, where both the users and the computers used to access the product are known, this baseline may be limited to the operating systems, web browsers and assistive technologies used within this closed network. However, in most cases this baseline is ideally broader to cover the majority of current user agents used by people with disabilities in any applicable particular geographic region and language community.</p>
+<p class="note">For some products in closed networks, such as an intranet product, where both the users and the computers used to access the product are known, this baseline may be limited to the operating systems, applications, web browsers and assistive technologies used within this closed network. However, in most cases this baseline is ideally broader to cover the majority of current user agents used by people with disabilities in any applicable particular geographic region and language community.</p>
 
 #### Step 1.4: Define Additional Evaluation Requirements (Optional)  {#step1d}
 
@@ -65,7 +65,7 @@ Such additional evaluation requirements that are agreed on with the evaluator ne
 
 <strong id="req2">Methodology Requirement 2:</strong> Explore the digital product to be evaluated according to [Methodology Requirement 2.1](#req2a), [Methodology Requirement 2.2](#req2b), [Methodology Requirement 2.3](#req2c), [Methodology Requirement 2.4](#req2d), and [Methodology Requirement 2.5](#req2e).
 
-During this step the evaluator explores the target product to be evaluated, to develop an initial understanding of the product and its use, purpose, and functionality. Much of this will not be immediately apparent to evaluators, in particular to those from outside the development team. In some cases it is also not possible to exhaustively identify and list all functionality, types of samples, and technologies used to realize the product and its applications. The initial exploration carried out in this step is typically refined in the later steps [Step 3: Select a Representative Sample](#step3) and [Step 4: Audit the Selected Sample](#step4), as the evaluator learns more about the target product. Involvement of product owners and product developers can help evaluators make their explorations more effective.
+During this step the evaluator explores the target product to be evaluated, to develop an initial understanding of the product and its use, purpose, and functionality. Much of this will not be immediately apparent to evaluators, in particular to those from outside the development team. In some cases it is also not possible to exhaustively identify and list all functionality, types of samples, and technologies used to realize the product and its applications. The initial exploration carried out in this step is typically refined in the later steps [Step 3: Select a Representative Sample](#step3) and [Step 4: Evaluate the Selected Sample](#step4), as the evaluator learns more about the target product. Involvement of product owners and product developers can help evaluators make their explorations more effective.
 
 <p class="note">Carrying out initial cursory checks during this step helps identify samples that are relevant for more detailed evaluation later on. For example, an evaluator may identify samples that seem to be lacking color contrast, document structure, or consistent navigation, and note them down for more detailed evaluation later on.
 
@@ -165,7 +165,7 @@ During this step the evaluator selects a sample that is representative of the ta
 *   **Required level of confidence** — higher confidence in the evaluation results often requires evaluation of a larger sample.
 *   **Availability of prior evaluation findings** — smaller samples may be required when evaluators have access to prior evaluation findings, including test results from manual and automated accessibility testing.
 
-The selection carried out during this step relies initially on the exploration carried out in [Step 2: Explore the Target Product](#step2). The selection is also continually refined during the following [Step 4: Audit the Selected Sample](#step4), as the evaluator learns more about the particular implementation aspects of the target product.
+The selection carried out during this step relies initially on the exploration carried out in [Step 2: Explore the Target Product](#step2). The selection is also continually refined during the following [Step 4: Evaluate the Selected Sample](#step4), as the evaluator learns more about the particular implementation aspects of the target product.
 
 #### Step 3.1: Include a Structured Sample {#step3a}
 
@@ -184,7 +184,7 @@ Select a sample that includes:
 
 #### Step 3.2: Include a Randomly Selected Sample {#step3b}
 
-<strong id="req3b">Methodology Requirement 3.2:</strong> Select a random sample, and include them for auditing.
+<strong id="req3b">Methodology Requirement 3.2:</strong> Select a random sample, and include them for evaluation.
 
 A randomly selected sample acts as an indicator to verify that the structured sample selected through the previous steps is sufficiently representative of the content provided on the website. This is an important step to improve the confidence in the overall evaluation outcome  when the evaluation results from both selection approaches correlate.
 
@@ -218,11 +218,11 @@ Use the following steps to include the necessary samples:
 
 <p class="note">In most cases it is necessary to record and specify the actions needed to proceed from one sample to the next in a sequence to complete a process so that they can be replicated later. An example of such action could be "fill out name and address, and select the 'Submit' button". In most cases the web address (URI will not be sufficient to identify the sample in a complete process. It is also useful to clearly record when samples are part of a process so that evaluators can focus their effort on the relevant changes such as elements that were added, modified, or made visible.</p>
 
-### Step 4: Audit the Selected Sample {#step4}
+### Step 4: Evaluate the Selected Sample {#step4}
 
-<strong id="req4">Methodology Requirement 4:</strong> Audit the selected sample  according to [Methodology Requirement 4.1](#req4a), [Methodology Requirement 4.2](#req4b), and [Methodology Requirement 4.3](#req4c).
+<strong id="req4">Methodology Requirement 4:</strong> Evaluate the selected sample  according to [Methodology Requirement 4.1](#req4a), [Methodology Requirement 4.2](#req4b), and [Methodology Requirement 4.3](#req4c).
 
-During this step the evaluator audits (detailed evaluation of) all of the samples selected in [Step 3: Select a Representative Sample](#step3), and compares the structured sample to the randomly selected sample. The audit is carried out according to the five WCAG 2 [conformance requirements](https://www.w3.org/TR/WCAG22/#conformance-reqs) at the target conformance level defined in [Step 1.2: Define the Conformance Target](#step1b).
+During this step the evaluator, evaluates (in detail) all of the samples selected in [Step 3: Select a Representative Sample](#step3), and compares the structured sample to the randomly selected sample. The evaluation is carried out according to the five WCAG 2 [conformance requirements](https://www.w3.org/TR/WCAG22/#conformance-reqs) at the target conformance level defined in [Step 1.2: Define the Conformance Target](#step1b).
 
 The five WCAG 2.2 conformance requirements are:
 
@@ -292,7 +292,7 @@ While evaluation findings are reported at the end of the process, documenting th
 
 #### Step 5.1: Document the Outcomes of Each Step {#step5a}
 
-<strong id="req5a">Methodology Requirement 5.1:</strong> Document each outcome of the steps defined in [Step 1: Define the Evaluation Scope](#step1), [Step 2: Explore the Target Digital Product](#step2), [Step 3: Select a Representative Sample](#step3), and [Step 4: Audit the Selected Sample](#step4).
+<strong id="req5a">Methodology Requirement 5.1:</strong> Document each outcome of the steps defined in [Step 1: Define the Evaluation Scope](#step1), [Step 2: Explore the Target Digital Product](#step2), [Step 3: Select a Representative Sample](#step3), and [Step 4: Evaluate the Selected Sample](#step4).
 
 Documenting the outcomes for each of the previous steps (including all sub-sections) is essential to ensure transparency of the evaluation process, replicability of the evaluation results, and justification for any statements made based on this evaluation. This **documentation does not need to be public**, the level of confidentiality is usually determined by the evaluation commissioner.
 
@@ -320,20 +320,20 @@ Documenting the outcomes for each step includes at least the following:
     *   Pages or views selected through structured sampling in [Step 3.1: Include a Structured Sample](#step3a)
     *   Randomly selected samples  and selection method used in [Step 3.2: Include a Randomly Selected Sample](#step3b)
     *   Complete processes selected in [Step 3.3: Include Complete Processes](#step3c)
-*   **Sample Audited**
+*   **Sample Evaluated**
     *   Evaluation outcomes from [Step 4.1: Check All Initial Samples](#step4a)
     *   Evaluation outcomes from [Step 4.2: Check All Complete Processes](#step4b)
     *   Evaluation outcomes from [Step 4.3: Compare Structured and Random Samples](#step4c)
 
-<p class="note">Depending on the desired granularity of the report documentation, the outcomes of [Step 4: Audit the Selected Sample](#step4) may be provided for each evaluated sample, or aggregated over the entire sample. Reports should include at least one example for each conformance requirement and WCAG 2 Success Criterion not met. It is also good practice for evaluators to indicate issues that occur repeatedly.</p>
+<p class="note">Depending on the desired granularity of the report documentation, the outcomes of [Step 4: Evaluate the Selected Sample](#step4) may be provided for each evaluated sample, or aggregated over the entire sample. Reports should include at least one example for each conformance requirement and WCAG 2 Success Criterion not met. It is also good practice for evaluators to indicate issues that occur repeatedly.</p>
 
 Reports may also include additional information depending on any additional evaluation requirements defined in [Step 1.4: Define Additional Evaluation Requirements (Optional)](#step1d). For example, an evaluation commissioner may request a report indicating every failure occurrence for every sample, more information about the nature and the causes of the identified failures, or repair suggestions to remedy the failures.
 
 #### Step 5.2: Record the Evaluation Specifics (Optional) {#step5b}
 
-<strong id="req5b">Methodology Requirement 5.2:</strong> Archive the samples audited, and record the evaluation tools, web browsers, assistive technologies, other software, and methods used to audit them (Optional).
+<strong id="req5b">Methodology Requirement 5.2:</strong> Archive the samples evaluated, and record the evaluation tools, web browsers, assistive technologies, other software, and methods used to evaluate them (Optional).
 
-While optional, it is good practice for evaluators to keep record of the evaluation specifics, for example to support conflict resolution in the case of dispute. This includes archiving the samples audited, and recording the evaluation tools, web browsers, assistive technologies, other software, and methods used to audit them. This recording is typically kept internal and not shared by the evaluator unless otherwise agreed on in [Step 1.4: Define Additional Evaluation Requirements (Optional)](#step1d).
+While optional, it is good practice for evaluators to keep record of the evaluation specifics, for example to support conflict resolution in the case of dispute. This includes archiving the samples evaluated, and recording the evaluation tools, web browsers, assistive technologies, other software, and methods used to evaluate them. This recording is typically kept internal and not shared by the evaluator unless otherwise agreed on in [Step 1.4: Define Additional Evaluation Requirements (Optional)](#step1d).
 
 Records of the evaluation specifics could include any of the following:
 
@@ -345,7 +345,7 @@ Records of the evaluation specifics could include any of the following:
 *   Names and versions of the evaluation tools, web browsers and add-ons, assistive technology, and other software used;
 *   The methods, procedures, and techniques used to evaluate conformance to WCAG 2.
 
-<p class="note">This recording may apply globally for the entire evaluation, to individual samples, or to individual checks carried out within the audited samples. A table or grid may be useful to record what was used for the different samples audited.</p>
+<p class="note">This recording may apply globally for the entire evaluation, to individual samples, or to individual checks carried out within the evaluated samples. A table or grid may be useful to record what was used for the different samples evaluated.</p>
 
 <p class="note">Records of the evaluation specifics may include sensitive information such as internal code, passwords, and copies of data. They may need particular security and privacy precautions.</p>
 
@@ -355,7 +355,7 @@ Records of the evaluation specifics could include any of the following:
 
 **Reminder:** In the majority of situations, using this methodology alone does not result in [WCAG 2 conformance claims](https://www.w3.org/TR/WCAG22/#conformance-claims) for the target digital product; see [Relation to WCAG 2 Conformance Claims](#context) for more background.
 
-Product owners may wish to make public statements about the outcomes from evaluations following this methodology. This can be done when at least every non-optional methodology requirement is satisfied, the conformance target defined in [Step 1.2. Define the Conformance Target](#step1b) is satisfied by all samples audited (in [Step 4: Audit the Selected Sample](#step4)), and the product owner commits to ensuring the validity and maintaining the accuracy of the evaluation statement made.
+Product owners may wish to make public statements about the outcomes from evaluations following this methodology. This can be done when at least every non-optional methodology requirement is satisfied, the conformance target defined in [Step 1.2. Define the Conformance Target](#step1b) is satisfied by all samples evaluated (in [Step 4: Evaluate the Selected Sample](#step4)), and the product owner commits to ensuring the validity and maintaining the accuracy of the evaluation statement made.
 
 An evaluation statement according to this methodology includes at least the following information:
 
