@@ -14,7 +14,7 @@ During this step the overall scope of the evaluation is defined. It is a fundame
 
 #### Step 1.1: Define the Scope of the Product  {#step1a}
 
-<strong id="req1a">Methodology Requirement 1.1:</strong> Define the target [digital product](#digital-product) according to [Scope of Applicability](#applicability), so that for each [user interface](#webpage) it is unambiguous whether it is within the scope of evaluation or not.
+<strong id="req1a">Methodology Requirement 1.1:</strong> Define the target [digital product](#digital-product) according to [Scope of Applicability](#applicability), so that for each [view](#view) it is unambiguous whether it is within the scope of evaluation or not.
 
 During this step the target product (the samples and states of samples that are in scope of the evaluation) is defined. This scope of the product is defined according to the terms established in the section [Scope of Applicability](#applicability).
 
@@ -52,7 +52,7 @@ During this step the evaluator determines the minimum set of combinations of ope
 
 An evaluation commissioner may be interested in additional information beyond what is needed to evaluate the extent of conformance of the target product to WCAG 2. For example, an evaluation commissioner might be interested in:
 
-*   Evaluation of additional user interfaces beyond what is needed to form a representative sample from the target digital product;
+*   Evaluation of additional views beyond what is needed to form a representative sample from the target digital product;
 *   Reports of all occurrences of issues rather than representative examples of the types of issues on the target digital product;
 *   Analysis of particular use cases, situations, and user groups for interacting with the target digital product;
 *   Description of possible solutions to the issues encountered beyond the scope of the evaluation;
