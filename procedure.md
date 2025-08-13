@@ -44,7 +44,7 @@ During this step the evaluator determines the minimum set of combinations of ope
 
 <p class="note">This initial definition of the baseline does not limit the evaluator from using additional operating systems, web browsers, assistive technologies and other user agents at a later point, for example to evaluate content that was not identified at this early stage of the evaluation process. In this case the baseline is extended with the additional tools that were used.</p>
 
-<p class="note">For some products in closed networks, such as an intranet website, where both the users and the computers used to access the product are known, this baseline may be limited to the operating systems, web browsers and assistive technologies used within this closed network. However, in most cases this baseline is ideally broader to cover the majority of current user agents used by people with disabilities in any applicable particular geographic region and language community.</p>
+<p class="note">For some products in closed networks, such as an intranet product, where both the users and the computers used to access the product are known, this baseline may be limited to the operating systems, web browsers and assistive technologies used within this closed network. However, in most cases this baseline is ideally broader to cover the majority of current user agents used by people with disabilities in any applicable particular geographic region and language community.</p>
 
 #### Step 1.4: Define Additional Evaluation Requirements (Optional)  {#step1d}
 
