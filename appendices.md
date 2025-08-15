@@ -57,7 +57,7 @@ When a <a href="#view">view</a> is one of a series of views presenting a process
 <dt id="common">Common views</dt>
 <dd>Views and different states that are relevant to the entire digital product. This includes the home, login, and other entry points, and, where applicable, contacts, help, legal information, and similar views that are typically linked from all other views (usually from the header, footer, or navigation menu).
 
-**Note:** A definition for [views](#view) is provided below.</dd>
+<p class="note">A definition for <a href="#view">views</a> is provided below.</p></dd>
 
 <dt id="developer">Developer</dt>
 <dd>The person, team of people, organization, in-house department, or other entity that is involved in the  development process including but not limited to content authors, designers, front-end developers, back-end programmers, quality assurance testers, and project managers.</dd>
@@ -65,15 +65,12 @@ When a <a href="#view">view</a> is one of a series of views presenting a process
 <dt id="digital-product">Digital product</dt>
 <dd>A coherent collection of one or more related views that together provide common use or functionality. It includes Web sites, web apps, e-books, kiosk apps, mobile apps and documents (PDF, Word) etc.
 
-<p class="note">
-**Note:** The focus of this methodology is on full, self-enclosed digital products. Digital products may be composed of smaller subsets of views, each of which can be considered to be an individual product. For example, a digital product may include an online shop, an area for each department within the organization, a blog area, and other areas that may each be considered to be a digital product.</p></dd>
+<p class="note">The focus of this methodology is on full, self-enclosed digital products. Digital products may be composed of smaller subsets of views, each of which can be considered to be an individual product. For example, a digital product may include an online shop, an area for each department within the organization, a blog area, and other areas that may each be considered to be a digital product.</p></dd>
 
 <dt id="functionality">Essential functionality</dt>
 <dd>Functionality of a digital product that, if removed, fundamentally changes the use or purpose of the product for users. This includes information that users of a product refer to and tasks that they carry out to perform this functionality.
-
-**Note:** Examples of essential functionality include “selecting and purchasing an item from an online shop”, “completing and submitting a form provided in an application”, and “registering for an account on the kiosk”.
-
-**Note:** Other functionality is not excluded from the scope of evaluation. The term “essential functionality” is intended to help identify critical samples and include them among others in an evaluation.</dd>
+<p class="note">Examples of essential functionality include “selecting and purchasing an item from an online shop”, “completing and submitting a form provided in an application”, and “registering for an account on the kiosk”.</p>
+<p class="note">Other functionality is not excluded from the scope of evaluation. The term “essential functionality” is intended to help identify critical samples and include them among others in an evaluation.</p></dd>
 
 <dt id="evaluator">Evaluator</dt>
 <dd>The person, team of people, organization, in-house department, or other entity responsible for carrying out the evaluation.</dd>
@@ -81,7 +78,7 @@ When a <a href="#view">view</a> is one of a series of views presenting a process
 <dt id="commissioner">Evaluation commissioner</dt>
 <dd>The person, team of people, organization, in-house department, or other entity that commissioned the evaluation.
 
-**Note:** In many cases the evaluation commissioner may be the product owner or product developer, in other cases it may be another entity such as a procurer or an accessibility monitoring survey owner.</dd>
+<p class="note">In many cases the evaluation commissioner may be the product owner or product developer, in other cases it may be another entity such as a procurer or an accessibility monitoring survey owner.</p></dd>
 
 <dt id="relied">Relied upon (Technologies)</dt>
 
