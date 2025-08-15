@@ -1,6 +1,6 @@
 ## Scope of Applicability {#applicability}
 
-This methodology is designed for evaluating full, self-enclosed [digital products](#digital-product). That is, for every [view](#view) it is unambiguous whether it is part of the digital product or not. This includes digital products of organizations, entities, persons, events, products, and services.
+This methodology is designed for evaluating full, self-enclosed [digital-products](#digital-product). That is, for every [view](#view) it is unambiguous whether it is part of the website or not. This includes websites of organizations, entities, persons, events, products, and services.
 
 The exact definition of a target digital product to be evaluated is determined as part of [Step 1.a](#step1a).
 
