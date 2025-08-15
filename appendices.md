@@ -55,7 +55,7 @@ When a <a href="#view">view</a> is one of a series of views presenting a process
 <blockquote>Satisfying all the requirements of a given standard, guideline or specification.</blockquote></dd>
 
 <dt id="common">Common views</dt>
-<dd>Views and different states that are relevant to the entire digital product. This includes the home, login, and other entry points, and, where applicable, contacts, help, legal information, and similar views that are typically linked from all other views (usually from the header, footer, or navigation menu).
+<dd>Views that are relevant to the entire digital product. This includes the home, login, and other entry points, and, where applicable, contacts, help, legal information, and similar views that are typically linked from all other views (usually from the header, footer, or navigation menu).
 
 <p class="note">A definition for <a href="#view">views</a> is provided below.</p></dd>
 
