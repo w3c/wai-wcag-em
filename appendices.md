@@ -86,7 +86,11 @@ When a <a href="#view">view</a> is one of a series of views presenting a process
 <blockquote>The content would not conform if that technology is turned off or is not supported.</blockquote></dd>
 
 <dt id="sample">Sample</dt>
-<dd>The entirety of a web page, document page, app screen, or a subset of the aformentioned.</dd>
+<dd><a href="#view">View</a> that is included in the <a href="#sampleset">sample set</a>.</dd>
+
+<dt id="sampleset">Sample set</dt>
+<dd>List of <a href="#sample">samples</a> selected for evaluations.</dd>
+
 
 <dt id="template">Templates</dt>
 
