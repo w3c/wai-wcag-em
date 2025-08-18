@@ -21,13 +21,13 @@ This methodology is applicable to a broad variety of digital products. The follo
 <dl>
 
 <dt>Websites</dt>
-<dd>Websites exist in many sizes, anywhere from just the one page to collections of thousands or more. Websites with many pages can use the <a href="#step3">sampling procedure</a> to select a representative sample. On websites with a few pages, all pages can be evaluated and the <a href="#step3">sampling procedure</a> can be skipped. </dd>
+<dd>Websites exist in many sizes, anywhere from just the one page to collections of thousands or more. Websites with many pages can use the <a href="#step3">sampling procedure</a> to select a representative <a href="#sampleset">sample set</a>. On websites with a few pages, all pages can be evaluated and the <a href="#step3">sampling procedure</a> can be skipped. </dd>
 
 <dt>Web applications</dt>
-<dd>Web applications generally contain a lot of dynamically generated content and functionality. They tend to be more complex and interactive. Therefore, they typically require more time and effort to evaluate, and will typically need a larger sample set. Some examples of web applications include web-based email clients, document editors, video sharing platforms, social media sites and booking platforms.
+<dd>Web applications generally contain a lot of dynamically generated content and functionality. They tend to be more complex and interactive. Therefore, they typically require more time and effort to evaluate, and will typically need a larger <a href="#sampleset">sample set</a>. Some examples of web applications include web-based email clients, document editors, video sharing platforms, social media sites and booking platforms.
 
 <dt>Native applications</dt>
-<dd>For native applications, no list of URLs can be generated to base a representative sample on. Instead, samples can be identified with unique screenshots and/or descriptions of the path that lead to the specific sample.</dd>
+<dd>For native applications, no list of URLs can be generated to base a representative <a href="#sampleset">sample set</a> on. Instead, samples can be identified with unique screenshots and/or descriptions of the path that lead to the specific <a href="#sample">sample</a>.</dd>
 
 <dt>Kiosks</dt>
 <dd>TBD</dd>
@@ -55,7 +55,7 @@ This methodology can be applied in different situations and contexts. The follow
 <dd>While this methodology has been primarily designed for reviewing digital products that are already developed, it is critical to evaluate accessibility throughout the design and implementation stages of a digital product to ensure its conformance. The guidance provided in this methodology can be useful during these earlier stages of the design and development process, though some adaptation may be needed. However, it is important to be aware that evaluations carried out during these earlier stages can quickly become obsolete by implementing even minor changes. Consequently evaluations carried out during these stages should not be used for making statements nor conformance claims about the finalized digital product.</dd>
 
 <dt>Evaluating Composite Digital Products</dt>
-<dd>When evaluating digital products with <a href="#separable">separable areas</a>, such as an e-commerce section, blog section, or other sub-sites, it can be useful to first evaluate each area separately according to this methodology, followed by an overall evaluation with samples from each product area and any common views. This would ensure more complete coverage of the digital product in its entirety as well as provide insights about how each area performed, which may differ from one area to another.</dd>
+<dd>When evaluating digital products with <a href="#separable">separable areas</a>, such as an e-commerce section, blog section, or other sub-sites, it can be useful to first evaluate each area separately according to this methodology, followed by an overall evaluation with <a href="#sample">samples</a> from each product area and any common <a href="#view">views</a>. This would ensure more complete coverage of the digital product in its entirety as well as provide insights about how each area performed, which may differ from one area to another.</dd>
 
 <dt>Evaluating Aggregated Digital Products</dt>
 <dd>Digital products that are generated using content that is combined from different sources, such as portals with portlets, are usually much more challenging to evaluate because of the many different content instances that can be generated. Generally it is not possible to evaluate the content from their sources separately, but rather as displayed to the users when they are combined.</dd>
@@ -66,10 +66,10 @@ This methodology can be applied in different situations and contexts. The follow
 <dt>Re-Running Product Evaluation</dt>
 <dd>Evaluation, according to this methodology, may be re-run after a short period; for example, when issues are identified and repaired by the product's owner or developer, or periodically to monitor progress. In such cases the evaluation can be carried out using a sample that includes:
 
-* A sub-set of the samples that were used in the preceding evaluation to facilitate comparability between the results;
-* A replaced sub-set of samples from those that were used in the preceding evaluation to improve view coverage;
+* A sub-set of the <a href="#sample">samples</a> that were used in the preceding evaluation to facilitate comparability between the results;
+* A replaced sub-set of <a href="#sample">samples</a> from those that were used in the preceding evaluation to improve view coverage;
 
-Unless significant changes were made to the digital product, there is usually no need to change the size of the selected sample nor the approach used for sampling. The amount of replaced samples in a fresh sample set is typically about half of the initial sample set, though this could be increased when views of a digital product mostly conform to WCAG 2.</dd>
+Unless significant changes were made to the digital product, there is usually no need to change the size of the selected sample nor the approach used for sampling. The amount of replaced <a href="#sample">samples</a> in a fresh <a href="#sampleset">sample set</a> is typically about half of the initial <a href="#sampleset">sample set</a>, though this could be increased when views of a digital product mostly conform to WCAG 2.</dd>
 
 <dt>Large-Scale Evaluation</dt>
 <dd>Carrying out mass evaluation of many digital products, for example for national or international surveying, is typically carried out by primarily using automated evaluation tools. Relatively few views undergo full manual inspection. Such evaluations do not usually address the necessary qualitative depth of conformance review per product for which this methodology is designed.</dd>

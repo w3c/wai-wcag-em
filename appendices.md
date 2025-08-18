@@ -2,18 +2,18 @@
 
 ### Background reading {#reading}
 
-The information below, related to accessibility essentials, evaluation, and WCAG 2 is important for using this methodology. Evaluators using this methodology are expected to be deeply familiar with all the listed resources:
+The information below, related to accessibility essentials, evaluation, and WCAG 2 is important to use this methodology. Evaluators who use this methodology are expected to be deeply familiar with all of the listed resources.
 
 #### Web Accessibility Essentials
 
-The following documents introduce the essential components of accessibility and explain how people with disabilities use the Web. They are critical for understanding the broader context of accessibility evaluation:
+The following documents introduce the essential components of accessibility and explain how people with disabilities use the Web. They are critical to understand the broader context of accessibility evaluation:
 
 * [Essential Components of Web Accessibility](https://www.w3.org/WAI/fundamentals/components/)
 * [How People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/)
 
 #### Evaluating Digital Products for Accessibility
 
-These are particularly important resources that outline different approaches for evaluating digital products for accessibility:
+These are particularly important resources that outline different approaches to evaluate digital products for accessibility:
 
 * [Easy Checks - A First Review of Web Accessibility](https://www.w3.org/WAI/test-evaluate/easy-checks/)
 * [Involving Users in Web Accessibility Evaluation](https://www.w3.org/WAI/test-evaluate/involving-users/)
@@ -22,7 +22,7 @@ These are particularly important resources that outline different approaches for
 
 #### Web Content Accessibility Guidelines (WCAG) 2
 
-This is the internationally recognized standard explaining how to make web content more accessible to people with disabilities. The following resources are particularly important for accessibility evaluation of digital products:
+This is the internationally recognized standard that explains how to make web content more accessible to people with disabilities. The following resources are particularly important for accessibility evaluation of digital products:
 
 * [WCAG 2 Overview](https://www.w3.org/WAI/standards-guidelines/wcag/)
 * [WCAG 2.2 Technical Specification](https://www.w3.org/TR/WCAG22)
