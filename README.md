@@ -20,6 +20,7 @@ python3 -m http.server 8000 & sleep 2 && open http://localhost:8000
 
 ### All changes
 
+- 18 August 2025: use “sample set” and ”sample” consistently throughout and add “sample set” to glossary.
 - 13 August 2025: use WCAG 3 developing definition “view” instead of “user interface” and remove “user interface states” for now.
 - 14 July 2025: to suggested content of report, add new meta data for “About the evaluation”: list of dates incl mention of repeat evaluation and version numbers; name of person, team or organisation responsible for the product (may be different from the commissioner).
 - 10 July 2025: move background reading and terms into appendices, call terms “Glossary” (to align with WCAG 22 wording). Add method for sampling that can work without web pages, that suggests to manually list all UI. ([cd17e12](https://github.com/w3c/wai-wcag-em/commit/cd17e1283f417efb733e23fa3e1dff595a2587b7))
