@@ -302,7 +302,7 @@ Documenting the outcomes for each step includes at least the following:
     *   Name of the [evaluator](#evaluator)
     *   Name of the [evaluation commissioner](#commissioner)
     *   Date of the evaluation (completion date or duration period)
-    *   Optional: version number of the evaluation
+    *   Optional: version number and/or unique identifier of the evaluation
     *   Optional: list of dates, such as the date of the initial report and dates of repeat evaluations
     *   Optional: name of the person, team or organisation responsible for the digital product (this may be different from the evaluation commissioner)
     *   Optional: methodology used for evaluation
