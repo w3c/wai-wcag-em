@@ -305,6 +305,7 @@ Documenting the outcomes for each step includes at least the following:
     *   Optional: version number of the evaluation
     *   Optional: list of dates, such as the date of the initial report and dates of repeat evaluations
     *   Optional: name of the person, team or organisation responsible for the digital product (this may be different from the evaluation commissioner)
+    *   Optional: methodology used for evaluation
 *   **Evaluation Scope**
     *   Scope of the digital product defined in [Step 1.1: Define the Scope of the Digital Product](#step1a)
     *   Conformance target defined in [Step 1.2. Define the Conformance Target](#step1b)
