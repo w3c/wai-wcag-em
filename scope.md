@@ -16,7 +16,9 @@ In the preceding example, if the university website in its entirety is defined a
 
 ### Particular Types of Digital Products
 
-This methodology is applicable to a broad variety of digital products. The following provides considerations for particular situations. Note that in some products, situations overlap; this list non-exclusive and non-exhaustive:
+This methodology is applicable to a broad variety of digital products. The following provides considerations for particular situations. 
+
+<div class="note">This is not an exhaustive list.</div>
 
 <dl>
 
