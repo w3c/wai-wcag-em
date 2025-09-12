@@ -14,12 +14,16 @@ python3 -m http.server 8000 & sleep 2 && open http://localhost:8000
 
 ### Big picture
 
-- Made methodology more widely applicable, by making it less specific, most notably by introducing the terms “digital products” (to refer to websites, apps, kiosks, documents) and “samples” (to refer to items selected for evaluation, like web pages, screens, pages, views).
+- Made methodology more widely applicable, by making it less specific, most notably by introducing the terms “digital products” (to refer to websites, apps, kiosks, documents), “samples” (to refer to items selected for evaluation, like web pages, screens, pages, views) and “sample set” (to refer to the set of all selected samples).
 - Removed all instances of WCAG 2.0 to be either WCAG 2 (where possible) or WCAG 2.2, so that it applies to the latest of WCAG 2.
 - Simplified language where possible.
+  - Removed notion of “separable website areas” to help simplify; if users of WCAG-EM wanted to commission or conduct evaluations that are specifically about a separable area, they could include or exclude areas in scope, with product enclosure guiding and WCAG conformance criteria guiding conformance claims.
+  - Removed notion of “aggregated digital products”, as the complexity it hints at has become much more of a standard practice.
 
 ### All changes
 
+- 12 September 2025: add examples of considerations for when auditing kiosks, self-service terminals, set-top boxes and documents ([#86](https://github.com/w3c/wai-wcag-em/pull/86/files)). The info itself is minimal, but the presence should help communicate that the process can be used widely.
+- 11 September 2025: add “unique identifier” ([d2ad36](https://github.com/w3c/wai-wcag-em/commit/d2ad364e69d7442d1af80f3331e5b56a0c2593f9)) and “methodology” ([ade823](https://github.com/w3c/wai-wcag-em/commit/ade82398a2fa64dca0e6b71aee9e130f7d302d50)) as possible meta data for a report.
 - 18 August 2025: use “sample set” and ”sample” consistently throughout and add “sample set” to glossary.
 - 13 August 2025: use WCAG 3 developing definition “view” instead of “user interface” and remove “user interface states” for now.
 - 14 July 2025: to suggested content of report, add new meta data for “About the evaluation”: list of dates incl mention of repeat evaluation and version numbers; name of person, team or organisation responsible for the product (may be different from the commissioner).
