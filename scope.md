@@ -4,7 +4,7 @@ This methodology is designed to evaluate full, self-enclosed [digital-products](
 
 ### Principle of Product Enclosure
 
-When we define a target product for evaluation, it is essential that we consider all views, states and functionality within the scope of this definition for evaluation. Excluding such parts of a digital product from the scope would likely conflict with the WCAG 2.2 conformance requirements for [full pages](https://www.w3.org/TR/WCAG22/#cc2) and [complete processes](https://www.w3.org/TR/WCAG22/#cc3), or otherwise distort the evaluation results.
+Full product enclosure is essential, meaning that we define the scope to include all views, states and functionality of a digital product, without excluding specific parts. Excluding specific parts of a digital product from the scope would likely conflict with the WCAG 2.2 conformance requirements for [full pages](https://www.w3.org/TR/WCAG22/#cc2) and [complete processes](https://www.w3.org/TR/WCAG22/#cc3), or otherwise distort the evaluation results.
 
 #### Example of Product Enclosure
 
@@ -14,7 +14,7 @@ The preceding diagram shows a university website comprised of distinct areas; "I
 
 In the preceding example, if the university website in its entirety is defined as the target for evaluation, then all of the depicted areas are within the scope of the evaluation. This includes any aggregated and embedded content such as maps of the campus, forms for online payments, and discussion boards, including when such parts originate from third-party sources. If only a specific website area, such as the "Courseware Application", is defined as the target for evaluation then all the parts of this area are within the scope of the evaluation. In this case, the scope of evaluation would include all depicted courses, as well as the individual web pages that are common to all areas of the university. See also the definition for [common views](#common).
 
-### Particular Types of Digital Products
+### Considerations for Particular Types of Digital Products
 
 This methodology is applicable to a broad variety of digital products. The following provides considerations for particular situations. 
 
@@ -31,14 +31,12 @@ This methodology is applicable to a broad variety of digital products. The follo
 <dt>Native applications</dt>
 <dd>For native applications, no list of URLs can be generated to base a representative <a href="#sampleset">sample set</a> on. Instead, samples can be identified with unique screenshots and/or descriptions of the path that lead to the specific <a href="#sample">sample</a>.</dd>
 
-<dt>Kiosks</dt>
-<dd>TBD</dd>
+<dt>Interfaces of kiosks, self-service terminals and set-top box interfaces</dt>
+<dd>When the interface can be tested in a browser, see the considerations for web applications.</dd>
+<dd>When the interface is evaluated while running on a hardware terminal, there is usually no way to generate a list of URLs. Samples can be identified with unique screenshots and/or descriptions of the path that lead to the specific <a href="#sample">sample</a>. When the kiosk interface can be tested in a browser, see the considerations for web applications.</dd>
 
-<dt>Document</dt>
-<dd>TBD</dd>
-
-<dt>Set-top box interfaces</dt>
-<dd>TBD</dd>
+<dt>Documents</dt>
+<dd>When the target of evaluation is a single document, the evaluation is usually scoped to the whole document or specific parts of it, depending on document complexity.</dd>
 </dl>
 
 ### Particular Evaluation Contexts
