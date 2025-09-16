@@ -233,7 +233,7 @@ The five WCAG 2.2 conformance requirements are:
 
 Further guidance on evaluating to these conformance requirements is provided in the following sections. The [WCAG 2 Layers of Guidance](https://www.w3.org/TR/WCAG22/#wcag-2-layers-of-guidance) and [Understanding Conformance](https://www.w3.org/WAI/WCAG22/Understanding/conformance) provide more background and guidance on the WCAG 2 conformance requirements, which is beyond the scope of this document.
 
-<p class="note">Carrying out this step requires deep understanding of the WCAG 2 conformance requirements and the expertise described in section [Required Expertise](#expertise).</p>
+<p class="note">Carrying out this step requires deep understanding of the WCAG 2 conformance requirements and the expertise described in section <a href="#expertise">Required Expertise</a>.</p>
 
 #### Step 4.1: Check All Initial Samples {#step4a}
 
