@@ -372,6 +372,8 @@ Evaluation statements according to this methodology can also be made when only [
 7.  **Digital product areas** that do not conform to WCAG 2;
 8.  **Reason for not conforming to WCAG 2:** "third-party content" or "lack of accessibility support for languages".
 
+<p class="note">Note: it is essential for evaluation statements and accompanying documentation, such as a conformance report, to be itself published in an accessible format.</p>
+
 #### Step 5.4: Provide an Aggregated Score (Optional) {#step5d}
 
 <strong id="req5d">Methodology Requirement 5.4:</strong> Provide an Aggregated score (Optional).
