@@ -28,8 +28,8 @@ This methodology is applicable to a broad variety of digital products. The follo
 <dt>Web applications</dt>
 <dd>Web applications generally contain a lot of dynamically generated content and functionality. They tend to be more complex and interactive. Therefore, they typically require more time and effort to evaluate, and will typically need a larger <a href="#sampleset">sample set</a>. Some examples of web applications include web-based email clients, document editors, video sharing platforms, social media sites and booking platforms.
 
-<dt>Native applications</dt>
-<dd>For native applications, no list of URLs can be generated to base a representative <a href="#sampleset">sample set</a> on. Instead, samples can be identified with unique screenshots and/or descriptions of the path that lead to the specific <a href="#sample">sample</a>.</dd>
+<dt>Native, hybrid and cross-platform applications</dt>
+<dd>For native, hybrid and cross-platform applications, no list of URLs can be generated to base a representative <a href="#sampleset">sample set</a> on. Instead, samples can be identified with unique screenshots and/or descriptions of the path that lead to the specific <a href="#sample">sample</a>.</dd>
 
 <dt>Interfaces of kiosks, self-service terminals and set-top box interfaces</dt>
 <dd>When the interface can be tested in a browser, see the considerations for web applications.</dd>
