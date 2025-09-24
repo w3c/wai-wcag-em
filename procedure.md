@@ -119,12 +119,12 @@ Some examples of different types of samples that evaluators can look for include
 
 <p class="methodology-requirement"><strong id="req2d">Methodology Requirement 2.4:</strong> Identify the technologies <a href="#relied">relied upon</a> to provide the product.</p>
 
-During this step, the technologies relied upon for conformance are identified. This can include technologies such as HTML, CSS, JavaScript, SVG, WAI-ARIA, SVG and PDF,. The outcome of this step is a list of technologies that are [relied upon according to WCAG 2](https://www.w3.org/TR/WCAG22/#dfn-relied-upon). This list will be used in the following steps to help select representative samples for evaluation.
+During this step, the technologies relied upon for conformance are identified. This can include technologies such as HTML, CSS, JavaScript, SVG, WAI-ARIA, and PDF. The outcome of this step is a list of technologies that are [relied upon according to WCAG 2](https://www.w3.org/TR/WCAG22/#dfn-relied-upon). This list will be used in the following steps to help select representative samples for evaluation.
 
 <div class="note">
   <p>It is also encouraged to identify other systems relied on for conformance. For example:</p>
   <ul>
-    <li>content management system(s)</li>
+    <li>authoring tool(s), like content management system(s)</li>
     <li>design system(s)</li>
     <li>front-end frameworks and libraries</li>
     <li>native platforms and/or native programming languages</li>
