@@ -127,9 +127,18 @@ Some examples of different types of samples that evaluators can look for include
 
 <p class="methodology-requirement"><strong id="req2d">Methodology Requirement 2.4:</strong> Identify the technologies <a href="#relied">relied upon</a> to provide the product.</p>
 
-During this step, the technologies relied upon for conformance are identified. This includes base technologies such as HTML and CSS, auxiliary technologies such as JavaScript and WAI-ARIA, as well as specific technologies such as SMIL, SVG and PDF. The outcome of this step is a list of technologies that are [relied upon according to WCAG 2](https://www.w3.org/TR/WCAG22/#dfn-relied-upon). This list will be used in the following steps to help select representative samples for evaluation.
+During this step, the technologies relied upon for conformance are identified. This can include technologies such as HTML, CSS, JavaScript, SVG, WAI-ARIA, and PDF. The outcome of this step is a list of technologies that are [relied upon according to WCAG 2](https://www.w3.org/TR/WCAG22/#dfn-relied-upon). This list will be used in the following steps to help select representative samples for evaluation.
 
-<p class="note">Where possible, it is often also useful to identify any content management system, version, and configuration as it may be relevant to explain the evaluation results. Also any libraries and components used to create the product, such as Dojo, jQuery, and others may be relevant. Particularly for web applications, much of the accessibility support is built into libraries and components, and evaluation can become more effective and efficient when these are identified.</p>
+<div class="note">
+  <p>It is also encouraged to identify other systems relied on for conformance. For example:</p>
+  <ul>
+    <li>authoring tool(s), like content management system(s)</li>
+    <li>design system(s)</li>
+    <li>front-end frameworks and libraries</li>
+    <li>native platforms and/or native programming languages</li>
+  </ul>
+  <p>It is encouraged to be as detailed as possible, for instance, by including version numbers and configuration information. This can make evaluation more efficient.</p> 
+</div>
 
 #### Step 2.5: Identify Other Relevant Samples {#step2e}
 
