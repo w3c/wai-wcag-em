@@ -111,17 +111,17 @@ During this step the evaluator explores the target product to identify the diffe
 
 ##### Examples of Sample Types
 
-Some examples of different types of samples that evaluators can look for include those:
+Some examples of different types of samples that evaluators can look for include:
 
-*   …with varying styles, layout, structure, navigation, interaction, and visual design;
-*   …with varying types of content such as forms, tables, lists, headings, multimedia, and scripting;
-*   …with varying functional components such as date picker, lightbox, slider, and others;
-*   …using varying technologies such as HTML, CSS, JavaScript, WAI-ARIA, PDF, etc.;
-*   …from varying areas of the product (home page, web shop, departments, etc.) including any applications;
-*   …with varying coding styles and created using varying [templates](#template) (if this is known to the evaluator);
-*   …authored by varying people, departments, and other entities (if this is known to the evaluator);
-*   …that change appearance and behavior depending on the user, device, browser, context, and settings;
-*   …with dynamic content, error messages, dialog-boxes, pop-up windows, and other interaction.
+*   varying styles, layout, structure, navigation, interaction, and visual design;
+*   varying types of content such as forms, tables, lists, headings, multimedia, and scripting;
+*   varying functional components such as date picker, lightbox, slider, and others;
+*   using varying technologies such as HTML, CSS, JavaScript, WAI-ARIA, PDF, etc.;
+*   from varying areas of the product (home page, web shop, departments, etc.) including any applications;
+*   with varying coding styles and created using varying [templates](#template) (if this is known to the evaluator);
+*   authored by varying people, departments, and other entities (if this is known to the evaluator);
+*   that change appearance and behavior depending on the user, device, browser, context, and settings;
+*   with dynamic content, error messages, dialog-boxes, pop-up windows, and other interaction.
 
 #### Step 2.4: Identify Technologies Relied Upon {#step2d}
 
@@ -150,10 +150,10 @@ Some digital products include samples that are specifically relevant for people 
 
 Examples of other relevant samples include those:
 
-*   …explaining the accessibility features of the digital product;
-*   …with information and help on the use of the digital product;
-*   …explaining settings, preferences, options, shortcuts, etc.;
-*   …with contact information, directions, and support instructions.
+*   explaining the accessibility features of the digital product;
+*   with information and help on the use of the digital product;
+*   explaining settings, preferences, options, shortcuts, etc.;
+*   with contact information, directions, and support instructions.
 
 ### Step 3: Select a Representative Sample {#step3}
 
