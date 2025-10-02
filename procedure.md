@@ -2,7 +2,50 @@
 
 This section describes the stages and activities of an evaluation procedure. The stages are not necessarily sequential. Also the exact sequence of the activities carried out during the evaluation stages depends on the type of digital product, the purpose of the evaluation, and the process used by the evaluator. Some of the activities can overlap or may be carried out in parallel. The following diagram illustrates the iterations between the stages defined in this section:
 
-<svg aria-label="Diagram about the iterations between the steps in this methodology. Explanation in the following paragraph." width="600" height="650" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" overflow="hidden"><g aria-hidden="true"><rect x="0" y="0" width="600" height="650" fill="#FFFFFF"/><path d="M52 39.3334C52 32.5219 57.5218 27 64.3334 27L504.667 27C511.478 27 517 32.5219 517 39.3334L517 88.6666C517 95.4781 511.478 101 504.667 101L64.3334 101C57.5218 101 52 95.4781 52 88.6666Z" stroke="#042433" stroke-width="2" stroke-miterlimit="8" fill="#47D45A" fill-rule="evenodd"/><text font-family="ADLaM Display,ADLaM Display_MSFontService,sans-serif" font-weight="400" font-size="24" transform="translate(64.7161 73)">STEP 1: Define the evaluation scope</text><path d="M52 164.167C52 157.447 57.4472 152 64.1666 152L504.833 152C511.553 152 517 157.447 517 164.167L517 212.833C517 219.553 511.553 225 504.833 225L64.1666 225C57.4472 225 52 219.553 52 212.833Z" stroke="#042433" stroke-width="2" stroke-miterlimit="8" fill="#78206E" fill-rule="evenodd"/><text fill="#FFFFFF" font-family="ADLaM Display,ADLaM Display_MSFontService,sans-serif" font-weight="400" font-size="24" transform="translate(64.7161 197)">STEP 2: Explore the target product</text><path d="M49 288.334C49 281.522 54.5219 276 61.3336 276L504.666 276C511.478 276 517 281.522 517 288.334L517 337.666C517 344.478 511.478 350 504.666 350L61.3336 350C54.5219 350 49 344.478 49 337.666Z" stroke="#042433" stroke-width="2" stroke-miterlimit="8" fill="#0070C0" fill-rule="evenodd"/><text fill="#FFFFFF" font-family="ADLaM Display,ADLaM Display_MSFontService,sans-serif" font-weight="400" font-size="24" transform="translate(61.7577 322)">STEP 3: Select a representative sample set</text><path d="M283 143 288 143 288 101 298 101 298 143 303 143 293 153Z" stroke="#042433" stroke-width="2" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/><path d="M283 267 288 267 288 226 298 226 298 267 303 267 293 277Z" stroke="#042433" stroke-width="2" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/><path d="M52 413.167C52 406.447 57.4472 401 64.1666 401L504.833 401C511.553 401 517 406.447 517 413.167L517 461.833C517 468.553 511.553 474 504.833 474L64.1666 474C57.4472 474 52 468.553 52 461.833Z" stroke="#042433" stroke-width="2" stroke-miterlimit="8" fill="#FFFF00" fill-rule="evenodd"/><text font-family="ADLaM Display,ADLaM Display_MSFontService,sans-serif" font-weight="400" font-size="24" transform="translate(64.716 446)">STEP 4: Review the selected sample set</text><path d="M52 537.167C52 530.447 57.4472 525 64.1666 525L504.833 525C511.553 525 517 530.447 517 537.167L517 585.833C517 592.553 511.553 598 504.833 598L64.1666 598C57.4472 598 52 592.553 52 585.833Z" stroke="#042433" stroke-width="2" stroke-miterlimit="8" fill="#C00000" fill-rule="evenodd"/><text fill="#FFFFFF" font-family="ADLaM Display,ADLaM Display_MSFontService,sans-serif" font-weight="400" font-size="24" transform="translate(64.7159 570)">STEP 5: Report the findings</text><path d="M284 514.5 289.25 514.5 289.25 474 299.75 474 299.75 514.5 305 514.5 294.5 525Z" stroke="#042433" stroke-width="2" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/><path d="M284 389.5 289.25 389.5 289.25 350 299.75 350 299.75 389.5 305 389.5 294.5 400Z" stroke="#042433" stroke-width="2" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/><path d="M22 66.5 32.5003 56 43 66.5 37.7501 66.5 37.7501 561.501 43 561.501 32.5003 572 22 561.501 27.2499 561.501 27.2499 66.5Z" stroke="#042433" stroke-width="2" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/></g></svg>
+<svg aria-label="Diagram about the iterations between the steps in this methodology. Explanation in the following paragraph." width="400" height="482" style="width: 100%; max-width: 400px;" fill="none">
+  <g clip-path="url(#a)" aria-hidden="true">
+    <path fill="#fff" d="M0 0h400v482H0z"/>
+    <rect width="398" height="48" x="1" y="1" fill="#005A9C" fill-opacity=".1" rx="7"/>
+    <rect width="398" height="48" x="1" y="1" stroke="#005A9C" stroke-width="2" rx="7"/>
+    <path fill="#005A9C" d="M0 0h81v50H0z"/>
+    <text xml:space="preserve" fill="#fff" font-family="Arial" font-size="16" font-weight="bold" letter-spacing="0em" style="white-space:pre"><tspan x="16" y="30.547">Step 1</tspan></text>
+    <text xml:space="preserve" fill="#000" font-family="Arial" font-size="16" letter-spacing="0em" style="white-space:pre"><tspan x="97" y="30.547">Define the evaluation scope</tspan></text>
+    <path fill="#000" d="M29.5 54a1 1 0 1 0-2 0h2Zm-1.707 50.707a1 1 0 0 0 1.414 0l6.364-6.364a1 1 0 0 0-1.414-1.414l-5.657 5.657-5.657-5.657a1 1 0 0 0-1.414 1.414l6.364 6.364ZM28.5 54h-1v50h2V54h-1Z"/>
+    <path fill="#000" d="M53.207 53.293a1 1 0 0 0-1.414 0l-6.364 6.364a1 1 0 0 0 1.414 1.414l5.657-5.657 5.657 5.657a1 1 0 0 0 1.414-1.414l-6.364-6.364ZM51.5 104a1 1 0 0 0 2 0h-2Zm1-50h-1v2h2v-2h-1Zm0 8h-1v4h2v-4h-1Zm0 10h-1v4h2v-4h-1Zm0 10h-1v4h2v-4h-1Zm0 10h-1v4h2v-4h-1Zm0 10h-1v2h2v-2h-1Z" opacity=".5"/>
+    <rect width="398" height="48" x="1" y="109" fill="#005A9C" fill-opacity=".1" rx="7"/>
+    <rect width="398" height="48" x="1" y="109" stroke="#005A9C" stroke-width="2" rx="7"/>
+    <path fill="#005A9C" d="M0 108h81v50H0z"/>
+    <text xml:space="preserve" fill="#fff" font-family="Arial" font-size="16" font-weight="bold" letter-spacing="0em" style="white-space:pre"><tspan x="16" y="138.547">Step 2</tspan></text>
+    <text xml:space="preserve" fill="#000" font-family="Arial" font-size="16" letter-spacing="0em" style="white-space:pre"><tspan x="97" y="138.547">Explore the target product</tspan></text>
+    <path fill="#000" d="M29.5 162a1 1 0 0 0-2 0h2Zm-1.707 50.707a1 1 0 0 0 1.414 0l6.364-6.364a1 1 0 1 0-1.414-1.414l-5.657 5.657-5.657-5.657a1 1 0 1 0-1.414 1.414l6.364 6.364ZM28.5 162h-1v50h2v-50h-1Z"/>
+    <path fill="#000" d="M53.207 161.293a1 1 0 0 0-1.414 0l-6.364 6.364a1 1 0 1 0 1.414 1.414l5.657-5.657 5.657 5.657a1 1 0 1 0 1.414-1.414l-6.364-6.364ZM51.5 212a1 1 0 0 0 2 0h-2Zm1-50h-1v2h2v-2h-1Zm0 8h-1v4h2v-4h-1Zm0 10h-1v4h2v-4h-1Zm0 10h-1v4h2v-4h-1Zm0 10h-1v4h2v-4h-1Zm0 10h-1v2h2v-2h-1Z" opacity=".5"/>
+    <rect width="398" height="48" x="1" y="217" fill="#005A9C" fill-opacity=".1" rx="7"/>
+    <rect width="398" height="48" x="1" y="217" stroke="#005A9C" stroke-width="2" rx="7"/>
+    <path fill="#005A9C" d="M0 216h81v50H0z"/>
+    <text xml:space="preserve" fill="#fff" font-family="Arial" font-size="16" font-weight="bold" letter-spacing="0em" style="white-space:pre"><tspan x="16" y="246.547">Step 3</tspan></text>
+    <text xml:space="preserve" fill="#000" font-family="Arial" font-size="16" letter-spacing="0em" style="white-space:pre"><tspan x="97" y="246.547">Select a representative sample set</tspan></text>
+    <path fill="#000" d="M29.5 270a1 1 0 0 0-2 0h2Zm-1.707 50.707a1 1 0 0 0 1.414 0l6.364-6.364a1 1 0 1 0-1.414-1.414l-5.657 5.657-5.657-5.657a1 1 0 1 0-1.414 1.414l6.364 6.364ZM28.5 270h-1v50h2v-50h-1Z"/>
+    <path fill="#000" d="M53.207 269.293a1 1 0 0 0-1.414 0l-6.364 6.364a1 1 0 1 0 1.414 1.414l5.657-5.657 5.657 5.657a1 1 0 1 0 1.414-1.414l-6.364-6.364ZM51.5 320a1 1 0 0 0 2 0h-2Zm1-50h-1v2h2v-2h-1Zm0 8h-1v4h2v-4h-1Zm0 10h-1v4h2v-4h-1Zm0 10h-1v4h2v-4h-1Zm0 10h-1v4h2v-4h-1Zm0 10h-1v2h2v-2h-1Z" opacity=".5"/>
+    <rect width="398" height="48" x="1" y="325" fill="#005A9C" fill-opacity=".1" rx="7"/>
+    <rect width="398" height="48" x="1" y="325" stroke="#005A9C" stroke-width="2" rx="7"/>
+    <path fill="#005A9C" d="M0 324h81v50H0z"/>
+    <text xml:space="preserve" fill="#fff" font-family="Arial" font-size="16" font-weight="bold" letter-spacing="0em" style="white-space:pre"><tspan x="16" y="354.547">Step 4</tspan></text>
+    <text xml:space="preserve" fill="#000" font-family="Arial" font-size="16" letter-spacing="0em" style="white-space:pre"><tspan x="97" y="354.547">Select a representative sample set</tspan></text>
+    <path fill="#000" d="M29.5 378a1 1 0 0 0-2 0h2Zm-1.707 50.707a1 1 0 0 0 1.414 0l6.364-6.364a1 1 0 1 0-1.414-1.414l-5.657 5.657-5.657-5.657a1 1 0 1 0-1.414 1.414l6.364 6.364ZM28.5 378h-1v50h2v-50h-1Z"/>
+    <path fill="#000" d="M53.207 377.293a1 1 0 0 0-1.414 0l-6.364 6.364a1 1 0 1 0 1.414 1.414l5.657-5.657 5.657 5.657a1 1 0 1 0 1.414-1.414l-6.364-6.364ZM51.5 428a1 1 0 0 0 2 0h-2Zm1-50h-1v2h2v-2h-1Zm0 8h-1v4h2v-4h-1Zm0 10h-1v4h2v-4h-1Zm0 10h-1v4h2v-4h-1Zm0 10h-1v4h2v-4h-1Zm0 10h-1v2h2v-2h-1Z" opacity=".5"/>
+    <rect width="398" height="48" x="1" y="433" fill="#005A9C" fill-opacity=".1" rx="7"/>
+    <rect width="398" height="48" x="1" y="433" stroke="#005A9C" stroke-width="2" rx="7"/>
+    <path fill="#005A9C" d="M0 432h81v50H0z"/>
+    <text xml:space="preserve" fill="#fff" font-family="Arial" font-size="16" font-weight="bold" letter-spacing="0em" style="white-space:pre"><tspan x="16" y="462.547">Step 5</tspan></text>
+    <text xml:space="preserve" fill="#000" font-family="Arial" font-size="16" letter-spacing="0em" style="white-space:pre"><tspan x="97" y="462.547">Report the findings</tspan></text>
+  </g>
+  <defs>
+    <clipPath id="a">
+      <path fill="#fff" d="M0 0h400v482H0z"/>
+    </clipPath>
+  </defs>
+</svg>
+
 
 The workflow diagram above depicts five sequential steps: 
 
