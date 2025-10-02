@@ -1,12 +1,20 @@
+<<<<<<< HEAD
 <svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_2028_78)">
 <path d="M376 8C384.82 8 392 15.18 392 24V276C392 284.82 384.82 292 376 292H24C15.18 292 8 284.82 8 276V24C8 15.18 15.18 8 24 8H376ZM376 0H24C10.75 0 0 10.75 0 24V276C0 289.25 10.75 300 24 300H376C389.25 300 400 289.25 400 276V24C400 10.75 389.25 0 376 0Z" fill="#231F20"/>
 <path d="M4 46V24C4 12.98 12.97 4 24 4H376C387.03 4 396 12.97 396 24V46H4Z" fill="#CCCCCB"/>
+=======
+<svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_2050_97)">
+<path d="M376 8C384.82 8 392 15.18 392 24V376C392 384.82 384.82 392 376 392H24C15.18 392 8 384.82 8 376V24C8 15.18 15.18 8 24 8H376ZM376 0H24C10.75 0 0 10.75 0 24V376C0 389.25 10.75 400 24 400H376C389.25 400 400 389.25 400 376V24C400 10.75 389.25 0 376 0Z" fill="#231F20"/>
+<path d="M4 46.01V24.01C4 12.98 12.97 4.01001 24 4.01001H376C387.03 4.01001 396 12.98 396 24.01V46.01H4Z" fill="#CCCCCB"/>
+>>>>>>> 68f05bc (simplify process)
 <path d="M376 8.01C384.82 8.01 392 15.19 392 24.01V42.01H8V24.01C8 15.19 15.18 8.01 24 8.01H376ZM376 0H24C10.75 0 0 10.75 0 24.01V50.01H400V24.01C400 10.75 389.25 0 376 0Z" fill="#231F20"/>
 <path d="M74 33.01C78.4183 33.01 82 29.4283 82 25.01C82 20.5917 78.4183 17.01 74 17.01C69.5817 17.01 66 20.5917 66 25.01C66 29.4283 69.5817 33.01 74 33.01Z" fill="#231F20"/>
 <path d="M49.5 33.01C53.9183 33.01 57.5 29.4283 57.5 25.01C57.5 20.5917 53.9183 17.01 49.5 17.01C45.0817 17.01 41.5 20.5917 41.5 25.01C41.5 29.4283 45.0817 33.01 49.5 33.01Z" fill="#231F20"/>
 <path d="M25 33.01C29.4183 33.01 33 29.4283 33 25.01C33 20.5917 29.4183 17.01 25 17.01C20.5817 17.01 17 20.5917 17 25.01C17 29.4283 20.5817 33.01 25 33.01Z" fill="#231F20"/>
 <path d="M374.69 17.01H270.69C266.272 17.01 262.69 20.5917 262.69 25.01C262.69 29.4283 266.272 33.01 270.69 33.01H374.69C379.108 33.01 382.69 29.4283 382.69 25.01C382.69 20.5917 379.108 17.01 374.69 17.01Z" fill="#231F20"/>
+<<<<<<< HEAD
 <path d="M227.3 100L172.7 250" stroke="#231F20" stroke-width="8" stroke-miterlimit="10" stroke-linecap="round"/>
 <path d="M140.78 123.12L84.91 175L140.78 226.88" stroke="#231F20" stroke-width="8" stroke-miterlimit="10" stroke-linecap="round"/>
 <path d="M259.22 226.88L315.09 175L259.22 123.12" stroke="#231F20" stroke-width="8" stroke-miterlimit="10" stroke-linecap="round"/>
@@ -14,6 +22,15 @@
 <defs>
 <clipPath id="clip0_2028_78">
 <rect width="400" height="300" fill="white"/>
+=======
+<path d="M234.2 126.96L165.8 314.9" stroke="#231F20" stroke-width="8" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M125.8 155.93L55.8 220.93L125.8 285.93" stroke="#231F20" stroke-width="8" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M274.2 285.93L344.2 220.93L274.2 155.93" stroke="#231F20" stroke-width="8" stroke-miterlimit="10" stroke-linecap="round"/>
+</g>
+<defs>
+<clipPath id="clip0_2050_97">
+<rect width="400" height="400" fill="white"/>
+>>>>>>> 68f05bc (simplify process)
 </clipPath>
 </defs>
 </svg>
