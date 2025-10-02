@@ -18,12 +18,6 @@ In the preceding example, if the whole university website is defined as the targ
 
 This methodology is applicable to a broad variety of digital products. The following provides considerations for particular situations. 
 
-<style>
-	.considerations-particular-products div { position: relative; padding-left: 6em; min-height: 8em; }
-	.considerations-particular-products img { position: absolute; left: 0; top: 0; width: 5em; }
-	.considerations-particular-products dd { margin-left: 0; margin-bottom: 1em; }
-</style>
-
 <dl class="considerations-particular-products">
 	<div>
 		<dt><img src="images/icon-website.svg" alt="">Websites</dt>

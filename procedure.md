@@ -1,9 +1,11 @@
 ## Evaluation Procedure
 
-This section describes the stages and activities of an evaluation procedure. The stages are not necessarily sequential. Also the exact sequence of the activities carried out during the evaluation stages depends on the type of digital product, the purpose of the evaluation, and the process used by the evaluator. Some of the activities can overlap or may be carried out in parallel. The following diagram illustrates the iterations between the stages defined in this section:
+An evaluation procedure has five steps. Sometimes the order can vary, depending on the type of digital product and the purpose of the evaluation.
 
-<svg aria-label="Diagram about the iterations between the steps in this methodology. Explanation in the following paragraph." width="400" height="482" style="width: 100%; max-width: 400px;" fill="none">
-  <g clip-path="url(#a)" aria-hidden="true">
+These are the steps: 
+
+<svg aria-label="Diagram that shows five steps; in between are arrows pointing up and down. Step 1, Define the evaluation scope; step 2, Explore the target product; step 3, Select a representative sample set; step 4, Select a representative sample set; step 5, Report the findings." width="400" height="482" style="width: 100%; max-width: 400px;" fill="none">
+  <g clip-path="url(#a)">
     <path fill="#fff" d="M0 0h400v482H0z"/>
     <rect width="398" height="48" x="1" y="1" fill="#005A9C" fill-opacity=".1" rx="7"/>
     <rect width="398" height="48" x="1" y="1" stroke="#005A9C" stroke-width="2" rx="7"/>
@@ -46,16 +48,7 @@ This section describes the stages and activities of an evaluation procedure. The
   </defs>
 </svg>
 
-
-The workflow diagram above depicts five sequential steps: 
-
-1. Define the evaluation scope; 
-2. Explore the target digital product; 
-3. Select a representative sample set; 
-4. Evaluate the selected sample set and 
-5. Report the findings. 
-
-Each step has an arrow to the next step, and arrows back to all prior steps. This illustrates how evaluators proceed from one step to the next, and may return to any preceding step in the process as new information is revealed to them during the evaluation process.
+Evaluators can proceed from one step to the next, and may return to any preceding step as new information is revealed to them during the process.
 
 ### Step 1: Define the Evaluation Scope  {#step1}
 
