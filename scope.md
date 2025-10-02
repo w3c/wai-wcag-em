@@ -8,7 +8,7 @@ Full product enclosure is essential, meaning that we define the scope to include
 
 #### Example of Product Enclosure
 
-![Diagram of a University Website explained in the following paragraph.](website.png)
+<img src="images/website.png" alt="Diagram of a University Website explained in the following paragraph." style="max-width: 100%;" />
 
 The preceding diagram shows a university website comprised of distinct areas; "Information for Students", "Information for Lecturers", "Courseware Application", and "Library Application". The "Courseware Application" includes "Physics Courses", "Medical Courses", and "History Courses" that are aggregated into the application. The university website also has individual web pages such as legal notices, sitemap, and other web pages that are common to all areas.
 
@@ -18,26 +18,38 @@ In the preceding example, if the whole university website is defined as the targ
 
 This methodology is applicable to a broad variety of digital products. The following provides considerations for particular situations. 
 
-<div class="note">This is not an exhaustive list.</div>
+<style>
+	.considerations-particular-products div { position: relative; padding-left: 6em; min-height: 8em; }
+	.considerations-particular-products img { position: absolute; left: 0; top: 0; width: 5em; }
+	.considerations-particular-products dd { margin-left: 0; margin-bottom: 1em; }
+</style>
 
-<dl>
-
-<dt>Websites</dt>
-<dd>Websites exist in many sizes, anywhere from just the one page to collections of thousands or more. Websites with many pages can use the <a href="#step3">sampling procedure</a> to select a representative <a href="#sampleset">sample set</a>. On websites with a few pages, all pages can be evaluated and the <a href="#step3">sampling procedure</a> can be skipped. </dd>
-
-<dt>Web applications</dt>
-<dd>Web applications generally contain a lot of dynamically generated content and functionality. They tend to be more complex and interactive. Therefore, they typically require more time and effort to evaluate, and will typically need a larger <a href="#sampleset">sample set</a>. Some examples of web applications include web-based email clients, document editors, video sharing platforms, social media sites and booking platforms.
-
-<dt>Native, hybrid and cross-platform applications</dt>
-<dd>For native, hybrid and cross-platform applications, no list of URLs can be generated to base a representative <a href="#sampleset">sample set</a> on. Instead, samples can be identified with unique screenshots and/or descriptions of the path that lead to the specific <a href="#sample">sample</a>.</dd>
-
-<dt>Interfaces of kiosks, self-service terminals and set-top box interfaces</dt>
-<dd>When the interface can be tested in a browser, see the considerations for web applications.</dd>
-<dd>When the interface is evaluated while running on a hardware terminal, there is usually no way to generate a list of URLs. Samples can be identified with unique screenshots and/or descriptions of the path that lead to the specific <a href="#sample">sample</a>. When the kiosk interface can be tested in a browser, see the considerations for web applications.</dd>
-
-<dt>Documents</dt>
-<dd>When the evaluation target is a single document, the evaluation is usually scoped to the whole document or specific parts of it, depending on document complexity.</dd>
+<dl class="considerations-particular-products">
+	<div>
+		<dt><img src="images/icon-website.svg" alt="">Websites</dt>
+		<dd>Websites exist in many sizes, anywhere from just the one page to collections of thousands or more. Websites with many pages can use the <a href="#step3">sampling procedure</a> to select a representative <a href="#sampleset">sample set</a>. On websites with a few pages, all pages can be evaluated and the <a href="#step3">sampling procedure</a> can be skipped. </dd>
+	</div>
+	<div>
+		<dt><img src="images/icon-web-app.svg" alt="">Web applications</dt>
+		<dd>Web applications generally contain a lot of dynamically generated content and functionality. They tend to be more complex and interactive. Therefore, they typically require more time and effort to evaluate, and will typically need a larger <a href="#sampleset">sample set</a>. Some examples of web applications include web-based email clients, document editors, video sharing platforms, social media sites and booking platforms.
+		</dd>
+	</div>
+	<div>
+		<dt><img src="images/icon-native-app.svg" alt="">Native, hybrid and cross-platform applications</dt>
+		<dd>For native, hybrid and cross-platform applications, no list of URLs can be generated to base a representative <a href="#sampleset">sample set</a> on. Instead, samples can be identified with unique screenshots and/or descriptions of the path that lead to the specific <a href="#sample">sample</a>.</dd>
+	</div>
+	<div>
+		<dt><img src="images/icon-kiosk.svg" alt="">Interfaces of kiosks, self-service terminals and set-top box interfaces</dt>
+		<dd>When the interface can be tested in a browser, see the considerations for web applications.</dd>
+		<dd>When the interface is evaluated while running on a hardware terminal, there is usually no way to generate a list of URLs. Samples can be identified with unique screenshots and/or descriptions of the path that lead to the specific <a href="#sample">sample</a>. When the kiosk interface can be tested in a browser, see the considerations for web applications.</dd>
+	</div>
+	<div>
+		<dt><img src="images/icon-docs.svg" alt="">Documents</dt>
+		<dd>When the evaluation target is a single document, the evaluation is usually scoped to the whole document or specific parts of it, depending on document complexity.</dd>
+	</div>
 </dl>
+
+<div class="note">This is not an exhaustive list.</div>
 
 ### Particular Evaluation Contexts
 
