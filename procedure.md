@@ -201,7 +201,7 @@ Examples of other relevant samples include those:
 Select a sample set that is representative of the target product to be evaluated. This helps ensure that the evaluation results reflect the accessibility performance of the digital product with reasonable confidence. 
 
 <div class="note">
-  <p>If it is feasible to evaluate the entire digital product, which is recommended, this sampling procedure may be skipped, meaning the entire digital product is evaluated.</p>
+  <p>If it is feasible to evaluate the entire digital product, this is recommended. This sampling procedure may then be skipped, meaning the entire digital product is evaluated.</p>
   <p>There are also other specific cases where it makes sense to skip the sampling procedure, and evaluate the entire digital product instead. Such cases include:</p>
   <ul>
     <li>when the digital product has a small number of views, for example in some native apps or kiosks,</li>
