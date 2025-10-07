@@ -204,7 +204,7 @@ Select a sample set that is representative of the target product to be evaluated
   <p>If it is feasible to evaluate the entire digital product, which is recommended, this sampling procedure may be skipped, meaning the entire digital product is evaluated.</p>
   <p>There are also other specific cases where it makes sense to skip the sampling procedure, and evaluate the entire digital product instead. Such cases include:</p>
   <ul>
-    <li>when the digital product has a small amount of views, for example in some native apps or kiosks,</li>
+    <li>when the digital product has a small number of views, for example in some native apps or kiosks,</li>
     <li>when the digital product cannot meaningfully be split into views, for example in certain kinds of documents.</li>
   </ul>
   <p>When the sampling procedure is skipped, use the entire product as “selected sample set” in the remaining steps of this evaluation process.</p>
