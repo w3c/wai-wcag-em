@@ -79,7 +79,7 @@ It is also important to document any particular aspects of the target product to
 
 WCAG 2 Level AA is the generally accepted and recommended target.
 
-<p class="note">It is often useful to evaluate beyond the conformance target of the digital product. For example, a product might meet individual requirements from a higher conformance level. Having and documenting this information can help plan future improvements more effectively.</p>
+<p class="note">It is often useful to evaluate beyond the conformance target of the digital product. For example, a product might meet individual requirements from a higher conformance level. Documenting this information can help plan future improvements more effectively.</p>
 
 #### Step 1.3: Define an Accessibility Support Baseline {#step1c}
 
