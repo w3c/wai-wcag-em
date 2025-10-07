@@ -112,17 +112,17 @@ Such additional evaluation requirements that are agreed on with the evaluator ne
 
 <p class="methodology-requirement"><strong id="req2">Methodology Requirement 2:</strong> Explore the digital product to be evaluated according to <a href="#req2a">Methodology Requirement 2.1</a>, <a href="#req2b">Methodology Requirement 2.2</a>, <a href="#req2c">Methodology Requirement 2.3</a>, <a href="#req2d">Methodology Requirement 2.4</a>, and <a href="#req2e">Methodology Requirement 2.5</a>.</p>
 
-During this step the evaluator explores the target product to be evaluated, to develop an initial understanding of the product and its use, purpose, and functionality. Much of this will not be immediately apparent to evaluators, in particular to those from outside the development team. In some cases it is also not possible to exhaustively identify and list all functionality, types of samples, and technologies used to realize the product and its applications. The initial exploration carried out in this step is typically refined in the later steps [Step 3: Select a Representative Sample Set](#step3) and [Step 4: Evaluate the Selected Sample Set](#step4), as the evaluator learns more about the target product. Involvement of product owners and product developers can help evaluators make their explorations more effective.
+During this step the evaluator explores the target product to be evaluated, to develop an initial understanding of the product and its use, purpose, and functionality. Much of this will not be immediately apparent to evaluators, in particular to those from outside the development team. In some cases it is also not possible to exhaustively identify and list all functionality, types of samples, and technologies used to realize the product. Involvement of product owners and product developers can help evaluators make their explorations more effective.
 
-<p class="note">Carrying out initial cursory checks during this step helps identify samples that are relevant for more detailed evaluation later on. For example, an evaluator may identify samples that seem to be lacking color contrast, document structure, or consistent navigation, and note them down for more detailed evaluation later on.
+<p class="note">Carrying out initial cursory checks during this step helps identify samples that are relevant for more detailed evaluation later on. For example, an evaluator may identify samples that seem to be lacking color contrast, document structure, or consistent navigation, and note them down for more detailed evaluation later on.</p>
 
 <p class="note">To carry out this step it is critical that the evaluator has access to all the relevant parts of the product. For example, it may be necessary to create accounts or otherwise provide access to restricted areas of a product that are part of the evaluation. Granting evaluators such access may require particular security and privacy precautions.</p>
 
 #### Step 2.1: Identify Common Samples of the Digital Product {#step2a}
 
-<p class="methodology-requirement"><strong id="req2a">Methodology Requirement 2.1:</strong> Identify the <a href="#common">common samples</a>, which may be sample states, of the target product.</p>
+<p class="methodology-requirement"><strong id="req2a">Methodology Requirement 2.1:</strong> Identify the <a href="#common">common views</a> of the target product.</p>
 
-Explore the target product to identify its common samples, which may also be sample states in web applications. Typically these are linked directly from the main entry point of the target product (like the home page on a website, or the start screen of an app), and often linked from the header, navigation, and footer sections of other samples. The outcome of this step is a list of all common pages or views of the target product.
+Explore the target product to identify its common views, which may also be specific states of views. Typically these are linked directly from the main entry point of the target product (like the home page on a website, or the start screen of an app), and often linked from the header, navigation, and footer sections of other samples. The outcome of this step is a list of all common pages or views of the target product.
 
 #### Step 2.2: Identify Essential Functionality of the Product {#step2b}
 
