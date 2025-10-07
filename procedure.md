@@ -54,15 +54,18 @@ Evaluators can proceed from one step to the next, and may return to any precedin
 
 <p class="methodology-requirement"><strong id="req1">Methodology Requirement 1:</strong> Define the evaluation scope according to <a href="#req1a">Methodology Requirement 1.1</a>, <a href="#req1b">Methodology Requirement 1.2</a>, and <a href="#req1c">Methodology Requirement 1.3</a>, and optionally <a href="#req1d">Methodology Requirement 1.4</a>.</p>
 
-During this step the overall scope of the evaluation is defined. It is a fundamental step that affects the subsequent steps in the evaluation procedure. It is ideally carried out in consultation with the evaluation commissioner (who may or may _not_ be the product's owner) to ensure common expectations about the scope of the evaluation. Initial exploration of the target product during this step may be necessary to better know specifics of the product and the required evaluation. Detailed exploration of the product is carried out in [Step 2: Explore the Target Product](#step2).
+Usually, this step involves the evaluation commissioner (who may or may _not_ be the product's owner), to align expectations, and an initial exploration of the product.
 
 #### Step 1.1: Define the Scope of the Product  {#step1a}
 
 <p class="methodology-requirement"><strong id="req1a">Methodology Requirement 1.1:</strong> Define the target <a href="#digital-product">digital product</a> according to <a href="#applicability">Scope of Applicability</a>, so that for each <a href="#view">view</a> it is unambiguous whether it is within the scope of evaluation or not.</p>
 
-During this step the target product (the samples that are in scope of the evaluation) is defined. This scope of the product is defined according to the terms established in the section [Scope of Applicability](#applicability).
+Define the target product, taking into account the considerations in [Scope of Applicability](#applicability), for example:
 
-To avoid later mismatches of expectations between the evaluator, evaluation commissioner, and readers of the resulting evaluation report, it is important to define the target product so that it is unambiguous that a sample is within its scope. Using formalizations including [regular expressions](https://en.wikipedia.org/wiki/Regular_expression) and listings of web addresses (URIs) is recommended where possible.
+- All content on https://example-museum.org.
+- All content on Example's Museum Shop, located on https://shop.example-museum.org, except for the Temporary Art Collection
+
+It is important to be clear and unambiguous in this step, and avoid any doubt regarding which views are in scope. Using formalizations including [regular expressions](https://en.wikipedia.org/wiki/Regular_expression) and listings of web addresses (URIs) is recommended where possible.
 
 It is also important to document any particular aspects of the target product to support its identification. This includes:
 
@@ -74,15 +77,15 @@ It is also important to document any particular aspects of the target product to
 
 <p class="methodology-requirement"><strong id="req1b">Methodology Requirement 1.2:</strong> Select a target WCAG 2 <a href="https://www.w3.org/TR/WCAG22/#cc1">conformance level</a> (“A”, “AA”, or “AAA”) for the evaluation.</p>
 
-Part of initiating the evaluation process is to define the target WCAG 2 conformance level ("A", "AA", or "AAA") for evaluation. WCAG 2 Level AA is the generally accepted and recommended target.
+WCAG 2 Level AA is the generally accepted and recommended target.
 
-<p class="note">It is often useful to evaluate beyond the conformance target of the digital product to get a more complete picture of its accessibility performance. For example, while a product might not fully meet a particular conformance level, it might meet individual requirements from a higher conformance level. Having this information can help plan future improvements more effectively.</p>
+<p class="note">It is often useful to evaluate beyond the conformance target of the digital product. For example, a product might meet individual requirements from a higher conformance level. Documenting this information can help plan future improvements more effectively.</p>
 
 #### Step 1.3: Define an Accessibility Support Baseline {#step1c}
 
 <p class="methodology-requirement"><strong id="req1c">Methodology Requirement 1.3:</strong> Define the web browser, assistive technologies and other <a href="https://www.w3.org/TR/WCAG22/#dfn-useragent">user agents</a> for which features provided on the digital product are to be <a href="https://www.w3.org/TR/WCAG22/#dfn-accessibility-supported">accessibility supported</a>.</p>
 
-Particularly for new technologies it is not always possible to ensure that every accessibility feature provided on a digital product, such as a 'show captions' function in a media player, is supported by every possible combination of operating system, web browser, assistive technology, and other user agents. WCAG 2 does not pre-define which combinations of features and technologies must be supported as this depends on the particular context of the product, including its language, the technologies that are used to create the content, and the user agents currently available. [Understanding Accessibility Support](https://www.w3.org/WAI/WCAG22/Understanding/conformance#accessibility-support) provides more guidance on the WCAG 2 concept of _accessibility support_.
+Particularly for new technologies it is not always possible to ensure that every accessibility feature provided on a digital product, such as a “Show captions” function in a media player, is supported by every possible combination of operating system, web browser, assistive technology, and other user agents. WCAG 2 does not pre-define which combinations of features and technologies must be supported as this depends on the particular context of the product, including its language, the technologies that are used to create the content, and the user agents currently available. [Understanding Accessibility Support](https://www.w3.org/WAI/WCAG22/Understanding/conformance#accessibility-support) provides more guidance on the WCAG 2 concept of _accessibility support_.
 
 During this step the evaluator determines the minimum set of combinations of operating systems, web browsers, assistive technologies, and other user agents that the product is expected to work with, and that is in-line with the WCAG 2 guidance on accessibility support (linked above). This step is carried out in consultation with the evaluation commissioner to ensure common expectation for the targeted level of accessibility support. The product's owner and product's developer may also have such a list of combinations that the product was designed to support, which could be a starting point for this step. Depending on the purpose of the evaluation such a list may need to be updated, for example to assess how well the product works with more current browsers.
 
@@ -109,17 +112,17 @@ Such additional evaluation requirements that are agreed on with the evaluator ne
 
 <p class="methodology-requirement"><strong id="req2">Methodology Requirement 2:</strong> Explore the digital product to be evaluated according to <a href="#req2a">Methodology Requirement 2.1</a>, <a href="#req2b">Methodology Requirement 2.2</a>, <a href="#req2c">Methodology Requirement 2.3</a>, <a href="#req2d">Methodology Requirement 2.4</a>, and <a href="#req2e">Methodology Requirement 2.5</a>.</p>
 
-During this step the evaluator explores the target product to be evaluated, to develop an initial understanding of the product and its use, purpose, and functionality. Much of this will not be immediately apparent to evaluators, in particular to those from outside the development team. In some cases it is also not possible to exhaustively identify and list all functionality, types of samples, and technologies used to realize the product and its applications. The initial exploration carried out in this step is typically refined in the later steps [Step 3: Select a Representative Sample Set](#step3) and [Step 4: Evaluate the Selected Sample Set](#step4), as the evaluator learns more about the target product. Involvement of product owners and product developers can help evaluators make their explorations more effective.
+During this step the evaluator explores the target product to be evaluated, to develop an initial understanding of the product and its use, purpose, and functionality. Much of this will not be immediately apparent to evaluators, in particular to those from outside the development team. In some cases it is also not possible to exhaustively identify and list all functionality, types of samples, and technologies used to realize the product. Involvement of product owners and product developers can help evaluators make their explorations more effective.
 
-<p class="note">Carrying out initial cursory checks during this step helps identify samples that are relevant for more detailed evaluation later on. For example, an evaluator may identify samples that seem to be lacking color contrast, document structure, or consistent navigation, and note them down for more detailed evaluation later on.
+<p class="note">Carrying out initial cursory checks during this step helps identify samples that are relevant for more detailed evaluation later on. For example, an evaluator may identify samples that seem to be lacking color contrast, document structure, or consistent navigation, and note them down for more detailed evaluation later on.</p>
 
 <p class="note">To carry out this step it is critical that the evaluator has access to all the relevant parts of the product. For example, it may be necessary to create accounts or otherwise provide access to restricted areas of a product that are part of the evaluation. Granting evaluators such access may require particular security and privacy precautions.</p>
 
 #### Step 2.1: Identify Common Samples of the Digital Product {#step2a}
 
-<p class="methodology-requirement"><strong id="req2a">Methodology Requirement 2.1:</strong> Identify the <a href="#common">common samples</a>, which may be sample states, of the target product.</p>
+<p class="methodology-requirement"><strong id="req2a">Methodology Requirement 2.1:</strong> Identify the <a href="#common">common views</a> of the target product.</p>
 
-Explore the target product to identify its common samples, which may also be sample states in web applications. Typically these are linked directly from the main entry point of the target product (like the home page on a website, or the start screen of an app), and often linked from the header, navigation, and footer sections of other samples. The outcome of this step is a list of all common pages or views of the target product.
+Explore the target product to identify its common views, which may also be specific states of views. Typically these are linked directly from the main entry point of the target product (like the home page on a website, or the start screen of an app), and often linked from the header, navigation, and footer sections of other samples. The outcome of this step is a list of all common pages or views of the target product.
 
 #### Step 2.2: Identify Essential Functionality of the Product {#step2b}
 
@@ -193,9 +196,19 @@ Examples of other relevant samples include those:
 
 ### Step 3: Select a Representative Sample {#step3}
 
-<p class="methodology-requirement"><strong id="req3">Methodology Requirement 3:</strong> Select a representative sample set from the digial product according to <a href="#req3a">Methodology Requirement 3.1</a>, <a href="#req3b">Methodology Requirement 3.2</a>, and <a href="#req3c">Methodology Requirement 3.3</a>.</p>
+<p class="methodology-requirement"><strong id="req3">Methodology Requirement 3:</strong> Select a representative sample set from the digital product according to <a href="#req3a">Methodology Requirement 3.1</a>, <a href="#req3b">Methodology Requirement 3.2</a>, and <a href="#req3c">Methodology Requirement 3.3</a>.</p>
 
-During this step the evaluator selects a sample set that is representative of the target product to be evaluated. The purpose of this selection is to ensure that the evaluation results reflect the accessibility performance of the digital product with reasonable confidence. In cases where it is feasible to evaluate all pages or views of a digital product, which is highly recommended, this sampling procedure can be skipped and the “selected sample set” in the remaining steps of this evaluation process is the entire digital product. In some cases, such as for small websites, this sampling procedure may result in selecting all pages or views states of the website, or all screens of the mobile application.
+Select a sample set that is representative of the target product to be evaluated. This helps ensure that the evaluation results reflect the accessibility performance of the digital product with reasonable confidence. 
+
+<div class="note">
+  <p>If it is feasible to evaluate the entire digital product, which is recommended, this sampling procedure may be skipped, meaning the entire digital product is evaluated.</p>
+  <p>There are also other specific cases where it makes sense to skip the sampling procedure, and evaluate the entire digital product instead. Such cases include:</p>
+  <ul>
+    <li>when the digital product has a small number of views, for example in some native apps or kiosks,</li>
+    <li>when the digital product cannot meaningfully be split into views, for example in certain kinds of documents.</li>
+  </ul>
+  <p>When the sampling procedure is skipped, use the entire product as “selected sample set” in the remaining steps of this evaluation process.</p>
+</div>
 
 <p id="samplesize">The actual size of the sample set needed to evaluate a digital product depends on many factors including:</p>
 

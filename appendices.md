@@ -45,7 +45,7 @@ This is the internationally recognized standard that explains how to make web co
 For the purposes of this document, the following terms and definitions apply:
 
 <dl>
-<dt id="complete">Complete processes</dt>
+<dt id="complete">Complete process</dt>
 <dd> Based on <a href="https://www.w3.org/TR/WCAG22/#cc3">WCAG 2.2 Conformance Requirement for Complete Processes</a>: 
 
 When a <a href="#view">view</a> is one of a series of views presenting a process (i.e., a sequence of steps that need to be completed in order to accomplish an activity), all views in the process conform at the specified level or better. (Conformance is not possible at a particular level if any view in the process does not conform at that level or better.)</dd>
@@ -92,7 +92,7 @@ When a <a href="#view">view</a> is one of a series of views presenting a process
 <dd>List of <a href="#sample">samples</a> selected for evaluations.</dd>
 
 
-<dt id="template">Templates</dt>
+<dt id="template">Template</dt>
 
 <dd>From <a href="https://www.w3.org/TR/ATAG20/#def-Template">ATAG 2.0 definition for "templates"</a>:  
 <blockquote>Content patterns that are filled in by authors or the authoring tool to produce web content for end users (e.g., document templates, content management templates, presentation themes). Often templates will pre-specify at least some authoring decisions.</blockquote></dd>

@@ -1,6 +1,6 @@
 ## Scope of Applicability {#applicability}
 
-This methodology is designed to evaluate full, self-enclosed [digital-products](#digital-product), such as websites. In [Step 1.a](#step1a), evaluators define what is in scope exactly. 
+This methodology is designed to evaluate full, self-enclosed [digital products](#digital-product), such as websites. In [Step 1.a](#step1a), evaluators define what is in scope exactly. 
 
 ### Principle of Product Enclosure
 
