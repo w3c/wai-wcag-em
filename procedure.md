@@ -32,7 +32,7 @@ These are the steps:
     <rect width="398" height="48" x="1" y="325" stroke="#005A9C" stroke-width="2" rx="7"/>
     <path fill="#005A9C" d="M0 324h81v50H0z"/>
     <text xml:space="preserve" fill="#fff" font-family="Arial" font-size="16" font-weight="bold" letter-spacing="0em" style="white-space:pre"><tspan x="16" y="354.547">Step 4</tspan></text>
-    <text xml:space="preserve" fill="#000" font-family="Arial" font-size="16" letter-spacing="0em" style="white-space:pre"><tspan x="97" y="354.547">Select a representative sample set</tspan></text>
+    <text xml:space="preserve" fill="#000" font-family="Arial" font-size="16" letter-spacing="0em" style="white-space:pre"><tspan x="97" y="354.547">Evaluate the selected sample set</tspan></text>
     <path fill="#000" d="M29.5 378a1 1 0 0 0-2 0h2Zm-1.707 50.707a1 1 0 0 0 1.414 0l6.364-6.364a1 1 0 1 0-1.414-1.414l-5.657 5.657-5.657-5.657a1 1 0 1 0-1.414 1.414l6.364 6.364ZM28.5 378h-1v50h2v-50h-1Z"/>
     <path fill="#000" d="M53.207 377.293a1 1 0 0 0-1.414 0l-6.364 6.364a1 1 0 1 0 1.414 1.414l5.657-5.657 5.657 5.657a1 1 0 1 0 1.414-1.414l-6.364-6.364ZM51.5 428a1 1 0 0 0 2 0h-2Zm1-50h-1v2h2v-2h-1Zm0 8h-1v4h2v-4h-1Zm0 10h-1v4h2v-4h-1Zm0 10h-1v4h2v-4h-1Zm0 10h-1v4h2v-4h-1Zm0 10h-1v2h2v-2h-1Z" opacity=".5"/>
     <rect width="398" height="48" x="1" y="433" fill="#005A9C" fill-opacity=".1" rx="7"/>
