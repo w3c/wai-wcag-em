@@ -355,8 +355,6 @@ While the individual occurrences of WCAG 2 Success Criteria will vary between th
 
 While evaluation findings are reported at the end of the process, documenting them is carried out throughout the evaluation process to ensure verifiable outcomes. The documentation typically has varying levels of confidentiality. For example, documenting the specific methods used to evaluate individual requirements might remain limited to the evaluator while reports about the outcomes from these checks are typically made available to the evaluation commissioner. Product owners might further choose to make public statements about the outcomes from evaluation according to this methodology.
 
-To define 
-
 #### Step 5.1: Document the Outcomes of Each Step {#step5a}
 
 <p class="methodology-requirement"><strong id="req5a">Methodology Requirement 5.1:</strong> Document each outcome of the steps defined in <a href="#step1">Step 1: Define the Evaluation Scope</a>, <a href="#step2">Step 2: Explore the Target Digital Product</a>, <a href="#step3">Step 3: Select a Representative Sample</a>, and <a href="#step4">Step 4: Evaluate the Selected Sample Set</a>.</p>
