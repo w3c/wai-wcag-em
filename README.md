@@ -23,6 +23,7 @@ python3 -m http.server 8000 & sleep 2 && open http://localhost:8000
 
 ### All changes
 
+- 17 October: use banking website instead of university website as an example of product enclosure, use new graphic, and update steps in procedure to be styled with CSS ([#133](https://github.com/w3c/wai-wcag-em/pull/113)).
 - 7 October: simplify wording and make it more explicit in which cases sampling can be skipped ([108](https://github.com/w3c/wai-wcag-em/pull/108)).
 - 2 October: simplify steps section and add graphics to steps and types of digital products ([#105](https://github.com/w3c/wai-wcag-em/pull/105)).
 - 24 September: update “tech relied” on to remove Dojo, jQuery, add design systems and remove distinction between 'base' and 'auxiliary' as the distinction, while good and significant, overcomplicates more than it adds ([#101](https://github.com/w3c/wai-wcag-em/pull/101)). Add 'hybrid, cross platform' to 'native' applications ([#102](https://github.com/w3c/wai-wcag-em/commit/4313df11ffb06937a1d0ba7375a0a12f733978e6)).

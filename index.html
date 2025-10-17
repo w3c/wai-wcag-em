@@ -9,6 +9,11 @@
       .considerations-particular-products div { position: relative; padding-left: 6em; min-height: 8em; }
       .considerations-particular-products img { position: absolute; left: 0; top: 0; width: 5em; }
       .considerations-particular-products dd { margin-left: 0; margin-bottom: 1em; }
+      .procedure-steps ol { padding: 0; --procedure-color-dark: #005A9C; --procedure-color-light: #e5eef5; --procedure-space: .55em; counter-reset: list-item;}
+      .procedure-steps li { border: 2px solid var(--procedure-color-dark); background-color: var(--procedure-color-light); border-radius: .4em; max-width: 24em; list-style: none; padding: var(--procedure-space); position: relative; display: flex; counter-increment: list-item; }
+      .procedure-steps li:not(:last-child) { margin-bottom: 54px; }
+      .procedure-steps li:not(:last-child)::after { content: ''; background-image: url(images/arrows.svg); display: block; height: 50px; width: 80px; position: absolute; left: 0; top: calc(100% + 4px); }
+      .procedure-steps li::before { content: "Step " counter(list-item); background: var(--procedure-color-dark); padding: var(--procedure-space) 1em; margin: calc(-1 * var(--procedure-space)); margin-right: 1em; font-weight: bold; color: white; }
     </style>
   </head>
 

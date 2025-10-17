@@ -4,49 +4,16 @@ An evaluation procedure has five steps. Sometimes the order can vary, depending 
 
 These are the steps: 
 
-<svg aria-label="Diagram that shows five steps; in between are arrows pointing up and down. Step 1, Define the evaluation scope; step 2, Explore the target product; step 3, Select a representative sample set; step 4, Select a representative sample set; step 5, Report the findings." width="400" height="482" style="width: 100%; max-width: 400px;" fill="none">
-  <g clip-path="url(#a)">
-    <path fill="#fff" d="M0 0h400v482H0z"/>
-    <rect width="398" height="48" x="1" y="1" fill="#005A9C" fill-opacity=".1" rx="7"/>
-    <rect width="398" height="48" x="1" y="1" stroke="#005A9C" stroke-width="2" rx="7"/>
-    <path fill="#005A9C" d="M0 0h81v50H0z"/>
-    <text xml:space="preserve" fill="#fff" font-family="Arial" font-size="16" font-weight="bold" letter-spacing="0em" style="white-space:pre"><tspan x="16" y="30.547">Step 1</tspan></text>
-    <text xml:space="preserve" fill="#000" font-family="Arial" font-size="16" letter-spacing="0em" style="white-space:pre"><tspan x="97" y="30.547">Define the evaluation scope</tspan></text>
-    <path fill="#000" d="M29.5 54a1 1 0 1 0-2 0h2Zm-1.707 50.707a1 1 0 0 0 1.414 0l6.364-6.364a1 1 0 0 0-1.414-1.414l-5.657 5.657-5.657-5.657a1 1 0 0 0-1.414 1.414l6.364 6.364ZM28.5 54h-1v50h2V54h-1Z"/>
-    <path fill="#000" d="M53.207 53.293a1 1 0 0 0-1.414 0l-6.364 6.364a1 1 0 0 0 1.414 1.414l5.657-5.657 5.657 5.657a1 1 0 0 0 1.414-1.414l-6.364-6.364ZM51.5 104a1 1 0 0 0 2 0h-2Zm1-50h-1v2h2v-2h-1Zm0 8h-1v4h2v-4h-1Zm0 10h-1v4h2v-4h-1Zm0 10h-1v4h2v-4h-1Zm0 10h-1v4h2v-4h-1Zm0 10h-1v2h2v-2h-1Z" opacity=".5"/>
-    <rect width="398" height="48" x="1" y="109" fill="#005A9C" fill-opacity=".1" rx="7"/>
-    <rect width="398" height="48" x="1" y="109" stroke="#005A9C" stroke-width="2" rx="7"/>
-    <path fill="#005A9C" d="M0 108h81v50H0z"/>
-    <text xml:space="preserve" fill="#fff" font-family="Arial" font-size="16" font-weight="bold" letter-spacing="0em" style="white-space:pre"><tspan x="16" y="138.547">Step 2</tspan></text>
-    <text xml:space="preserve" fill="#000" font-family="Arial" font-size="16" letter-spacing="0em" style="white-space:pre"><tspan x="97" y="138.547">Explore the target product</tspan></text>
-    <path fill="#000" d="M29.5 162a1 1 0 0 0-2 0h2Zm-1.707 50.707a1 1 0 0 0 1.414 0l6.364-6.364a1 1 0 1 0-1.414-1.414l-5.657 5.657-5.657-5.657a1 1 0 1 0-1.414 1.414l6.364 6.364ZM28.5 162h-1v50h2v-50h-1Z"/>
-    <path fill="#000" d="M53.207 161.293a1 1 0 0 0-1.414 0l-6.364 6.364a1 1 0 1 0 1.414 1.414l5.657-5.657 5.657 5.657a1 1 0 1 0 1.414-1.414l-6.364-6.364ZM51.5 212a1 1 0 0 0 2 0h-2Zm1-50h-1v2h2v-2h-1Zm0 8h-1v4h2v-4h-1Zm0 10h-1v4h2v-4h-1Zm0 10h-1v4h2v-4h-1Zm0 10h-1v4h2v-4h-1Zm0 10h-1v2h2v-2h-1Z" opacity=".5"/>
-    <rect width="398" height="48" x="1" y="217" fill="#005A9C" fill-opacity=".1" rx="7"/>
-    <rect width="398" height="48" x="1" y="217" stroke="#005A9C" stroke-width="2" rx="7"/>
-    <path fill="#005A9C" d="M0 216h81v50H0z"/>
-    <text xml:space="preserve" fill="#fff" font-family="Arial" font-size="16" font-weight="bold" letter-spacing="0em" style="white-space:pre"><tspan x="16" y="246.547">Step 3</tspan></text>
-    <text xml:space="preserve" fill="#000" font-family="Arial" font-size="16" letter-spacing="0em" style="white-space:pre"><tspan x="97" y="246.547">Select a representative sample set</tspan></text>
-    <path fill="#000" d="M29.5 270a1 1 0 0 0-2 0h2Zm-1.707 50.707a1 1 0 0 0 1.414 0l6.364-6.364a1 1 0 1 0-1.414-1.414l-5.657 5.657-5.657-5.657a1 1 0 1 0-1.414 1.414l6.364 6.364ZM28.5 270h-1v50h2v-50h-1Z"/>
-    <path fill="#000" d="M53.207 269.293a1 1 0 0 0-1.414 0l-6.364 6.364a1 1 0 1 0 1.414 1.414l5.657-5.657 5.657 5.657a1 1 0 1 0 1.414-1.414l-6.364-6.364ZM51.5 320a1 1 0 0 0 2 0h-2Zm1-50h-1v2h2v-2h-1Zm0 8h-1v4h2v-4h-1Zm0 10h-1v4h2v-4h-1Zm0 10h-1v4h2v-4h-1Zm0 10h-1v4h2v-4h-1Zm0 10h-1v2h2v-2h-1Z" opacity=".5"/>
-    <rect width="398" height="48" x="1" y="325" fill="#005A9C" fill-opacity=".1" rx="7"/>
-    <rect width="398" height="48" x="1" y="325" stroke="#005A9C" stroke-width="2" rx="7"/>
-    <path fill="#005A9C" d="M0 324h81v50H0z"/>
-    <text xml:space="preserve" fill="#fff" font-family="Arial" font-size="16" font-weight="bold" letter-spacing="0em" style="white-space:pre"><tspan x="16" y="354.547">Step 4</tspan></text>
-    <text xml:space="preserve" fill="#000" font-family="Arial" font-size="16" letter-spacing="0em" style="white-space:pre"><tspan x="97" y="354.547">Evaluate the selected sample set</tspan></text>
-    <path fill="#000" d="M29.5 378a1 1 0 0 0-2 0h2Zm-1.707 50.707a1 1 0 0 0 1.414 0l6.364-6.364a1 1 0 1 0-1.414-1.414l-5.657 5.657-5.657-5.657a1 1 0 1 0-1.414 1.414l6.364 6.364ZM28.5 378h-1v50h2v-50h-1Z"/>
-    <path fill="#000" d="M53.207 377.293a1 1 0 0 0-1.414 0l-6.364 6.364a1 1 0 1 0 1.414 1.414l5.657-5.657 5.657 5.657a1 1 0 1 0 1.414-1.414l-6.364-6.364ZM51.5 428a1 1 0 0 0 2 0h-2Zm1-50h-1v2h2v-2h-1Zm0 8h-1v4h2v-4h-1Zm0 10h-1v4h2v-4h-1Zm0 10h-1v4h2v-4h-1Zm0 10h-1v4h2v-4h-1Zm0 10h-1v2h2v-2h-1Z" opacity=".5"/>
-    <rect width="398" height="48" x="1" y="433" fill="#005A9C" fill-opacity=".1" rx="7"/>
-    <rect width="398" height="48" x="1" y="433" stroke="#005A9C" stroke-width="2" rx="7"/>
-    <path fill="#005A9C" d="M0 432h81v50H0z"/>
-    <text xml:space="preserve" fill="#fff" font-family="Arial" font-size="16" font-weight="bold" letter-spacing="0em" style="white-space:pre"><tspan x="16" y="462.547">Step 5</tspan></text>
-    <text xml:space="preserve" fill="#000" font-family="Arial" font-size="16" letter-spacing="0em" style="white-space:pre"><tspan x="97" y="462.547">Report the findings</tspan></text>
-  </g>
-  <defs>
-    <clipPath id="a">
-      <path fill="#fff" d="M0 0h400v482H0z"/>
-    </clipPath>
-  </defs>
-</svg>
+<div class="procedure-steps">
+
+1. Define the evaluation scope
+2. Explore the target product
+3. Select a representative sample set
+4. Evaluate the selected sample set
+5. Report the findings
+
+</div>
+
 
 Evaluators can proceed from one step to the next, and may return to any preceding step as new information is revealed to them during the process.
 
