@@ -35,7 +35,7 @@ This methodology is applicable to a broad variety of digital products. The follo
 	<div>
 		<dt><img src="images/icon-kiosk.svg" alt="">Interfaces of kiosks, self-service terminals and set-top box interfaces</dt>
 		<dd>When the interface can be tested in a browser, see the considerations for web applications.</dd>
-		<dd>When the interface is evaluated while running on a hardware terminal, there is usually no way to generate a list of URLs. Samples can be identified with unique screenshots and/or descriptions of the path that lead to the specific <a href="#sample">sample</a>. When the kiosk interface can be tested in a browser, see the considerations for web applications.</dd>
+		<dd>When the interface is evaluated while running on a hardware terminal, there is usually no way to generate a list of URLs. Samples can be identified with unique screenshots, photos and/or descriptions of the path that lead to the specific <a href="#sample">sample</a>.</dd>
 	</div>
 	<div>
 		<dt><img src="images/icon-docs.svg" alt="">Documents</dt>
@@ -69,7 +69,7 @@ This methodology can be applied in different situations and contexts. The follow
 * A sub-set of the <a href="#sample">samples</a> that were used in the preceding evaluation to facilitate comparability between the results;
 * A replaced sub-set of <a href="#sample">samples</a> from those that were used in the preceding evaluation to improve view coverage;
 
-Unless significant changes were made to the digital product, there is usually no need to change the size of the selected sample nor the approach used for sampling. The amount of replaced <a href="#sample">samples</a> in a fresh <a href="#sampleset">sample set</a> is typically about half of the initial <a href="#sampleset">sample set</a>, though this could be increased when views of a digital product mostly conform to WCAG 2.</dd>
+Unless significant changes were made to the digital product, there is usually no need to change the size of the selected sample nor the approach used for sampling. The amount of replaced <a href="#sample">samples</a> in a fresh <a href="#sampleset">sample set</a> is typically about half of the initial <a href="#sampleset">sample set</a>, though this could be increased when samples mostly conform to WCAG 2.</dd>
 
 <dt>Large-Scale Evaluation</dt>
 <dd>Carrying out mass evaluation of many digital products, for example for national or international surveying, is typically carried out by primarily using automated evaluation tools. Relatively few views undergo full manual inspection. Such evaluations do not usually address the necessary qualitative depth of conformance review per product for which this methodology is designed.</dd>
