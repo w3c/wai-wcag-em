@@ -12,7 +12,7 @@ An example of product enclosure could be the following banking website. It has d
 
 <img src="images/website.svg" alt="Diagram of the sections described in the preceding paragraph, with all of the mentioned areas and pages listed as pages, and examples of pages underneath personal banking and commercial banking, like payments, international and mortgage." style="max-width: 100%;" />
 
-When the target for evaluation is the whole banking website, then all of the depicted areas are within evaluation scope. This includes content such as application forms, authentication and internet banking. It would be irrelevant if some of the content is third-party content, as that would be included too. 
+When the target for evaluation is the whole banking website, then all of the depicted areas are within evaluation scope. This includes content such as application forms, authentication and internet banking. This includes 3rd party content used within the site. 
 
 When the evaluation target is only a specific website area, like "Commercial Banking", then all the parts of this area are within the evaluation scope. In this example, that means the evaluation scope would include Payments, Mortgage, Loans and Savings, as well as the [common views](#common), the Legal Notice and Sitemap in this example.
 
