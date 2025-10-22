@@ -8,11 +8,13 @@ Full product enclosure is essential, meaning that we define the scope to include
 
 #### Example of Product Enclosure
 
-<img src="images/website.png" alt="Diagram of a University Website explained in the following paragraph." style="max-width: 100%;" />
+An example of product enclosure could be the following banking website. It has distinct areas for personal banking, commercial banking, internet banking and service &amp; contact. It also has [common views](#common) that are linked from all pages, like their legal notice and sitemap:
 
-The preceding diagram shows a university website comprised of distinct areas; "Information for Students", "Information for Lecturers", "Courseware Application", and "Library Application". The "Courseware Application" includes "Physics Courses", "Medical Courses", and "History Courses" that are aggregated into the application. The university website also has individual web pages such as legal notices, sitemap, and other web pages that are common to all areas.
+<img src="images/website.svg" alt="Diagram of the sections described in the preceding paragraph, with all of the mentioned areas and pages listed as pages, and examples of pages underneath personal banking and commercial banking, like payments, international and mortgage." style="max-width: 100%;" />
 
-In the preceding example, if the whole university website is defined as the target for evaluation, then all of the depicted areas are within evaluation scope. This includes content such as maps of the campus, forms for online payments, and discussion boards, some of which may be third-party content. If only a specific website area, such as the "Courseware Application", is defined as the evaluation target then all the parts of this area are within the evaluation scope. In this case, the evaluation scope would include all depicted courses, as well as the individual web pages that are common to all areas of the university. See also the definition for [common views](#common).
+When the target for evaluation is the whole banking website, then all of the depicted areas are within evaluation scope. This includes content such as application forms, authentication and internet banking. This includes 3rd party content used within the site. 
+
+When the evaluation target is only a specific website area, like "Commercial Banking", then all the parts of this area are within the evaluation scope. In this example, that means the evaluation scope would include Payments, Mortgage, Loans and Savings, as well as the [common views](#common), the Legal Notice and Sitemap in this example.
 
 ### Considerations for Particular Types of Digital Products
 
