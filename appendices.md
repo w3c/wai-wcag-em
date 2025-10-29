@@ -38,7 +38,7 @@ This is the internationally recognized standard that explains how to make web co
 
 * [Section 508 of the Rehabilitation Act](https://www.access-board.gov/ict/)
 * [EN 301 549 (PDF)](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf)
- 
+* [CAN/ASC - EN 301 549:2024](https://accessible.canada.ca/creating-accessibility-standards/canasc-en-301-5492024-accessibility-requirements-ict-products-and-services)
 
 ### Glossary
 
