@@ -85,7 +85,7 @@ During this step the evaluator explores the target product to be evaluated, to d
 
 <p class="note">To carry out this step it is critical that the evaluator has access to all the relevant parts of the product. For example, it may be necessary to create accounts or otherwise provide access to restricted areas of a product that are part of the evaluation. Granting evaluators such access may require particular security and privacy precautions.</p>
 
-#### Step 2.1: Identify Common Samples of the Digital Product {#step2a}
+#### Step 2.1: Identify Common Views of the Digital Product {#step2a}
 
 <p class="methodology-requirement"><strong id="req2a">Methodology Requirement 2.1:</strong> Identify the <a href="#common">common views</a> of the target product.</p>
 
@@ -150,7 +150,7 @@ During this step, the technologies relied upon for conformance are identified. T
 
 <p class="methodology-requirement"><strong id="req2e">Methodology Requirement 2.5:</strong> Identify other samples that are relevant to people with disabilities and to accessibility of the digital product.</p>
 
-Some digital products include samples that are specifically relevant for people with disabilities and the accessibility of the digital product. The outcome of this step is a list of such samples, if they have not already been identified as part of [Step 2.1: Identify Common Samples of the Digital Product](#step2a).
+Some digital products include samples that are specifically relevant for people with disabilities and the accessibility of the digital product. The outcome of this step is a list of such samples, if they have not already been identified as part of [Step 2.1: Identify Common Views of the Digital Product](#step2a).
 
 ##### Examples of Other Relevant Samples
 
@@ -202,11 +202,11 @@ The selection carried out during this step relies initially on the exploration c
 
 #### Step 3.1: Include a Structured Sample Set {#step3a}
 
-<p class="methodology-requirement"><strong id="req3a">Methodology Requirement 3.1:</strong> Select samples that reflect all identified (1) <a href="#common">common samples</a>, (2) <a href="#functionality">essential functionality</a>, (3) types of samples, (4) technologies relied upon, and (5) other relevant samples.</p>
+<p class="methodology-requirement"><strong id="req3a">Methodology Requirement 3.1:</strong> Select samples that reflect all identified (1) <a href="#common">common views</a>, (2) <a href="#functionality">essential functionality</a>, (3) types of samples, (4) technologies relied upon, and (5) other relevant samples.</p>
 
 Select a sample set that includes:
 
-1.  All common samples that were identified in [Step 2.1: Identify Common Samples of the Digital Product](#step2a):
+1.  All common views that were identified in [Step 2.1: Identify Common Views of the Digital Product](#step2a):
 2.  All other relevant samples that were identified in [Step 2.5: Identify Other Relevant Samples](#step2e);
 3.  If not already reflected in the previous steps, select additional samples with:
     1.  Content from each essential functionality identified in [Step 2.2: Identify Essential Functionality of the Digital Product](#step2b);
@@ -345,7 +345,7 @@ Documenting the outcomes for each step includes at least the following:
     *   Additional requirements, if any, defined in [Step 1.4: Define Additional Evaluation Requirements (Optional)](#step1d)
 *   **Digital Product Exploration**
     *   Technologies relied upon identified in [Step 2.4: Identify Technologies Relied Upon](#step2d)
-    *   Optional: Common samples identified in [Step 2.1: Identify Common Samples of the Digital Product](#step2a)
+    *   Optional: Common views identified in [Step 2.1: Identify Common Views of the Digital Product](#step2a)
     *   Optional: Essential functionality identified in [Step 2.2: Identify Essential Functionality of the Digital Product](#step2b)
     *   Optional: Variety of web page types identified in [Step 2.3: Identify the Variety of Samples](#step2c)
     *   Optional: Other relevant web pages identified in [Step 2.5: Identify Other Relevant Samples](#step2e)
