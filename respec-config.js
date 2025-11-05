@@ -60,6 +60,14 @@ var respecConfig = {
 			companyURI: "https://www.w3.org",			
 		},
     ],
+	
+	localBiblio: {
+		EASYCHECKS : {
+		  title: "Easy Checks",
+		  href: "https://www.w3.org/WAI/eval/preliminary",
+		  publisher: "W3C",
+		},
+	 },
 	//authors:  [
 	//    { name: "Your Name", url: "https://example.org/",
 	//      company: "Your Company", companyURI: "https://example.com/" },
