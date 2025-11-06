@@ -62,10 +62,55 @@ var respecConfig = {
     ],
 	
 	localBiblio: {
-		EASYCHECKS : {
-		  title: "Easy Checks",
+		"Easy-Checks" : {
+		  title: "Easy Checks - A First Review of Web Accessibility",
 		  href: "https://www.w3.org/WAI/eval/preliminary",
-		  publisher: "W3C",
+		  publisher: "Lawton Henry S, ed (2014). W3C.",
+		},
+		"Essential-Components-of-Web-Accessibility" : {
+		  title: "Easy Checks - A First Review of Web Accessibility",
+		  href: "https://www.w3.org/WAI/fundamentals/components/",
+		  publisher: "Lawton Henry S, ed (2005). Essential Components of Web Accessibility. Version 1.3. W3C.",
+		},
+		"How-People-with-Disabilities-Use-the-Web" : {
+		  title: "How People with Disabilities Use the Web.",
+		  href: "https://www.w3.org/WAI/people-use-web/",
+		  publisher: "Abou-Zahra S, ed (2012). Draft. W3C.",
+		},
+		"Involving-Users-in-Evaluating-Web-Accessibility" : {
+		  title: "Involving Users in Evaluating Web Accessibility",
+		  href: "https://www.w3.org/WAI/test-evaluate/involving-users/",
+		  publisher: "Lawton Henry S, ed (2010). Involving Users in Evaluating Web Accessibility. W3C.",
+		},
+		"Selecting-Web-Accessibility-Evaluation-Tools" : {
+		  title: "Selecting Web Accessibility Evaluation Tools",
+		  href: "https://www.w3.org/WAI/test-evaluate/tools/selecting/",
+		  publisher: "Abou-Zahra S, ed (2005). W3C.",
+		},
+		"Using-Combined-Expertise-to-Evaluate-Web-Accessibility" : {
+		  title: "Using Combined Expertise to Evaluate Web Accessibility",
+		  href: "https://www.w3.org/WAI/test-evaluate/combined-expertise/",
+		  publisher: "Brewer J, ed (2002). W3C.",
+		},
+		"UWEM" : {
+		  title: "D-WAB4 Unified Web Evaluation Methodology (UWEM 1.2 Core)",
+		  href: "https://link.springer.com/chapter/10.1007/978-3-540-73283-9_21",
+		  publisher: "Velleman E.M, Velasco C.A, Snaprud M, eds (2007). Wabcluster.",
+		},
+		"WCAG2-Overview" : {
+		  title: "Web Content Accessibility Guidelines (WCAG) Overview",
+		  href: "https://www.w3.org/WAI/standards-guidelines/wcag/",
+		  publisher: "Lawton Henry S, ed (2012). W3C.",
+		},
+		"WCAG22-TECHS" : {
+		  title: "Techniques and Failures for Web Content Accessibility Guidelines 2.2",
+		  href: "https://www.w3.org/WAI/WCAG22/Techniques/",
+		  publisher: "Campbell A, Adams C, Montgomery RB, Cooper M, eds (2025). Techniques and Failures for Web Content Accessibility Guidelines 2.2. W3C.",
+		},
+		"Understanding-WCAG22" : {
+		  title: "Understanding WCAG 2.2 - A guide to understanding and implementing Web Content Accessibility Guidelines 2.2",
+		  href: "https://www.w3.org/WAI/WCAG22/Understanding/",
+		  publisher: "Campbell A, Adams C, Montgomery RB, Cooper M, eds (2025). W3C.",
 		},
 	 },
 	//authors:  [
