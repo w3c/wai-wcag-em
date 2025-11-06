@@ -328,6 +328,8 @@ While evaluation findings are reported at the end of the process, documenting th
 
 Documenting the outcomes for each of the previous steps (including all sub-sections) is essential to ensure transparency of the evaluation process, replicability of the evaluation results, and justification for any statements made based on this evaluation. This **documentation does not need to be public**, the level of confidentiality is usually determined by the evaluation commissioner.
 
+[[WCAG-EM-Report-Tool]] helps generate reports based on the steps in this document.
+
 Documenting the outcomes for each step includes at least the following:
 
 *   **About the Evaluation**

@@ -112,6 +112,11 @@ var respecConfig = {
 		  href: "https://www.w3.org/WAI/WCAG22/Understanding/",
 		  publisher: "Campbell A, Adams C, Montgomery RB, Cooper M, eds (2025). W3C.",
 		},
+		"WCAG-EM-Report-Tool": {
+		  title: "WCAG-EM Report Tool",
+		  href: "https://www.w3.org/WAI/eval/report-tool/",
+		  publisher: "Abou-Zahra S, project lead, de Vries H, design/development, Hansma M, development (2021). W3C",
+		},
 	 },
 	//authors:  [
 	//    { name: "Your Name", url: "https://example.org/",
