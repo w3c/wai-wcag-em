@@ -62,32 +62,32 @@ var respecConfig = {
     ],
 	
 	localBiblio: {
-		"Easy Checks" : {
+		"Easy-Checks" : {
 		  title: "Easy Checks - A First Review of Web Accessibility",
 		  href: "https://www.w3.org/WAI/eval/preliminary",
 		  publisher: "Lawton Henry S, ed (2014). W3C.",
 		},
-		"Essential Components of Web Accessibility" : {
+		"Essential-Components-of-Web-Accessibility" : {
 		  title: "Easy Checks - A First Review of Web Accessibility",
 		  href: "https://www.w3.org/WAI/fundamentals/components/",
 		  publisher: "Lawton Henry S, ed (2005). Essential Components of Web Accessibility. Version 1.3. W3C.",
 		},
-		"How People with Disabilities Use the Web" : {
+		"How-People-with-Disabilities-Use-the-Web" : {
 		  title: "How People with Disabilities Use the Web.",
 		  href: "https://www.w3.org/WAI/people-use-web/",
 		  publisher: "Abou-Zahra S, ed (2012). Draft. W3C.",
 		},
-		"Involving Users in Evaluating Web Accessibility" : {
+		"Involving-Users-in-Evaluating-Web-Accessibility" : {
 		  title: "Involving Users in Evaluating Web Accessibility",
 		  href: "https://www.w3.org/WAI/test-evaluate/involving-users/",
 		  publisher: "Lawton Henry S, ed (2010). Involving Users in Evaluating Web Accessibility. W3C.",
 		},
-		"Selecting Web Accessibility Evaluation Tools" : {
+		"Selecting-Web-Accessibility-Evaluation-Tools" : {
 		  title: "Selecting Web Accessibility Evaluation Tools",
 		  href: "https://www.w3.org/WAI/test-evaluate/tools/selecting/",
 		  publisher: "Abou-Zahra S, ed (2005). W3C.",
 		},
-		"Using Combined Expertise to Evaluate Web Accessibility" : {
+		"Using-Combined-Expertise-to-Evaluate-Web-Accessibility" : {
 		  title: "Using Combined Expertise to Evaluate Web Accessibility",
 		  href: "https://www.w3.org/WAI/test-evaluate/combined-expertise/",
 		  publisher: "Brewer J, ed (2002). W3C.",
