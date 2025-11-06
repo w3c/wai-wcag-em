@@ -326,12 +326,14 @@ While evaluation findings are reported at the end of the process, documenting th
 
 <p class="methodology-requirement"><strong id="req5a">Methodology Requirement 5.1:</strong> Document each outcome of the steps defined in <a href="#step1">Step 1: Define the Evaluation Scope</a>, <a href="#step2">Step 2: Explore the Target Digital Product</a>, <a href="#step3">Step 3: Select a Representative Sample</a>, and <a href="#step4">Step 4: Evaluate the Selected Sample Set</a>.</p>
 
-Documenting the outcomes for each of the previous steps (including all sub-sections) is essential to ensure transparency of the evaluation process, replicability of the evaluation results, and justification for any statements made based on this evaluation. This **documentation does not need to be public**, the level of confidentiality is usually determined by the evaluation commissioner.
+For transparency, replicability of the evaluation results and justifications for any statements made based on this evaluation, it is essential to document the outcomes for each of the previous steps (including all sub-sections). 
 
-Documenting the outcomes for each step includes at least the following:
+This **documentation does not need to be public**, the level of confidentiality is usually determined by the evaluation commissioner.
+
+Include at least the following:
 
 *   **About the Evaluation**
-    *   Name of the [evaluator](#evaluator)
+    *   Name of the [evaluator](#evaluator) (optionally including contact details)
     *   Name of the [evaluation commissioner](#commissioner)
     *   Date of the evaluation (completion date or duration period)
     *   Optional: version number and/or unique identifier of the evaluation
