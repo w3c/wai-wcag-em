@@ -5,7 +5,7 @@ Shadi Abou-Zahra;
 Alastair Campbell;
 Mike Gifford;
 Jan Jaap de Groot;
-Wendy Meerkerk,
+Wendy Meerkerk;
 Iacobien Riezebosch;
 Eric Velleman;
 Kevin White;
