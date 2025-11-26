@@ -206,12 +206,12 @@ The selection carried out during this step relies initially on the exploration c
 
 Select a sample set that includes:
 
-1.  All common views that were identified in [Step 2.1: Identify Common Views of the Digital Product](#step2a):
-2.  All other relevant samples that were identified in [Step 2.5: Identify Other Relevant Samples](#step2e);
-3.  If not already reflected in the previous steps, select additional samples with:
-    1.  Content from each essential functionality identified in [Step 2.2: Identify Essential Functionality of the Digital Product](#step2b);
-    2.  Content from the different types of samples identified in [Step 2.3: Identify the Variety of Sample Types](#step2c);
-    3.  Content provided using the technologies identified in [Step 2.4: Identify Technologies Relied Upon](#step2d).
+1.  Common views identified in [Step 2.1: Identify Common Views of the Digital Product](#step2a):
+2.  Relevant samples identified in [Step 2.5: Identify Other Relevant Samples](#step2e);
+3.  If not reflected in the previous steps, select additional samples with:
+    1.  Essential functionality identified in [Step 2.2: Identify Essential Functionality of the Digital Product](#step2b);
+    2.  Different types of samples identified in [Step 2.3: Identify the Variety of Sample Types](#step2c);
+    3.  Content using the technologies identified in [Step 2.4: Identify Technologies Relied Upon](#step2d).
 
 <p class="note">An individual sample may reflect more than one of each of the criteria listed above. For example, a single sample may be representative of a particular design layout, functionality, and technologies used. The purpose of this step is to have representation of the different types of samples, functionality, and technologies that occur on the digital product. Careful selection of these representative instances can significantly reduce the required sample set size while maintaining appropriate representation of the entire digital product. The number of required instances of samples depends on the particular aspects of the digital product explained in the previous section, <a href="#sample">factors influencing the sample set size</a>.</p>
 
