@@ -6,7 +6,7 @@ This methodology is used for thorough evaluation of digital products using WCAG 
 
 ### Required Expertise {#expertise}
 
-Users of this methodology are assumed to have solid understanding of how to evaluate web content using WCAG 2, accessible web design, assistive technologies, and of how people with different disabilities use the Web. 
+Users of this methodology are assumed to have solid understanding of how to evaluate content using WCAG 2, accessible design, assistive technologies, and of how people with different disabilities use digital products.
 
 This includes an understanding of:
 
