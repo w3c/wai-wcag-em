@@ -2,14 +2,14 @@
 
 The information below, related to accessibility essentials, evaluation, and WCAG 2 is important to use this methodology. Evaluators who use this methodology are expected to be deeply familiar with all of the listed resources.
 
-### Web Accessibility Essentials
+### Web accessibility essentials
 
 The following documents introduce the essential components of accessibility and explain how people with disabilities use the Web. They are critical to understand the broader context of accessibility evaluation:
 
 * [Essential Components of Web Accessibility](https://www.w3.org/WAI/fundamentals/components/)
 * [How People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/)
 
-### Evaluating Digital Products for Accessibility
+### Evaluating digital products for accessibility
 
 These are particularly important resources that outline different approaches to evaluate digital products for accessibility:
 
@@ -28,11 +28,11 @@ This is the internationally recognized standard that explains how to make web co
 * [[Understanding-WCAG22]]
 * [[WCAG22-TECHS]]
 
-### ICT Accessibility
+### ICT accessibility
 * [[[wcag2mobile-22]]]
 * [[[wcag2ict-22]]]
 
-### Other Standards which incorporate WCAG 2 by reference 
+### Other standards which incorporate WCAG 2 by reference 
 
 * [Section 508 of the Rehabilitation Act](https://www.access-board.gov/ict/)
 * [[etsi-en-301-549]] (PDF)

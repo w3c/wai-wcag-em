@@ -1,4 +1,4 @@
-This document describes a procedure to evaluate how well digital products conform to the [Web Content Accessibility Guidelines (WCAG) 2](https://www.w3.org/WAI/standards-guidelines/wcag/). 
+This document describes a methodology with a step-by-step process for evaluating how well digital products conform to the [Web Content Accessibility Guidelines (WCAG) 2](https://www.w3.org/WAI/standards-guidelines/wcag/). 
 
 It provides technology-agnostic guidance to define the evaluation scope, explore the target product, select a representative [sample set](#sampleset) from products, evaluate the selected [sample set](#sampleset), and report the evaluation findings. This procedure is suitable for use in different evaluation contexts, including self-assessment and third-party evaluation. 
 
