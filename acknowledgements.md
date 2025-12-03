@@ -3,6 +3,7 @@
 For the 2.0 update, contributors included
 Shadi Abou-Zahra;
 Alastair Campbell;
+Tamsin Ewing;
 Mike Gifford;
 Jan Jaap de Groot;
 Wendy Meerkerk;
