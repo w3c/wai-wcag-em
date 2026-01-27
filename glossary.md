@@ -1,47 +1,4 @@
-<section class="appendix">
-  <h2 class="appendix">Appendices</h2>
-
-### Background reading {#reading}
-
-The information below, related to accessibility essentials, evaluation, and WCAG 2 is important to use this methodology. Evaluators who use this methodology are expected to be deeply familiar with all of the listed resources.
-
-#### Web accessibility essentials
-
-The following documents introduce the essential components of accessibility and explain how people with disabilities use the Web. They are critical to understand the broader context of accessibility evaluation:
-
-* [Essential Components of Web Accessibility](https://www.w3.org/WAI/fundamentals/components/)
-* [How People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/)
-
-#### Evaluating digital products for accessibility
-
-These are particularly important resources that outline different approaches to evaluate digital products for accessibility:
-
-* [Easy Checks - A First Review of Web Accessibility](https://www.w3.org/WAI/test-evaluate/easy-checks/)
-* [Involving Users in Web Accessibility Evaluation](https://www.w3.org/WAI/test-evaluate/involving-users/)
-* [Selecting Web Accessibility Evaluation Tools](https://www.w3.org/WAI/test-evaluate/tools/selecting/)
-* [Using Combined Expertise to Evaluate Web Accessibility](https://www.w3.org/WAI/test-evaluate/combined-expertise/)
-
-#### Web Content Accessibility Guidelines (WCAG) 2
-
-This is the internationally recognized standard that explains how to make web content more accessible to people with disabilities. The following resources are particularly important for accessibility evaluation of digital products:
-
-* [[WCAG2-Overview]]
-* [[[WCAG22]]]
-* [How to Meet WCAG 2 (Quick Reference)](https://www.w3.org/WAI/WCAG22/quickref/)
-* [[Understanding-WCAG22]]
-* [[WCAG22-TECHS]]
-
-#### ICT accessibility
-* [[[wcag2mobile-22]]]
-* [[[wcag2ict-22]]]
-
-#### Other standards which incorporate WCAG 2 by reference 
-
-* [Section 508 of the Rehabilitation Act](https://www.access-board.gov/ict/)
-* [[etsi-en-301-549]] (PDF)
-* [CAN/ASC - EN 301 549:2024](https://accessible.canada.ca/creating-accessibility-standards/canasc-en-301-5492024-accessibility-requirements-ict-products-and-services)
-
-### Glossary
+## Glossary
 
 For the purposes of this document, the following terms and definitions apply:
 
@@ -111,29 +68,3 @@ When a <a href="#view">view</a> is one of a series of views presenting a process
 </dl>
 
 
-### Acknowledgements
-
-For the 2.0 update, contributors included
-Shadi Abou-Zahra;
-Alastair Campbell;
-Mike Gifford;
-Jan Jaap de Groot;
-Wendy Meerkerk,
-Iacobien Riezebosch;
-Eric Velleman;
-Kevin White;
-Paul van Workum.
-
-Editors also solicited feedback in evaluator interviews from 
-Roel Antonisse;
-Sacha Bogaers;
-Bram Duvigneau;
-Stefan Farnetani;
-Detlev Fischer;
-Ronny Hendriks;
-Sophie Ragas;
-Savitri Sinnema.
-
-Past and present active participants of the [WCAG 2.0 Evaluation Methodology Task Force (Eval TF)](https://www.w3.org/WAI/ER/2011/eval/eval-tf) include: Shadi Abou-Zahra; Frederick Boland; Denis Boudreau; Amy Chen; Vivienne Conway; Bim Egan; Michael Elledge; Gavin Evans; Wilco Fiers; Detlev Fischer; Elizabeth Fong; Vincent François; Alistair Garrison; Emmanuelle Gutiérrez y Restrepo; Katie Haritos-Shea; Martijn Houtepen; Peter Korn; Maureen Kraft; Aurelien Levy; David MacDonald; Mary Jo Mueller; Donald Raikes; Corominas Ramon; Roberto Scano; Samuel Sirois; Sarah J Swierenga; Eric Velleman; Konstantinos Votis; Kathleen Wahlbin; Elle Waters; Richard Warren; Léonie Watson.
-
-</section>
