@@ -30,14 +30,14 @@ var respecConfig = {
 			mailto: "hidde.vries@logius.nl",
 			company: "Logius",
 			companyURI: "https://www.logius.nl",
-			w3cid: 46880,
+			w3cid: 152469
 		},
 		{
 			name: "Jeroen Hulscher",
 			mailto: "jeroen.hulscher@logius.nl",
 			company: "Logius",
 			companyURI: "https://www.logius.nl",
-			w3cid: 72541,
+			w3cid: 150917
 		},
 		{
 			name: "Steve Faulkner",
