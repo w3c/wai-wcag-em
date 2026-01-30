@@ -1,16 +1,16 @@
 var respecConfig = {
 	noRecTrack: true,
 	tocIntroductory: true,
-	specStatus: "DNOTE",
+	specStatus: "ED",
 	maxTocLevel: 3,
 	shortName: "wcag-em-2",
 	
-	publishDate:  "2026-02-05",
+	//publishDate:  "2026-02-05",
 	copyrightStart: "2022",
 	license: "document",
 	
-	previousPublishDate:  "2014-07-10",
-	previousMaturity:  "NOTE",
+	previousPublishDate:  "2026-02-05",
+	previousMaturity:  "DNOTE",
 	otherLinks: [
 		{
 			key: "Previous Version",
