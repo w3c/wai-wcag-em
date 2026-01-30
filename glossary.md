@@ -40,7 +40,7 @@ When a <a href="#view">view</a> is one of a series of views presenting a process
 
 <dt id="relied">Relied upon (Technologies)</dt>
 
-<dd>From <a href="https://www.w3.org/TR/WCAG22/#dfn-reliedupon">WCAG 2.2 definition for "relied upon"</a>:  
+<dd>From <a href="https://www.w3.org/TR/WCAG22/#dfn-relied-upon">WCAG 2.2 definition for "relied upon"</a>:  
 <blockquote>The content would not conform if that technology is turned off or is not supported.</blockquote></dd>
 
 <dt id="sample">Sample</dt>

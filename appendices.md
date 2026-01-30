@@ -83,7 +83,7 @@ When a <a href="#view">view</a> is one of a series of views presenting a process
 
 <dt id="relied">Relied upon (Technologies)</dt>
 
-<dd>From <a href="https://www.w3.org/TR/WCAG22/#dfn-reliedupon">WCAG 2.2 definition for "relied upon"</a>:  
+<dd>From <a href="https://www.w3.org/TR/WCAG22/#dfn-relied-upon">WCAG 2.2 definition for "relied upon"</a>:  
 <blockquote>The content would not conform if that technology is turned off or is not supported.</blockquote></dd>
 
 <dt id="sample">Sample</dt>
@@ -106,7 +106,7 @@ When a <a href="#view">view</a> is one of a series of views presenting a process
 <blockquote>The content that is actively available in a viewport, including that which can be scrolled or panned to, and any additional content that is included by expansion, while leaving the rest of the content in the viewport actively available.</blockquote></dd>
 
 <dt id="webpage">Web page</dt>
-<dd>From <a href="https://www.w3.org/TR/WCAG22/#dfn-webpage">WCAG 2.2 definition for "web page"</a>:  
+<dd>From <a href="https://www.w3.org/TR/WCAG22/#dfn-web-page-s">WCAG 2.2 definition for "web page"</a>:  
 <blockquote>A non-embedded resource obtained from a single URI using HTTP plus any other resources that are used in the rendering or intended to be rendered together with it by a user agent.</blockquote></dd>
 </dl>
 
