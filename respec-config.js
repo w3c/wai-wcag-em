@@ -5,7 +5,7 @@ var respecConfig = {
 	maxTocLevel: 3,
 	shortName: "wcag-em-2",
 	
-	//publishDate:  "",
+	publishDate:  "2026-02-05",
 	copyrightStart: "2022",
 	license: "document",
 	
