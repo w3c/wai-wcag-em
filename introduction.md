@@ -1,6 +1,6 @@
 ## Introduction
 
-This document describes a process to comprehensively evaluate whether a digital product conforms to the [Web Content Accessibility Guidelines (WCAG) 2](https://www.w3.org/WAI/standards-guidelines/wcag/). 
+This document describes a process to comprehensively evaluate whether a digital product conforms to [Web Content Accessibility Guidelines (WCAG) 2](https://www.w3.org/WAI/standards-guidelines/wcag/). 
 
 Accessibility evaluations of digital products can be necessary in many situations, such as before releasing, acquiring, or redesigning a product, and for periodic monitoring of the accessibility performance of a product over time.
 
