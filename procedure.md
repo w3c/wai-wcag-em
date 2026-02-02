@@ -351,8 +351,8 @@ Include at least the following:
     *   Technologies relied upon identified in [Step 2.4: Identify Technologies Relied Upon](#step2d)
     *   Optional: Common views identified in [Step 2.1: Identify Common Views of the Digital Product](#step2a)
     *   Optional: Essential functionality identified in [Step 2.2: Identify Essential Functionality of the Digital Product](#step2b)
-    *   Optional: Variety of web page types identified in [Step 2.3: Identify the Variety of Samples](#step2c)
-    *   Optional: Other relevant web pages identified in [Step 2.5: Identify Other Relevant Samples](#step2e)
+    *   Optional: Variety of sample types identified in [Step 2.3: Identify the Variety of Samples](#step2c)
+    *   Optional: Other relevant samples identified in [Step 2.5: Identify Other Relevant Samples](#step2e)
 *   **Representative Sample Set**
     *   Pages or views selected through structured sampling in [Step 3.1: Include a Structured Sample Set](#step3a)
     *   Randomly selected samples  and selection method used in [Step 3.2: Include a Randomly Selected Sample Set](#step3b)
