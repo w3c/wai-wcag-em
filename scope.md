@@ -54,7 +54,7 @@ This methodology can be applied in different situations and contexts. The follow
 <dl>
 
 <dt>Self-assessment of conformance</dt>
-<dd>In-house evaluators and evaluators who are part of the development process often have easier access to the developers and maintainers of the digital product, the development and hosting environments, the authoring tools, and the materials used for development and maintenance. Particularly use cases, design analysis, technical specifications and documentation, and testing resources can make evaluation more effective and should be leveraged where possible.</dd>
+<dd>In-house evaluators and evaluators who are part of the development process often have easier access to the developers and maintainers of the digital product, the development and hosting environments, the authoring tools, and the materials used for development and maintenance. Particular use cases, design analysis, technical specifications and documentation, and testing resources can make evaluation more effective and should be leveraged where possible.</dd>
 
 <dt>Third-party assessment of conformance</dt>
 <dd>Independent external evaluators typically have less information about the digital product, internal software, areas, and functionality of a digital product as they have not been involved in its procurement and in how the digital product was designed and developed. Often evaluators in these situations need to contact the product's owner or developer to get necessary information that make the evaluation more effective.</dd>
