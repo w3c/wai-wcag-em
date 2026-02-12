@@ -270,7 +270,7 @@ Further guidance on evaluating to these conformance requirements is provided in 
 
 #### Step 4.1: Check all initial samples {#step4a}
 
-<p class="methodology-requirement"><strong id="req4a">Methodology Requirement 4.1:</strong> Check that each sample that is not within or the end of a complete process conforms to each of the five WCAG 2 conformance requirements at the target conformance level.</p>
+<p class="methodology-requirement"><strong id="req4a">Methodology Requirement 4.1:</strong> Check that each sample that is not within or at the end of a complete process conforms to each of the five WCAG 2 conformance requirements at the target conformance level.</p>
 
 For each sample selected in [Step 3: Select a Representative Sample Set](#step3) that is not within or the end of a complete process, check its conformance with each of the five WCAG conformance requirements, with the target conformance level defined in [Step 1.2: Define the Conformance Target](#step1b). This includes all components of the sample without activating any functions, entering any data, or otherwise initiating a process. Such functionality and interaction, including  samples that are within or the end of a complete process, will be evaluated in the subsequent step.
 
