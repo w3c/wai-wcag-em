@@ -1,4 +1,4 @@
-## Acknowledgements
+## Acknowledgments
 
 For the 2.0 update, contributors included
 Shadi Abou-Zahra;
