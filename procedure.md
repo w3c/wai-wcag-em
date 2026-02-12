@@ -243,7 +243,7 @@ The selected sample set has to include all pages or views that belong to a serie
 Use the following steps to include the necessary samples:
 
 1.  For each sample set selected through [Step 3.1: Include a Structured Sample Set](#step3a) and [Step 3.2: Include a Randomly Selected Sample](#step3b) that is part of a process, locate the starting point (sample) for the process and include it in the selected sample;
-2.  For each starting point for a process, identify and record at least the default sequence of samples to complete the process. Incude these samples.  
+2.  For each starting point for a process, identify and record at least the default sequence of samples to complete the process. Include these samples.  
     <p class="note">The default sequence follows the standard use case, describing the default path through the complete process. It assumes that there are no user input errors and no selection of additional options. For example, for a web shop application, the user would proceed to checkout, confirm the default payment option, provide all required payment details correctly, and complete the purchase, without changing the contents of the shopping cart, using a stored user profile, selecting alternative options for payment or shipping address, providing erroneous input, and so forth.</p>
 3.  For each process, identify and record the branch sequences of samples that are commonly accessed and critical for the successful completion of the process. Include these samples.  
     <p class="note">Branch sequences may terminate where they re-enter the default branch of the process. For example, adding a new shipping address will be registered as a critical alternative branch that leads back to the default branch of the process.</p>
