@@ -340,7 +340,7 @@ Include at least the following:
     *   Date of the evaluation (completion date or duration period)
     *   Optional: version number and/or unique identifier of the evaluation
     *   Optional: list of dates, such as the date of the initial report and dates of repeat evaluations
-    *   Optional: name of the person, team or organisation responsible for the digital product (this may be different from the evaluation commissioner)
+    *   Optional: name of the person, team or organization responsible for the digital product (this may be different from the evaluation commissioner)
     *   Optional: methodology used for evaluation
 *   **Evaluation Scope**
     *   Scope of the digital product defined in [Step 1.1: Define the Scope of the Digital Product](#step1a)
