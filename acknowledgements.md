@@ -1,4 +1,4 @@
-## Acknowledgements
+## Acknowledgments
 
 For the 2.0 update, contributors included
 Shadi Abou-Zahra;
@@ -6,6 +6,7 @@ Alastair Campbell;
 Tamsin Ewing;
 Mike Gifford;
 Jan Jaap de Groot;
+Ian Lloyd;
 Wendy Meerkerk;
 Iacobien Riezebosch;
 Eric Velleman;

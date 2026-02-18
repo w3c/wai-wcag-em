@@ -243,7 +243,7 @@ The selected sample set has to include all pages or views that belong to a serie
 Use the following steps to include the necessary samples:
 
 1.  For each sample set selected through [Step 3.1: Include a Structured Sample Set](#step3a) and [Step 3.2: Include a Randomly Selected Sample](#step3b) that is part of a process, locate the starting point (sample) for the process and include it in the selected sample;
-2.  For each starting point for a process, identify and record at least the default sequence of samples to complete the process. Incude these samples.  
+2.  For each starting point for a process, identify and record at least the default sequence of samples to complete the process. Include these samples.  
     <p class="note">The default sequence follows the standard use case, describing the default path through the complete process. It assumes that there are no user input errors and no selection of additional options. For example, for a web shop application, the user would proceed to checkout, confirm the default payment option, provide all required payment details correctly, and complete the purchase, without changing the contents of the shopping cart, using a stored user profile, selecting alternative options for payment or shipping address, providing erroneous input, and so forth.</p>
 3.  For each process, identify and record the branch sequences of samples that are commonly accessed and critical for the successful completion of the process. Include these samples.  
     <p class="note">Branch sequences may terminate where they re-enter the default branch of the process. For example, adding a new shipping address will be registered as a critical alternative branch that leads back to the default branch of the process.</p>
@@ -270,9 +270,9 @@ Further guidance on evaluating to these conformance requirements is provided in 
 
 #### Step 4.1: Check all initial samples {#step4a}
 
-<p class="methodology-requirement"><strong id="req4a">Methodology Requirement 4.1:</strong> Check that each sample that is not within or the end of a complete process conforms to each of the five WCAG 2 conformance requirements at the target conformance level.</p>
+<p class="methodology-requirement"><strong id="req4a">Methodology Requirement 4.1:</strong> Check that each sample that is not within or at the end of a complete process conforms to each of the five WCAG 2 conformance requirements at the target conformance level.</p>
 
-For each sample selected in [Step 3: Select a Representative Sample Set](#step3) that is not within or the end of a complete process, check its conformance with each of the five WCAG conformance requirements, with the target conformance level defined in [Step 1.2: Define the Conformance Target](#step1b). This includes all components of the sample without activating any functions, entering any data, or otherwise initiating a process. Such functionality and interaction, including  samples that are within or the end of a complete process, will be evaluated in the subsequent step.
+For each sample selected in [Step 3: Select a Representative Sample Set](#step3) that is not within or at the end of a complete process, check its conformance with each of the five WCAG conformance requirements, with the target conformance level defined in [Step 1.2: Define the Conformance Target](#step1b). This includes all components of the sample without activating any functions, entering any data, or otherwise initiating a process. Such functionality and interaction, including  samples that are within or the end of a complete process, will be evaluated in the subsequent step.
 
 <p class="note">Many samples will have components, such as the header, navigation bars, search form, and others that occur repeatedly. While the requirement is to check <a href="https://www.w3.org/TR/WCAG22/#cc2">full pages</a>, typically these components do not need to be re-evaluated on each occurrence unless they appear or behave differently, or when additional evaluation requirements are defined in <a href="#step1d">Step 1.4: Define Additional Evaluation Requirements (Optional)</a>.</p>
 
@@ -340,7 +340,7 @@ Include at least the following:
     *   Date of the evaluation (completion date or duration period)
     *   Optional: version number and/or unique identifier of the evaluation
     *   Optional: list of dates, such as the date of the initial report and dates of repeat evaluations
-    *   Optional: name of the person, team or organisation responsible for the digital product (this may be different from the evaluation commissioner)
+    *   Optional: name of the person, team or organization responsible for the digital product (this may be different from the evaluation commissioner)
     *   Optional: methodology used for evaluation
 *   **Evaluation Scope**
     *   Scope of the digital product defined in [Step 1.1: Define the Scope of the Digital Product](#step1a)
