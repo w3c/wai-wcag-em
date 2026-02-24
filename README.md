@@ -23,10 +23,11 @@ python3 -m http.server 8000 & sleep 2 && open http://localhost:8000
 
 ### All changes
 
-- 17 October: use banking website instead of university website as an example of product enclosure, use new graphic, and update steps in procedure to be styled with CSS ([#133](https://github.com/w3c/wai-wcag-em/pull/113)).
-- 7 October: simplify wording and make it more explicit in which cases sampling can be skipped ([108](https://github.com/w3c/wai-wcag-em/pull/108)).
-- 2 October: simplify steps section and add graphics to steps and types of digital products ([#105](https://github.com/w3c/wai-wcag-em/pull/105)).
-- 24 September: update “tech relied” on to remove Dojo, jQuery, add design systems and remove distinction between 'base' and 'auxiliary' as the distinction, while good and significant, overcomplicates more than it adds ([#101](https://github.com/w3c/wai-wcag-em/pull/101)). Add 'hybrid, cross platform' to 'native' applications ([#102](https://github.com/w3c/wai-wcag-em/commit/4313df11ffb06937a1d0ba7375a0a12f733978e6)).
+- 24 February 2026: update name to not include W3C.
+- 17 October 2025: use banking website instead of university website as an example of product enclosure, use new graphic, and update steps in procedure to be styled with CSS ([#133](https://github.com/w3c/wai-wcag-em/pull/113)).
+- 7 October 2025: simplify wording and make it more explicit in which cases sampling can be skipped ([108](https://github.com/w3c/wai-wcag-em/pull/108)).
+- 2 October 2025: simplify steps section and add graphics to steps and types of digital products ([#105](https://github.com/w3c/wai-wcag-em/pull/105)).
+- 24 September 2025: update “tech relied” on to remove Dojo, jQuery, add design systems and remove distinction between 'base' and 'auxiliary' as the distinction, while good and significant, overcomplicates more than it adds ([#101](https://github.com/w3c/wai-wcag-em/pull/101)). Add 'hybrid, cross platform' to 'native' applications ([#102](https://github.com/w3c/wai-wcag-em/commit/4313df11ffb06937a1d0ba7375a0a12f733978e6)).
 - 16 September 2025: mention that the report itself must be accessible ([88](https://github.com/w3c/wai-wcag-em/pull/88/files)), style the requirements boxes ([89](https://github.com/w3c/wai-wcag-em/pull/89)), update wording including removal of composite and aggregated digital products to simplify ([87](https://github.com/w3c/wai-wcag-em/pull/87)), split workflow steps into unordered list ([98](https://github.com/w3c/wai-wcag-em/pull/98/files)).
 - 12 September 2025: add examples of considerations for when auditing kiosks, self-service terminals, set-top boxes and documents ([#86](https://github.com/w3c/wai-wcag-em/pull/86/files)). The info itself is minimal, but the presence should help communicate that the process can be used widely.
 - 11 September 2025: add “unique identifier” ([d2ad36](https://github.com/w3c/wai-wcag-em/commit/d2ad364e69d7442d1af80f3331e5b56a0c2593f9)) and “methodology” ([ade823](https://github.com/w3c/wai-wcag-em/commit/ade82398a2fa64dca0e6b71aee9e130f7d302d50)) as possible meta data for a report.
