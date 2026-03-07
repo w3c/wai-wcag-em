@@ -23,7 +23,7 @@ python3 -m http.server 8000 & sleep 2 && open http://localhost:8000
 
 ### All changes
 
-- 24 February 2026: update name to not include W3C.
+- 24 February 2026: update name to "WCAG Evaluation Methodology (WCAG-EM)".
 - 17 October 2025: use banking website instead of university website as an example of product enclosure, use new graphic, and update steps in procedure to be styled with CSS ([#133](https://github.com/w3c/wai-wcag-em/pull/113)).
 - 7 October 2025: simplify wording and make it more explicit in which cases sampling can be skipped ([108](https://github.com/w3c/wai-wcag-em/pull/108)).
 - 2 October 2025: simplify steps section and add graphics to steps and types of digital products ([#105](https://github.com/w3c/wai-wcag-em/pull/105)).
