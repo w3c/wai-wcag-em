@@ -2,6 +2,7 @@
 
 For the 2.0 update, contributors included
 Shadi Abou-Zahra;
+Jason Ament;
 Alastair Campbell;
 Tamsin Ewing;
 Mike Gifford;
