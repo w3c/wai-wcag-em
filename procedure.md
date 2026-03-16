@@ -44,7 +44,7 @@ It is also important to document any particular aspects of the target product to
 
 <p class="methodology-requirement"><strong id="req1b">Methodology Requirement 1.2:</strong> Select a target WCAG 2 <a href="https://www.w3.org/TR/WCAG22/#cc1">conformance level</a> (“A”, “AA”, or “AAA”) for the evaluation.</p>
 
-WCAG 2 Level AA is the generally accepted and recommended target.
+<p class="note">WCAG 2 Level AA is the generally accepted and recommended target.</p>
 
 <p class="note">It is often useful to evaluate beyond the conformance target of the digital product. For example, a product might meet individual requirements from a higher conformance level. Documenting this information can help plan future improvements more effectively.</p>
 
