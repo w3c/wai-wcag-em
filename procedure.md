@@ -83,7 +83,7 @@ During this step the evaluator explores the target product to be evaluated, to d
 
 <p class="note">Carrying out initial cursory checks during this step helps identify samples that are relevant for more detailed evaluation later on. For example, an evaluator may identify samples that seem to be lacking color contrast, document structure, or consistent navigation, and note them down for more detailed evaluation later on.</p>
 
-<p class="note">To carry out this step it is critical that the evaluator has access to all the relevant parts of the product. For example, it may be necessary to create accounts or otherwise provide access to restricted areas of a product that are part of the evaluation. Granting evaluators such access may require particular security and privacy precautions.</p>
+<p class="note">To carry out this step it is critical that the evaluator has access to all the relevant parts of the product. For example, it may be necessary to create an account and ensure that the product's configuration is representative. When products display data, it may be necessary to pre-fill realistic data before starting the evaluation.</p>
 
 #### Step 2.1: Identify common views of the digital product {#step2a}
 
