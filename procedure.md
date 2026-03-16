@@ -361,6 +361,8 @@ Include at least the following:
     *   Evaluation outcomes from [Step 4.1: Check All Initial Samples](#step4a)
     *   Evaluation outcomes from [Step 4.2: Check All Complete Processes](#step4b)
     *   Evaluation outcomes from [Step 4.3: Compare Structured and Random Sample Sets](#step4c)
+  
+<p class="note">As part of documenting evaluation outcomes, clear issue descriptions, steps to reproduce, screenshots and/or videos can help teams resolve issues more quickly.</p>
 
 <p class="note">Depending on the desired granularity of the report documentation, the outcomes of <a href="#step4">Step 4: Evaluate the Selected Sample Set</a> may be provided for each evaluated sample, or aggregated over the entire sample set. Reports should include at least one example for each conformance requirement and WCAG 2 Success Criterion not met. It is also good practice for evaluators to indicate issues that occur repeatedly.</p>
 
@@ -376,7 +378,7 @@ Records of the evaluation specifics could include any of the following:
 
 *   Copies of the files and resources of the samples;  
     <p class="note">Some tools can save the dynamically generated or modified content (DOM) as displayed during the evaluation rather than the initial content of the files and resources, which is often different;</p>
-*   Screenshots (screen grabs) of the samples;
+*   Screenshots of the samples;
 *   Description of the path to locate the samples, especially when they are part of a process;
 *   Description of the settings, input, and actions used to generate or navigate to the samples. Specific test credentials (user-IDs, etc.) required to replicate a unique data set or workflow;
 *   Names and versions of the evaluation tools, web browsers and add-ons, assistive technology, and other software used;
