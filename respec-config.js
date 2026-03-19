@@ -60,10 +60,6 @@ var respecConfig = {
 			companyURI: "https://www.w3.org",			
 		},
     ],
-	
-	xref: [
-		"wcag22",
-	],
 
 	localBiblio: {
 		"Easy-Checks" : {
