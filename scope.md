@@ -41,7 +41,7 @@ This methodology is applicable to a broad variety of digital products. The follo
 	</div>
 	<div>
 		<dt><img src="images/icon-docs.svg" alt="">Documents</dt>
-		<dd>When the evaluation target is a single document, the evaluation is usually scoped to the whole document or specific parts of it, depending on document complexity.</dd>
+		<dd>When the evaluation target is a single document, the evaluation is usually scoped to the whole document or specific parts of it, depending on document complexity. Note that URL(s) may not be available for a document sample. Instead the document title and, possibly, filename can be used to specify <a>samples</a>.</dd>
 	</div>
 </dl>
 
