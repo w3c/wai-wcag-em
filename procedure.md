@@ -25,7 +25,7 @@ Usually, this step involves the evaluation commissioner (who may or may not be t
 
 #### Step 1.1: Define the scope of the product  {#step1a}
 
-<p class="methodology-requirement"><strong id="req1a">Methodology Requirement 1.1:</strong> Define the target <a>digital product</a> according to <a href="#applicability">Scope of Applicability</a>, so that for each <a href="https://www.w3.org/TR/wcag-3.0/#dfn-view">view</a> it is unambiguous whether it is within the scope of evaluation or not.</p>
+<p class="methodology-requirement"><strong id="req1a">Methodology Requirement 1.1:</strong> Define the target <a>digital product</a> according to <a href="#applicability">Scope of applicability</a>, so that for each <a href="https://www.w3.org/TR/wcag-3.0/#dfn-view">view</a> it is unambiguous whether it is within the scope of evaluation or not.</p>
 
 Define the target product, taking into account the considerations in [Scope of Applicability](#applicability), for example:
 
@@ -266,7 +266,7 @@ The five WCAG 2.2 conformance requirements are:
 
 Further guidance on evaluating to these conformance requirements is provided in the following sections. The [WCAG 2 Layers of Guidance](https://www.w3.org/TR/WCAG22/#wcag-2-layers-of-guidance) and [Understanding Conformance](https://www.w3.org/WAI/WCAG22/Understanding/conformance) provide more background and guidance on the WCAG 2 conformance requirements, which is beyond the scope of this document.
 
-<p class="note">Carrying out this step requires deep understanding of the WCAG 2 conformance requirements and the expertise described in section <a href="#expertise">Required Expertise</a>.</p>
+<p class="note">Carrying out this step requires deep understanding of the WCAG 2 conformance requirements and the expertise described in section <a href="#expertise">Required expertise</a>.</p>
 
 #### Step 4.1: Check all initial samples {#step4a}
 
@@ -274,7 +274,7 @@ Further guidance on evaluating to these conformance requirements is provided in 
 
 For each sample selected in [Step 3: Select a Representative Sample Set](#step3) that is not within or at the end of a complete process, check its conformance with each of the five WCAG conformance requirements, with the target conformance level defined in [Step 1.2: Define the Conformance Target](#step1b). This includes all components of the sample without activating any functions, entering any data, or otherwise initiating a process. Such functionality and interaction, including  samples that are within or the end of a complete process, will be evaluated in the subsequent step.
 
-<p class="note">Many samples will have components, such as the header, navigation bars, search form, and others that occur repeatedly. While the requirement is to check <a href="https://www.w3.org/TR/WCAG22/#cc2">full pages</a>, typically these components do not need to be re-evaluated on each occurrence unless they appear or behave differently, or when additional evaluation requirements are defined in <a href="#step1d">Step 1.4: Define Additional Evaluation Requirements (Optional)</a>.</p>
+<p class="note">Many samples will have components, such as the header, navigation bars, search form, and others that occur repeatedly. While the requirement is to check <a href="https://www.w3.org/TR/WCAG22/#cc2">full pages</a>, typically these components do not need to be re-evaluated on each occurrence unless they appear or behave differently, or when additional evaluation requirements are defined in <a href="#step1d">Step 1.4: Define additional evaluation requirements (optional)</a>.</p>
 
 ##### WCAG 2 success criteria
 
@@ -324,7 +324,7 @@ While evaluation findings are reported at the end of the process, documenting th
 
 #### Step 5.1: Document the outcomes of each step {#step5a}
 
-<p class="methodology-requirement"><strong id="req5a">Methodology Requirement 5.1:</strong> Document each outcome of the steps defined in <a href="#step1">Step 1: Define the Evaluation Scope</a>, <a href="#step2">Step 2: Explore the Target Digital Product</a>, <a href="#step3">Step 3: Select a Representative Sample</a>, and <a href="#step4">Step 4: Evaluate the Selected Sample Set</a>.</p>
+<p class="methodology-requirement"><strong id="req5a">Methodology Requirement 5.1:</strong> Document each outcome of the steps defined in <a href="#step1">Step 1: Define the evaluation scope</a>, <a href="#step2">Step 2: Explore the target digital product</a>, <a href="#step3">Step 3: Select a representative sample</a>, and <a href="#step4">Step 4: Evaluate the selected sample set</a>.</p>
 
 For transparency, replicability of the evaluation results and justifications for any statements made based on this evaluation, it is essential to document the outcomes for each of the previous steps (including all sub-sections). 
 
@@ -364,7 +364,7 @@ Include at least the following:
   
 <p class="note">As part of documenting evaluation outcomes, clear issue descriptions, steps to reproduce, screenshots and/or videos can help teams resolve issues more quickly.</p>
 
-<p class="note">Depending on the desired granularity of the report documentation, the outcomes of <a href="#step4">Step 4: Evaluate the Selected Sample Set</a> may be provided for each evaluated sample, or aggregated over the entire sample set. Reports should include at least one example for each conformance requirement and WCAG 2 Success Criterion not met. It is also good practice for evaluators to indicate issues that occur repeatedly.</p>
+<p class="note">Depending on the desired granularity of the report documentation, the outcomes of <a href="#step4">Step 4: Evaluate the selected sample set</a> may be provided for each evaluated sample, or aggregated over the entire sample set. Reports should include at least one example for each conformance requirement and WCAG 2 Success Criterion not met. It is also good practice for evaluators to indicate issues that occur repeatedly.</p>
 
 Reports may also include additional information depending on any additional evaluation requirements defined in [Step 1.4: Define Additional Evaluation Requirements (Optional)](#step1d). For example, an evaluation commissioner may request a report indicating every failure occurrence for every sample, more information about the nature and the causes of the identified failures, or repair suggestions to remedy the failures.
 
