@@ -32,7 +32,7 @@ This methodology is applicable to a broad variety of digital products. The follo
 	</div>
 	<div>
 		<dt><img src="images/icon-native-app.svg" alt="">Native, hybrid and cross-platform applications</dt>
-		<dd>For native, hybrid and cross-platform applications, no list of URLs can be generated to base a representative <a>sample set</a> on. Instead, samples can be identified with unique screenshots and/or descriptions of the path that lead to the specific <a>sample</a>.</dd>
+		<dd>For native, hybrid and cross-platform applications, a list of URLs cannot be generated to base a representative <a>sample set</a> on. Instead, samples can be identified with unique screenshots and/or descriptions of the path that lead to the specific <a>sample</a>.</dd>
 	</div>
 	<div>
 		<dt><img src="images/icon-kiosk.svg" alt="">Interfaces of kiosks, self-service terminals and set-top box interfaces</dt>
