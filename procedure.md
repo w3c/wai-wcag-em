@@ -21,7 +21,7 @@ Evaluators can proceed from one step to the next, and may return to any precedin
 
 <p class="methodology-requirement"><strong id="req1">Methodology Requirement 1:</strong> Define the evaluation scope according to <a href="#req1a">Methodology Requirement 1.1</a>, <a href="#req1b">Methodology Requirement 1.2</a>, and <a href="#req1c">Methodology Requirement 1.3</a>, and optionally <a href="#req1d">Methodology Requirement 1.4</a>.</p>
 
-Usually, this step involves the evaluation commissioner (who may or may _not_ be the product's owner), to align expectations, and an initial exploration of the product.
+Usually, this step involves the evaluation commissioner (who may or may not be the product's owner), to align expectations, and an initial exploration of the product.
 
 #### Step 1.1: Define the scope of the product  {#step1a}
 
