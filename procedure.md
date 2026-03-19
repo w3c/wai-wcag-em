@@ -89,7 +89,7 @@ During this step the evaluator explores the target product to be evaluated, to d
 
 <p class="methodology-requirement"><strong id="req2a">Methodology Requirement 2.1:</strong> Identify the <a>common views</a> of the target product.</p>
 
-Explore the target product to identify its common views, which may also be specific states of views. Typically these are linked directly from the main entry point of the target product (like the home page on a website, or the start screen of an app), and often linked from the header, navigation, and footer sections of other samples. The outcome of this step is a list of all common pages or views of the target product.
+Explore the target product to identify its common views, which may also be specific states of views. Typically these are linked directly from the main entry point of the target product (like the home page on a website, or the start screen of an app), and often linked from the header, navigation, and footer sections of other views. The outcome of this step is a list of all common pages or views of the target product.
 
 #### Step 2.2: Identify essential functionality of the product {#step2b}
 
