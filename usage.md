@@ -15,11 +15,11 @@ This includes an understanding of:
 - assistive technologies and adaptive approaches that people with disabilities use, and
 - evaluation techniques, tools, and methods to identify barriers for people with disabilities. 
 
-In particular, it is assumed that users of this methodology are deeply familiar with all the resources listed in [Background Reading](#reading).
+In particular, it is assumed that users of this methodology are deeply familiar with all the resources listed in [Background reading](#reading).
 
 ### Combined expertise (optional)
 
-This methodology can be carried out by an individual evaluator with the skills described in the previous section ([Required Expertise](#expertise)), or a team of evaluators with collective expertise. 
+This methodology can be carried out by an individual evaluator with the skills described in the previous section ([Required expertise](#expertise)), or a team of evaluators with collective expertise. 
 
 Using the combined expertise of different evaluators may sometimes be necessary or beneficial when one evaluator alone does not possess all of the required expertise. 
 
