@@ -1,6 +1,6 @@
 ## Scope of applicability {#applicability}
 
-This methodology is designed to evaluate full, self-enclosed [digital products](#digital-product), such as websites. In [Step 1.a](#step1a), evaluators define what is in scope exactly. 
+This methodology is designed to evaluate full, self-enclosed <a>digital products</a>, such as websites. In [Step 1.a](#step1a), evaluators define what is in scope exactly. 
 
 ### Principle of product enclosure
 
@@ -8,13 +8,13 @@ Full product enclosure is essential, meaning that we define the scope to include
 
 #### Example of product enclosure
 
-An example of product enclosure could be the following banking website. It has distinct areas for personal banking, commercial banking, internet banking and service &amp; contact. It also has [common views](#common) that are linked from all pages, like their legal notice and sitemap:
+An example of product enclosure could be the following banking website. It has distinct areas for personal banking, commercial banking, internet banking and service &amp; contact. It also has <a>common views</a> that are linked from all pages, like their legal notice and sitemap:
 
 <img src="images/website.svg" alt="Diagram of the sections described in the preceding paragraph, with all of the mentioned areas and pages listed as pages, and examples of pages underneath personal banking and commercial banking, like payments, international and mortgage." style="max-width: 100%;" />
 
 When the target for evaluation is the whole banking website, then all of the depicted areas are within evaluation scope. This includes content such as application forms, authentication and internet banking. This includes 3rd party content used within the site. 
 
-When the evaluation target is only a specific website area, like "Commercial Banking", then all the parts of this area are within the evaluation scope. In this example, that means the evaluation scope would include Payments, Mortgage, Loans and Savings, as well as the [common views](#common), the Legal Notice and Sitemap in this example.
+When the evaluation target is only a specific website area, like "Commercial Banking", then all the parts of this area are within the evaluation scope. In this example, that means the evaluation scope would include Payments, Mortgage, Loans and Savings, as well as the <a>common views</a>, the Legal Notice and Sitemap in this example.
 
 ### Considerations for particular types of digital products
 
@@ -23,21 +23,21 @@ This methodology is applicable to a broad variety of digital products. The follo
 <dl class="considerations-particular-products">
 	<div>
 		<dt><img src="images/icon-website.svg" alt="">Websites</dt>
-		<dd>Websites exist in many sizes, anywhere from just the one page to collections of thousands or more. Websites with many pages can use the <a href="#step3">sampling procedure</a> to select a representative <a href="#sampleset">sample set</a>. On websites with a few pages, all pages can be evaluated and the <a href="#step3">sampling procedure</a> can be skipped. </dd>
+		<dd>Websites exist in many sizes, anywhere from just the one page to collections of thousands or more. Websites with many pages can use the <a href="#step3">sampling procedure</a> to select a representative <a>sample set</a>. On websites with a few pages, all pages can be evaluated and the <a href="#step3">sampling procedure</a> can be skipped. </dd>
 	</div>
 	<div>
 		<dt><img src="images/icon-web-app.svg" alt="">Web applications</dt>
-		<dd>Web applications generally contain a lot of dynamically generated content and functionality. They tend to be more complex and interactive. Therefore, they typically require more time and effort to evaluate, and will typically need a larger <a href="#sampleset">sample set</a>. Some examples of web applications include web-based email clients, document editors, video sharing platforms, social media sites and booking platforms.
+		<dd>Web applications generally contain a lot of dynamically generated content and functionality. They tend to be more complex and interactive. Therefore, they typically require more time and effort to evaluate, and will typically need a larger <a>sample set</a>. Some examples of web applications include web-based email clients, document editors, video sharing platforms, social media sites and booking platforms.
 		</dd>
 	</div>
 	<div>
 		<dt><img src="images/icon-native-app.svg" alt="">Native, hybrid and cross-platform applications</dt>
-		<dd>For native, hybrid and cross-platform applications, no list of URLs can be generated to base a representative <a href="#sampleset">sample set</a> on. Instead, samples can be identified with unique screenshots and/or descriptions of the path that lead to the specific <a href="#sample">sample</a>.</dd>
+		<dd>For native, hybrid and cross-platform applications, no list of URLs can be generated to base a representative <a>sample set</a> on. Instead, samples can be identified with unique screenshots and/or descriptions of the path that lead to the specific <a>sample</a>.</dd>
 	</div>
 	<div>
 		<dt><img src="images/icon-kiosk.svg" alt="">Interfaces of kiosks, self-service terminals and set-top box interfaces</dt>
 		<dd>When the interface can be tested in a browser, see the considerations for web applications.</dd>
-		<dd>When the interface is evaluated while running on a hardware terminal, there is usually no way to generate a list of URLs. Samples can be identified with unique screenshots, photos and/or descriptions of the path that lead to the specific <a href="#sample">sample</a>.</dd>
+		<dd>When the interface is evaluated while running on a hardware terminal, there is usually no way to generate a list of URLs. Samples can be identified with unique screenshots, photos and/or descriptions of the path that lead to the specific <a>sample</a>.</dd>
 	</div>
 	<div>
 		<dt><img src="images/icon-docs.svg" alt="">Documents</dt>
@@ -68,10 +68,10 @@ This methodology can be applied in different situations and contexts. The follow
 <dt>Re-running product evaluation</dt>
 <dd>Evaluation, according to this methodology, may be re-run after a short period; for example, when issues are identified and repaired by the product's owner or developer, or periodically to monitor progress. In such cases the evaluation can be carried out using a sample that includes:
 
-* A sub-set of the <a href="#sample">samples</a> that were used in the preceding evaluation to facilitate comparability between the results;
-* A replaced sub-set of <a href="#sample">samples</a> from those that were used in the preceding evaluation to improve view coverage;
+* A sub-set of the <a>samples</a> that were used in the preceding evaluation to facilitate comparability between the results;
+* A replaced sub-set of <a>samples</a> from those that were used in the preceding evaluation to improve view coverage;
 
-Unless significant changes were made to the digital product, there is usually no need to change the size of the selected sample nor the approach used for sampling. The amount of replaced <a href="#sample">samples</a> in a fresh <a href="#sampleset">sample set</a> is typically about half of the initial <a href="#sampleset">sample set</a>, though this could be increased when samples mostly conform to WCAG 2.</dd>
+Unless significant changes were made to the digital product, there is usually no need to change the size of the selected sample nor the approach used for sampling. The amount of replaced <a>samples</a> in a fresh <a>sample set</a> is typically about half of the initial sample set, though this could be increased when samples mostly conform to WCAG 2.</dd>
 
 <dt>Large-scale evaluation</dt>
 <dd>Carrying out mass evaluation of many digital products, for example for national or international surveying, is typically carried out by primarily using automated evaluation tools. Relatively few views undergo full manual inspection. Such evaluations do not usually address the necessary qualitative depth of conformance review per product for which this methodology is designed.</dd>

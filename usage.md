@@ -1,6 +1,6 @@
 ## Using this methodology
 
-This methodology is used for thorough evaluation of digital products using WCAG 2. Before evaluating an entire digital product it is usually good to do a preliminary evaluation of different [samples](#sample) from the target product to identify obvious accessibility barriers and develop an overall understanding of the accessibility of the digital product. 
+This methodology is used for thorough evaluation of digital products using WCAG 2. Before evaluating an entire digital product it is usually good to do a preliminary evaluation of different <a>samples</a> from the target product to identify obvious accessibility barriers and develop an overall understanding of the accessibility of the digital product. 
 
 [Easy Checks - A First Review of Web Accessibility](https://www.w3.org/WAI/test-evaluate/preliminary/) describes such an approach for preliminary evaluation that is complementary to this methodology.
 
@@ -33,7 +33,7 @@ Involving people with disabilities (who are not experienced evaluators or part o
 
 ### Evaluation tools (optional)
 
-This methodology is independent of any particular accessibility evaluation tool, web browser, and other software tool. While most accessibility checks are not fully automatable, evaluation tools can significantly assist evaluators during the evaluation process and contribute to more effective evaluation. For example, some accessibility evaluation tools can scan an entire digital product to help identify relevant [samples](#sample) for manual evaluation. Tools can also assist during manual (human) evaluation of accessibility checks. 
+This methodology is independent of any particular accessibility evaluation tool, web browser, and other software tool. While most accessibility checks are not fully automatable, evaluation tools can significantly assist evaluators during the evaluation process and contribute to more effective evaluation. For example, some accessibility evaluation tools can scan an entire digital product to help identify relevant <a>samples</a> for manual evaluation. Tools can also assist during manual (human) evaluation of accessibility checks. 
 
 [Selecting Web Accessibility Evaluation Tools](https://www.w3.org/WAI/test-evaluate/tools/selecting/) provides further guidance on using tools.
 

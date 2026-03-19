@@ -61,6 +61,10 @@ var respecConfig = {
 		},
     ],
 	
+	xref: [
+		"wcag22",
+	],
+
 	localBiblio: {
 		"Easy-Checks" : {
 		  title: "Easy Checks - A First Review of Web Accessibility",
