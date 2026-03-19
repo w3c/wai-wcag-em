@@ -13,7 +13,7 @@ For the purposes of this document, the following terms and definitions apply:
 <dt><dfn id="dfn-digital-product">digital product</dfn></dt>
 <dd>coherent collection of one or more related views that together provide common use or functionality
 
-<p class="example">Web sites, web apps, e-books, kiosk apps, mobile apps and documents (PDF, Word)</p>
+<aside class="example">Web sites, web apps, e-books, kiosk apps, mobile apps and documents (PDF, Word)</aside>
 
 <p class="note">The focus of this methodology is on full, self-enclosed digital products. Digital products may be composed of smaller subsets of views, each of which can be considered to be an individual product. For example, a digital product may include an online shop, an area for each department within the organization, a blog area, and other areas that may each be considered to be a digital product.</p></dd>
 
@@ -21,7 +21,7 @@ For the purposes of this document, the following terms and definitions apply:
 <dd>functionality that, if removed, fundamentally changes the use or purpose of the product for users
 
 <p class="note">This includes information that users of a product refer to and tasks that they carry out to perform this functionality.</p>
-<p class="example">Examples of essential functionality include “selecting and purchasing an item from an online shop”, “completing and submitting a form provided in an application”, and “registering for an account on the kiosk”.</p>
+<aside class="example">Examples of essential functionality include “selecting and purchasing an item from an online shop”, “completing and submitting a form provided in an application”, and “registering for an account on the kiosk”.</aside>
 <p class="note">Other functionality is not excluded from the scope of evaluation. The term “essential functionality” is intended to help identify critical samples and include them among others in an evaluation.</p></dd>
 
 <dt><dfn id="dfn-evaluator">evaluator</dfn></dt>
