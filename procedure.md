@@ -99,13 +99,13 @@ Explore the target product to identify its essential functionality. While some f
 
 <p class="note">The purpose of this step is not to exhaustively identify all functionality of a product but to determine those that are essential to the purpose and goal of the target product. This will inform later selection of samples and their evaluation. Other functionality will also be included in the evaluation but through other selection mechanisms.</p>
 
-##### Examples of product functionality
-
-Some examples of product functionality include:
-
-*   Selecting and purchasing products from the web shop;
-*   Completing and submitting the survey forms;
-*   Registering for an account on the product.
+<aside class="example" title="Product functionality examples">
+<ul>
+    <li>Selecting and purchasing products from the web shop;</li>
+    <li>Completing and submitting the survey forms;</li>
+    <li>Registering for an account on the product.</li>
+</ul>
+</aside>
 
 #### Step 2.3: Identify the variety of sample types {#step2c}
 
@@ -115,19 +115,22 @@ Samples with varying styles, layouts, structures, and functionality often have v
 
 During this step the evaluator explores the target product to identify the different **types** of samples. The outcome of this step is a list of descriptions of the types of content identified, rather than specific instances of samples. This list will be used in the following steps to help select representative sample set for evaluation.
 
-##### Examples of sample types
+<aside class="example" title="Sample type examples">
 
-Some examples of different types of samples that evaluators can look for include:
+<p>Some examples of different types of samples that evaluators can look for include:</p>
 
-*   varying styles, layout, structure, navigation, interaction, and visual design;
-*   varying types of content such as forms, tables, lists, headings, multimedia, and scripting;
-*   varying functional components such as date picker, lightbox, slider, and others;
-*   using varying technologies such as HTML, CSS, JavaScript, WAI-ARIA, PDF, etc.;
-*   from varying areas of the product (home page, web shop, departments, etc.) including any applications;
-*   with varying coding styles and created using varying [templates](https://www.w3.org/TR/ATAG20/#def-template) (if this is known to the evaluator);
-*   authored by varying people, departments, and other entities (if this is known to the evaluator);
-*   that change appearance and behavior depending on the user, device, browser, context, and settings;
-*   with dynamic content, error messages, dialog-boxes, pop-up windows, and other interaction.
+<ul>
+    <li>varying styles, layout, structure, navigation, interaction, and visual design;</li>
+    <li>varying types of content such as forms, tables, lists, headings, multimedia, and scripting;</li>
+    <li>varying functional components such as date picker, lightbox, slider, and others;</li>
+    <li>using varying technologies such as HTML, CSS, JavaScript, WAI-ARIA, PDF, etc.;</li>
+    <li>from varying areas of the product (home page, web shop, departments, etc.) including any applications;</li>
+    <li>with varying coding styles and created using varying [templates](https://www.w3.org/TR/ATAG20/#def-template) (if this is known to the evaluator);</li>
+    <li>authored by varying people, departments, and other entities (if this is known to the evaluator);</li>
+    <li>that change appearance and behavior depending on the user, device, browser, context, and settings;</li>
+    <li>with dynamic content, error messages, dialog-boxes, pop-up windows, and other interaction.</li>
+</ul>
+</aside>
 
 #### Step 2.4: Identify technologies relied upon {#step2d}
 
@@ -152,14 +155,14 @@ During this step, the technologies relied upon for conformance are identified. T
 
 Some digital products include samples that are specifically relevant for people with disabilities and the accessibility of the digital product. The outcome of this step is a list of such samples, if they have not already been identified as part of [Step 2.1: Identify Common Views of the Digital Product](#step2a).
 
-##### Examples of other relevant samples
-
-Examples of other relevant samples include those:
-
-*   explaining the accessibility features of the digital product;
-*   with information and help on the use of the digital product;
-*   explaining settings, preferences, options, shortcuts, etc.;
-*   with contact information, directions, and support instructions.
+<aside class="example" title="Other relevant samples">
+<ul>
+    <li>Those explaining the accessibility features of the digital product.</li>
+    <li>Those with information and help on the use of the digital product.</li>
+    <li>Those explaining settings, preferences, options, shortcuts, etc.</li>
+    <li>Those with contact information, directions, and support instructions.</li>
+</ul>
+</aside>
 
 ### Step 3: Select a representative sample {#step3}
 
