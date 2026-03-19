@@ -4,12 +4,12 @@ This document describes a process to comprehensively evaluate whether a digital 
 
 Accessibility evaluations of digital products can be necessary in many situations, such as before releasing, acquiring, or redesigning a product, and for periodic monitoring of the accessibility performance of a product over time.
 
-Several factors can impact an evaluation, including the: 
+Several factors can impact an evaluation, including: 
 
-- type of digital product (for example, website, mobile application, kiosk, document),
-- size of a digital product, its complexity, and which technologies it uses (for example, HTML, WAI-ARIA, PDF),
-- degree of knowledge the evaluators have about how the product was designed and developed, and
-- main purpose for the evaluation (for example, to issue an accessibility statement, to plan a redesign process, to perform research).
+- the type of digital product (for example, website, mobile application, kiosk, document),
+- the size of a digital product, its complexity, and which technologies it uses (for example, HTML, WAI-ARIA, PDF),
+- the degree of knowledge the evaluators have about how the product was designed and developed, and
+- the main purpose for the evaluation (for example, to issue an accessibility statement, to plan a redesign process, to perform research).
 
 This document takes these factors into account and highlights several considerations for evaluators. It provides a common framework for accessibility evaluations that acts as a roadmap, helping evaluators apply good practice, avoid commonly made mistakes, and achieve more comparable results.
 
