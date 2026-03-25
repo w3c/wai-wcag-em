@@ -8,7 +8,7 @@ For the purposes of this document, the following terms and definitions apply:
 
 <p class="note">This includes the home, login, and other entry points, and, where applicable, contacts, help, legal information, and similar views that are typically linked from all other views (usually from the header, footer, or navigation menu).</p>
 
-<p class="note">A definition for <a href="https://www.w3.org/TR/wcag-3.0/#dfn-view">views</a> is provided below.</p></dd>
+<p class="note">A definition for <a>view</a> is provided below.</p></dd>
 
 <dt><dfn id="dfn-digital-product">digital product</dfn></dt>
 <dd>coherent collection of one or more related views that together provide common use or functionality
@@ -33,8 +33,17 @@ For the purposes of this document, the following terms and definitions apply:
 <p class="note">In many cases the evaluation commissioner may be the product owner or product developer, in other cases it may be another entity such as a procurer or an accessibility monitoring survey owner.</p></dd>
 
 <dt><dfn id="dfn-sample">sample</dfn></dt>
-<dd><a href="https://www.w3.org/TR/wcag-3.0/#dfn-view">view</a> that is included in the <a>sample set</a></dd>
+<dd><a>view</a> that is included in the <a>sample set</a></dd>
 
 <dt><dfn id="dfn-sample-set">sample set</dfn></dt>
 <dd>list of <a>samples</a> selected for evaluations</dd>
+
+<dt><dfn id="dfn-view">view</dfn></dt>
+<dd>From WCAG 3 developing definition:  
+<blockquote>
+  <p>The content that is actively available in a viewport, including that which can be scrolled or panned to, and any additional content that is included by expansion, while leaving the rest of the content in the viewport actively available.</p>
+  <p class="note">A modal dialog box would constitute a new view because the other content in the viewport is no longer actively available.</p>
+  <p class="example">Examples of “included by expansion” include, but are not limited to: expanding paragraphs, non-modal dialogs, non-modal popups, error messages that appear embedded in content (for example, an “invalid password” error message).</p>
+</blockquote></dd> 
+</dd>
 </dl>
