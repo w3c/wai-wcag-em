@@ -60,7 +60,7 @@ var respecConfig = {
 			companyURI: "https://www.w3.org",			
 		},
     ],
-	
+
 	localBiblio: {
 		"Easy-Checks" : {
 		  title: "Easy Checks - A First Review of Web Accessibility",

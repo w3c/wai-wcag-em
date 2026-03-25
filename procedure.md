@@ -21,11 +21,11 @@ Evaluators can proceed from one step to the next, and may return to any precedin
 
 <p class="methodology-requirement"><strong id="req1">Methodology Requirement 1:</strong> Define the evaluation scope according to <a href="#req1a">Methodology Requirement 1.1</a>, <a href="#req1b">Methodology Requirement 1.2</a>, and <a href="#req1c">Methodology Requirement 1.3</a>, and optionally <a href="#req1d">Methodology Requirement 1.4</a>.</p>
 
-Usually, this step involves the evaluation commissioner (who may or may _not_ be the product's owner), to align expectations, and an initial exploration of the product.
+Usually, this step involves the evaluation commissioner (who may or may not be the product's owner), to align expectations, and an initial exploration of the product.
 
 #### Step 1.1: Define the scope of the product  {#step1a}
 
-<p class="methodology-requirement"><strong id="req1a">Methodology Requirement 1.1:</strong> Define the target <a href="#digital-product">digital product</a> according to <a href="#applicability">Scope of Applicability</a>, so that for each <a href="#view">view</a> it is unambiguous whether it is within the scope of evaluation or not.</p>
+<p class="methodology-requirement"><strong id="req1a">Methodology Requirement 1.1:</strong> Define the target <a>digital product</a> according to <a href="#applicability">Scope of applicability</a>, so that for each <a href="https://www.w3.org/TR/wcag-3.0/#dfn-view">view</a> it is unambiguous whether it is within the scope of evaluation or not.</p>
 
 Define the target product, taking into account the considerations in [Scope of Applicability](#applicability), for example:
 
@@ -62,7 +62,7 @@ During this step the evaluator determines the minimum set of combinations of ope
 
 #### Step 1.4: Define additional evaluation requirements (optional)  {#step1d}
 
-<p class="methodology-requirement"><strong id="req1d">Methodology Requirement 1.4:</strong> Define any additional evaluation requirements agreed by the <a href="#evaluator">evaluator</a> and <a href="#commissioner">evaluation commissioner</a> (Optional).</p>
+<p class="methodology-requirement"><strong id="req1d">Methodology Requirement 1.4:</strong> Define any additional evaluation requirements agreed by the <a>evaluator</a> and <a>evaluation commissioner</a> (Optional).</p>
 
 An evaluation commissioner may be interested in additional information beyond what is needed to evaluate the extent of conformance of the target product to WCAG 2. For example, an evaluation commissioner might be interested in:
 
@@ -79,33 +79,33 @@ Such additional evaluation requirements that are agreed on with the evaluator ne
 
 <p class="methodology-requirement"><strong id="req2">Methodology Requirement 2:</strong> Explore the digital product to be evaluated according to <a href="#req2a">Methodology Requirement 2.1</a>, <a href="#req2b">Methodology Requirement 2.2</a>, <a href="#req2c">Methodology Requirement 2.3</a>, <a href="#req2d">Methodology Requirement 2.4</a>, and <a href="#req2e">Methodology Requirement 2.5</a>.</p>
 
-During this step the evaluator explores the target product to be evaluated, to develop an initial understanding of the product and its use, purpose, and functionality. Much of this will not be immediately apparent to evaluators, in particular to those from outside the development team. In some cases it is also not possible to exhaustively identify and list all functionality, types of samples, and technologies used to realize the product. Involvement of product owners and product developers can help evaluators make their explorations more effective.
+During this step the evaluator explores the target product to be evaluated, to develop an initial understanding of the product and its use, purpose, and functionality. Much of this will not be immediately apparent to evaluators, in particular to those from outside the development team. In some cases it is also not possible to exhaustively identify and list all functionality, types of views, and technologies used to realize the product. Involvement of product owners and product developers can help evaluators make their explorations more effective.
 
-<p class="note">Carrying out initial cursory checks during this step helps identify samples that are relevant for more detailed evaluation later on. For example, an evaluator may identify samples that seem to be lacking color contrast, document structure, or consistent navigation, and note them down for more detailed evaluation later on.</p>
+<p class="note">Carrying out initial cursory checks during this step helps identify views that are relevant for more detailed evaluation later on. For example, an evaluator may identify views that seem to be lacking color contrast, document structure, or consistent navigation, and note them down for more detailed evaluation later on.</p>
 
 <p class="note">To carry out this step it is critical that the evaluator has access to all the relevant parts of the product. For example, it may be necessary to create an account and ensure that the product's configuration is representative. When products display data, it may be necessary to pre-fill realistic data before starting the evaluation.</p>
 
 #### Step 2.1: Identify common views of the digital product {#step2a}
 
-<p class="methodology-requirement"><strong id="req2a">Methodology Requirement 2.1:</strong> Identify the <a href="#common">common views</a> of the target product.</p>
+<p class="methodology-requirement"><strong id="req2a">Methodology Requirement 2.1:</strong> Identify the <a>common views</a> of the target product.</p>
 
-Explore the target product to identify its common views, which may also be specific states of views. Typically these are linked directly from the main entry point of the target product (like the home page on a website, or the start screen of an app), and often linked from the header, navigation, and footer sections of other samples. The outcome of this step is a list of all common pages or views of the target product.
+Explore the target product to identify its common views, which may also be specific states of views. Typically these are linked directly from the main entry point of the target product (like the home page on a website, or the start screen of an app), and often linked from the header, navigation, and footer sections of other views. The outcome of this step is a list of all common pages or views of the target product.
 
 #### Step 2.2: Identify essential functionality of the product {#step2b}
 
-<p class="methodology-requirement"><strong id="req2b">Methodology Requirement 2.2:</strong> Identify an initial list of <a href="#functionality">essential functionality</a> of the target product.</p>
+<p class="methodology-requirement"><strong id="req2b">Methodology Requirement 2.2:</strong> Identify an initial list of <a>essential functionality</a> of the target product.</p>
 
 Explore the target product to identify its essential functionality. While some functionality will be easy to identify, others will need more deliberate discovery. For example, it may be easier to identify the functionality for purchasing products in an online shop than the functionality provided for vendors to sell products through the shop. The outcome of this step is a list of functionality that users can perform on the product. This list will be used in the following steps to help select representative samples for evaluation.
 
 <p class="note">The purpose of this step is not to exhaustively identify all functionality of a product but to determine those that are essential to the purpose and goal of the target product. This will inform later selection of samples and their evaluation. Other functionality will also be included in the evaluation but through other selection mechanisms.</p>
 
-##### Examples of product functionality
-
-Some examples of product functionality include:
-
-*   Selecting and purchasing products from the web shop;
-*   Completing and submitting the survey forms;
-*   Registering for an account on the product.
+<aside class="example" title="Product functionality examples">
+<ul>
+    <li>Selecting and purchasing products from the web shop;</li>
+    <li>Completing and submitting the survey forms;</li>
+    <li>Registering for an account on the product.</li>
+</ul>
+</aside>
 
 #### Step 2.3: Identify the variety of sample types {#step2c}
 
@@ -115,23 +115,26 @@ Samples with varying styles, layouts, structures, and functionality often have v
 
 During this step the evaluator explores the target product to identify the different **types** of samples. The outcome of this step is a list of descriptions of the types of content identified, rather than specific instances of samples. This list will be used in the following steps to help select representative sample set for evaluation.
 
-##### Examples of sample types
+<aside class="example" title="Sample type examples">
 
-Some examples of different types of samples that evaluators can look for include:
+<p>Some examples of different types of samples that evaluators can look for include:</p>
 
-*   varying styles, layout, structure, navigation, interaction, and visual design;
-*   varying types of content such as forms, tables, lists, headings, multimedia, and scripting;
-*   varying functional components such as date picker, lightbox, slider, and others;
-*   using varying technologies such as HTML, CSS, JavaScript, WAI-ARIA, PDF, etc.;
-*   from varying areas of the product (home page, web shop, departments, etc.) including any applications;
-*   with varying coding styles and created using varying [templates](#template) (if this is known to the evaluator);
-*   authored by varying people, departments, and other entities (if this is known to the evaluator);
-*   that change appearance and behavior depending on the user, device, browser, context, and settings;
-*   with dynamic content, error messages, dialog-boxes, pop-up windows, and other interaction.
+<ul>
+    <li>varying styles, layout, structure, navigation, interaction, and visual design;</li>
+    <li>varying types of content such as forms, tables, lists, headings, multimedia, and scripting;</li>
+    <li>varying functional components such as date picker, lightbox, slider, and others;</li>
+    <li>using varying technologies such as HTML, CSS, JavaScript, WAI-ARIA, PDF, etc.;</li>
+    <li>from varying areas of the product (home page, web shop, departments, etc.) including any applications;</li>
+    <li>with varying coding styles and created using varying [templates](https://www.w3.org/TR/ATAG20/#def-template) (if this is known to the evaluator);</li>
+    <li>authored by varying people, departments, and other entities (if this is known to the evaluator);</li>
+    <li>that change appearance and behavior depending on the user, device, browser, context, and settings;</li>
+    <li>with dynamic content, error messages, dialog-boxes, pop-up windows, and other interaction.</li>
+</ul>
+</aside>
 
 #### Step 2.4: Identify technologies relied upon {#step2d}
 
-<p class="methodology-requirement"><strong id="req2d">Methodology Requirement 2.4:</strong> Identify the technologies <a href="#relied">relied upon</a> to provide the product.</p>
+<p class="methodology-requirement"><strong id="req2d">Methodology Requirement 2.4:</strong> Identify the technologies <a href="https://www.w3.org/TR/WCAG22/#dfn-relied-upon">relied upon</a> to provide the product.</p>
 
 During this step, the technologies relied upon for conformance are identified. This can include technologies such as HTML, CSS, JavaScript, SVG, WAI-ARIA, and PDF. The outcome of this step is a list of technologies that are [relied upon according to WCAG 2](https://www.w3.org/TR/WCAG22/#dfn-relied-upon). This list will be used in the following steps to help select representative samples for evaluation.
 
@@ -152,14 +155,14 @@ During this step, the technologies relied upon for conformance are identified. T
 
 Some digital products include samples that are specifically relevant for people with disabilities and the accessibility of the digital product. The outcome of this step is a list of such samples, if they have not already been identified as part of [Step 2.1: Identify Common Views of the Digital Product](#step2a).
 
-##### Examples of other relevant samples
-
-Examples of other relevant samples include those:
-
-*   explaining the accessibility features of the digital product;
-*   with information and help on the use of the digital product;
-*   explaining settings, preferences, options, shortcuts, etc.;
-*   with contact information, directions, and support instructions.
+<aside class="example" title="Other relevant samples">
+<ul>
+    <li>Those explaining the accessibility features of the digital product.</li>
+    <li>Those with information and help on the use of the digital product.</li>
+    <li>Those explaining settings, preferences, options, shortcuts, etc.</li>
+    <li>Those with contact information, directions, and support instructions.</li>
+</ul>
+</aside>
 
 ### Step 3: Select a representative sample {#step3}
 
@@ -202,7 +205,7 @@ The selection carried out during this step relies initially on the exploration c
 
 #### Step 3.1: Include a structured sample set {#step3a}
 
-<p class="methodology-requirement"><strong id="req3a">Methodology Requirement 3.1:</strong> Select samples that reflect all identified (1) <a href="#common">common views</a>, (2) <a href="#functionality">essential functionality</a>, (3) types of samples, (4) technologies relied upon, and (5) other relevant samples.</p>
+<p class="methodology-requirement"><strong id="req3a">Methodology Requirement 3.1:</strong> Select samples that reflect all identified (1) <a>common views</a>, (2) <a>essential functionality</a>, (3) types of samples, (4) technologies relied upon, and (5) other relevant samples.</p>
 
 Select a sample set that includes:
 
@@ -213,7 +216,7 @@ Select a sample set that includes:
     2.  Different types of samples identified in [Step 2.3: Identify the Variety of Sample Types](#step2c);
     3.  Content using the technologies identified in [Step 2.4: Identify Technologies Relied Upon](#step2d).
 
-<p class="note">An individual sample may reflect more than one of each of the criteria listed above. For example, a single sample may be representative of a particular design layout, functionality, and technologies used. The purpose of this step is to have representation of the different types of samples, functionality, and technologies that occur on the digital product. Careful selection of these representative instances can significantly reduce the required sample set size while maintaining appropriate representation of the entire digital product. The number of required instances of samples depends on the particular aspects of the digital product explained in the previous section, <a href="#sample">factors influencing the sample set size</a>.</p>
+<p class="note">An individual sample may reflect more than one of each of the criteria listed above. For example, a single sample may be representative of a particular design layout, functionality, and technologies used. The purpose of this step is to have representation of the different types of samples, functionality, and technologies that occur on the digital product. Careful selection of these representative instances can significantly reduce the required sample set size while maintaining appropriate representation of the entire digital product. The number of required instances of samples depends on the particular aspects of the digital product explained in the previous section, factors influencing the sample set size.</p>
 
 #### Step 3.2: Include a randomly selected sample set {#step3b}
 
@@ -236,7 +239,7 @@ Document the samples that were randomly selected as these will need to be compar
 
 #### Step 3.3: Include complete processes {#step3c}
 
-<p class="methodology-requirement"><strong id="req3c">Methodology Requirement 3.3</strong> Include all samples that are part of a <a href="#complete">complete process</a> in the selected sample set.</p>
+<p class="methodology-requirement"><strong id="req3c">Methodology Requirement 3.3</strong> Include all samples that are part of a <a href="https://www.w3.org/TR/WCAG22/#cc3">complete process</a> in the selected sample set.</p>
 
 The selected sample set has to include all pages or views that belong to a series presenting a complete process. When samples belong to a process, all pages or views that belong to that same process have to be included.
 
@@ -266,7 +269,7 @@ The five WCAG 2.2 conformance requirements are:
 
 Further guidance on evaluating to these conformance requirements is provided in the following sections. The [WCAG 2 Layers of Guidance](https://www.w3.org/TR/WCAG22/#wcag-2-layers-of-guidance) and [Understanding Conformance](https://www.w3.org/WAI/WCAG22/Understanding/conformance) provide more background and guidance on the WCAG 2 conformance requirements, which is beyond the scope of this document.
 
-<p class="note">Carrying out this step requires deep understanding of the WCAG 2 conformance requirements and the expertise described in section <a href="#expertise">Required Expertise</a>.</p>
+<p class="note">Carrying out this step requires deep understanding of the WCAG 2 conformance requirements and the expertise described in section <a href="#expertise">Required expertise</a>.</p>
 
 #### Step 4.1: Check all initial samples {#step4a}
 
@@ -274,7 +277,7 @@ Further guidance on evaluating to these conformance requirements is provided in 
 
 For each sample selected in [Step 3: Select a Representative Sample Set](#step3) that is not within or at the end of a complete process, check its conformance with each of the five WCAG conformance requirements, with the target conformance level defined in [Step 1.2: Define the Conformance Target](#step1b). This includes all components of the sample without activating any functions, entering any data, or otherwise initiating a process. Such functionality and interaction, including  samples that are within or the end of a complete process, will be evaluated in the subsequent step.
 
-<p class="note">Many samples will have components, such as the header, navigation bars, search form, and others that occur repeatedly. While the requirement is to check <a href="https://www.w3.org/TR/WCAG22/#cc2">full pages</a>, typically these components do not need to be re-evaluated on each occurrence unless they appear or behave differently, or when additional evaluation requirements are defined in <a href="#step1d">Step 1.4: Define Additional Evaluation Requirements (Optional)</a>.</p>
+<p class="note">Many samples will have components, such as the header, navigation bars, search form, and others that occur repeatedly. While the requirement is to check <a href="https://www.w3.org/TR/WCAG22/#cc2">full pages</a>, typically these components do not need to be re-evaluated on each occurrence unless they appear or behave differently, or when additional evaluation requirements are defined in <a href="#step1d">Step 1.4: Define additional evaluation requirements (optional)</a>.</p>
 
 ##### WCAG 2 success criteria
 
@@ -324,7 +327,7 @@ While evaluation findings are reported at the end of the process, documenting th
 
 #### Step 5.1: Document the outcomes of each step {#step5a}
 
-<p class="methodology-requirement"><strong id="req5a">Methodology Requirement 5.1:</strong> Document each outcome of the steps defined in <a href="#step1">Step 1: Define the Evaluation Scope</a>, <a href="#step2">Step 2: Explore the Target Digital Product</a>, <a href="#step3">Step 3: Select a Representative Sample</a>, and <a href="#step4">Step 4: Evaluate the Selected Sample Set</a>.</p>
+<p class="methodology-requirement"><strong id="req5a">Methodology Requirement 5.1:</strong> Document each outcome of the steps defined in <a href="#step1">Step 1: Define the evaluation scope</a>, <a href="#step2">Step 2: Explore the target digital product</a>, <a href="#step3">Step 3: Select a representative sample</a>, and <a href="#step4">Step 4: Evaluate the selected sample set</a>.</p>
 
 For transparency, replicability of the evaluation results and justifications for any statements made based on this evaluation, it is essential to document the outcomes for each of the previous steps (including all sub-sections). 
 
@@ -335,8 +338,8 @@ This **documentation does not need to be public**, the level of confidentiality 
 Include at least the following:
 
 *   **About the Evaluation**
-    *   Name of the [evaluator](#evaluator) (optionally including contact details)
-    *   Name of the [evaluation commissioner](#commissioner)
+    *   Name of the <a>evaluator</a> (optionally including contact details)
+    *   Name of the <a>evaluation commissioner</a>
     *   Date of the evaluation (completion date or duration period)
     *   Optional: version number and/or unique identifier of the evaluation
     *   Optional: list of dates, such as the date of the initial report and dates of repeat evaluations
@@ -364,7 +367,7 @@ Include at least the following:
   
 <p class="note">As part of documenting evaluation outcomes, clear issue descriptions, steps to reproduce, screenshots and/or videos can help teams resolve issues more quickly.</p>
 
-<p class="note">Depending on the desired granularity of the report documentation, the outcomes of <a href="#step4">Step 4: Evaluate the Selected Sample Set</a> may be provided for each evaluated sample, or aggregated over the entire sample set. Reports should include at least one example for each conformance requirement and WCAG 2 Success Criterion not met. It is also good practice for evaluators to indicate issues that occur repeatedly.</p>
+<p class="note">Depending on the desired granularity of the report documentation, the outcomes of <a href="#step4">Step 4: Evaluate the selected sample set</a> may be provided for each evaluated sample, or aggregated over the entire sample set. Reports should include at least one example for each conformance requirement and WCAG 2 Success Criterion not met. It is also good practice for evaluators to indicate issues that occur repeatedly.</p>
 
 Reports may also include additional information depending on any additional evaluation requirements defined in [Step 1.4: Define Additional Evaluation Requirements (Optional)](#step1d). For example, an evaluation commissioner may request a report indicating every failure occurrence for every sample, more information about the nature and the causes of the identified failures, or repair suggestions to remedy the failures.
 
@@ -416,7 +419,7 @@ Evaluation statements according to this methodology can also be made when only [
 
 <p class="methodology-requirement"><strong id="req5d">Methodology Requirement 5.4:</strong> Provide an Aggregated score (Optional).</p>
 
-While aggregated scores provide a numerical indicator to help communicate progress over time, there is currently no single metric that is known to address the required reliability, accuracy, and practicality. In fact, aggregated scores can be misleading and do not provide sufficient context and information to understand the actual accessibility of a digital product. For this and other reasons WCAG 2 does not provide a rating scheme. A [W3C Research Report on Web Accessibility Metrics](https://www.w3.org/TR/accessibility-metrics-report/) provides more background on on-going research, different approaches, and limitations of scoring metrics that are beyond the scope of this document. Whenever a score is provided, it is essential that the scoring approach is documented and made available to the [evaluation commissioner](#commissioner) along with the report, to facilitate transparency and repeatability.
+While aggregated scores provide a numerical indicator to help communicate progress over time, there is currently no single metric that is known to address the required reliability, accuracy, and practicality. In fact, aggregated scores can be misleading and do not provide sufficient context and information to understand the actual accessibility of a digital product. For this and other reasons WCAG 2 does not provide a rating scheme. A [W3C Research Report on Web Accessibility Metrics](https://www.w3.org/TR/accessibility-metrics-report/) provides more background on on-going research, different approaches, and limitations of scoring metrics that are beyond the scope of this document. Whenever a score is provided, it is essential that the scoring approach is documented and made available to the <a>evaluation commissioner</a> along with the report, to facilitate transparency and repeatability.
 
 #### Step 5.5: Provide machine-readable reports (optional) {#step5e}
 

@@ -22,11 +22,11 @@ These are particularly important resources that outline different approaches to 
 
 This is the internationally recognized standard that explains how to make web content more accessible to people with disabilities. The following resources are particularly important for accessibility evaluation of digital products:
 
-* [[WCAG2-Overview]]
+* [[[WCAG2-Overview]]]
 * [[[WCAG22]]]
 * [How to Meet WCAG 2 (Quick Reference)](https://www.w3.org/WAI/WCAG22/quickref/)
-* [[Understanding-WCAG22]]
-* [[WCAG22-TECHS]]
+* [[[Understanding-WCAG22]]]
+* [[[WCAG22-TECHS]]]
 
 ### ICT accessibility
 * [[[wcag2mobile-22]]]
@@ -35,5 +35,5 @@ This is the internationally recognized standard that explains how to make web co
 ### Other standards which incorporate WCAG 2 by reference 
 
 * [Section 508 of the Rehabilitation Act](https://www.access-board.gov/ict/)
-* [[etsi-en-301-549]] (PDF)
+* [[[etsi-en-301-549]]] (PDF)
 * [CAN/ASC - EN 301 549:2024](https://accessible.canada.ca/creating-accessibility-standards/canasc-en-301-5492024-accessibility-requirements-ict-products-and-services)
