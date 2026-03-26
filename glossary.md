@@ -44,7 +44,7 @@ For the purposes of this document, the following terms and definitions apply:
 
 <dt><dfn id="dfn-view">view</dfn></dt>
 <dd>
-  <p>The content that is <a>actively available</a> in a viewport, including that which can be scrolled or panned to, and any additional content that is included by expansion, while leaving the rest of the content in the viewport actively available.</p>
+  <p>content that is <a>actively available</a> in a viewport, including that which can be scrolled or panned to, and any additional content that is included by expansion, while leaving the rest of the content in the viewport actively available</p>
   <p class="example">Examples of “included by expansion” include, but are not limited to: expanding paragraphs, non-modal dialogs, non-modal popups, error messages that appear embedded in content (for example, an “invalid password” error message).</p>
   <p class="note">A modal dialog box would constitute a new view because the other content in the viewport is no longer actively available.</p>
   <p class="note">This definition is taken from the definition being developed in WCAG 3.</p>
