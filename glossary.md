@@ -4,10 +4,8 @@ For the purposes of this document, the following terms and definitions apply:
 
 <dl>
   <dt><dfn id="dfn-actively-available"> actively available</dfn></dt>
-  <dd>From WCAG 3 developing definition:  
-    <blockquote>
-    available for the user to perceive and use
-    </blockquote>
+  <dd>available for the user to perceive and use
+    <p class="note">This taken from the definition being developed in WCAG 3.</p>
   </dd>
 <dt><dfn  id="dfn-common-views">common views</dfn></dt>
 <dd>views that are relevant to the entire digital product
@@ -45,11 +43,10 @@ For the purposes of this document, the following terms and definitions apply:
 <dd>list of <a>samples</a> selected for evaluations</dd>
 
 <dt><dfn id="dfn-view">view</dfn></dt>
-<dd>From WCAG 3 developing definition:  
-<blockquote>
+<dd>
   <p>The content that is <a>actively available</a> in a viewport, including that which can be scrolled or panned to, and any additional content that is included by expansion, while leaving the rest of the content in the viewport actively available.</p>
   <p class="note">A modal dialog box would constitute a new view because the other content in the viewport is no longer actively available.</p>
   <p class="example">Examples of “included by expansion” include, but are not limited to: expanding paragraphs, non-modal dialogs, non-modal popups, error messages that appear embedded in content (for example, an “invalid password” error message).</p>
-</blockquote></dd> 
+  <p class="note">This taken from the definition being developed in WCAG 3.</p>
 </dd>
 </dl>
