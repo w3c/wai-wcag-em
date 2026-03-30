@@ -23,11 +23,11 @@ Evaluators can proceed from one step to the next, and may return to any precedin
 
 Usually, this step involves the evaluation commissioner (who may or may _not_ be the product's owner), to align expectations, and an initial exploration of the product.
 
-#### Step 1.1: Define the scope of the product  {#step1a}
+#### Step 1.1: Define the scope of the digital product  {#step1a}
 
 <p class="methodology-requirement"><strong id="req1a">Methodology Requirement 1.1:</strong> Define the target <a href="#digital-product">digital product</a> according to <a href="#applicability">Scope of Applicability</a>, so that for each <a href="#view">view</a> it is unambiguous whether it is within the scope of evaluation or not.</p>
 
-Define the target product, taking into account the considerations in [Scope of Applicability](#applicability), for example:
+Define the target product, taking into account the considerations in [Scope of applicability](#applicability), for example:
 
 - All content on https://example-museum.org.
 - All content on Example's Museum Shop, located on https://shop.example-museum.org, except for the Temporary Art Collection
@@ -36,9 +36,9 @@ It is important to be clear and unambiguous in this step, and avoid any doubt re
 
 It is also important to document any particular aspects of the target product to support its identification. This includes:
 
-*   Use of third-party content and services;
-*   Mobile and language versions of the product;
-*   Parts of the product, especially those that may not be easily identifiable as such, for example, an online shop that has a different web address but is still considered to be part of the target product.
+*   use of third-party content and services,
+*   mobile and language versions of the product, and
+*   parts of the product, especially those that may not be easily identifiable as such — for example, an online shop that has a different web address but is still considered to be part of the target product.
 
 #### Step 1.2: Define the conformance target {#step1b}
 
@@ -54,9 +54,9 @@ It is also important to document any particular aspects of the target product to
 
 Particularly for new technologies it is not always possible to ensure that every accessibility feature provided on a digital product, such as a “Show captions” function in a media player, is supported by every possible combination of operating system, web browser, assistive technology, and other user agents. WCAG 2 does not pre-define which combinations of features and technologies must be supported as this depends on the particular context of the product, including its language, the technologies that are used to create the content, and the user agents currently available. [Understanding Accessibility Support](https://www.w3.org/WAI/WCAG22/Understanding/conformance#accessibility-support) provides more guidance on the WCAG 2 concept of _accessibility support_.
 
-During this step the evaluator determines the minimum set of combinations of operating systems, web browsers, assistive technologies, and other user agents that the product is expected to work with, and that is in-line with the WCAG 2 guidance on accessibility support (linked above). This step is carried out in consultation with the evaluation commissioner to ensure common expectation for the targeted level of accessibility support. The product's owner and product's developer may also have such a list of combinations that the product was designed to support, which could be a starting point for this step. Depending on the purpose of the evaluation such a list may need to be updated, for example to assess how well the product works with more current browsers.
+During this step the evaluator determines the minimum set of combinations of operating systems, web browsers, assistive technologies, and other user agents that the product is expected to work with, and that is in-line with the WCAG 2 guidance on accessibility support (linked above). This step is carried out in consultation with the evaluation commissioner to ensure common expectation for the targeted level of accessibility support. The product's owner and product's developer may also have such a list of combinations that the product was designed to support, which could be a starting point for this step. Depending on the purpose of the evaluation such a list may need to be updated — for example to assess how well the product works with more current browsers.
 
-<p class="note">This initial definition of the baseline does not limit the evaluator from using additional operating systems, web browsers, assistive technologies and other user agents at a later point, for example to evaluate content that was not identified at this early stage of the evaluation process. In this case the baseline is extended with the additional tools that were used.</p>
+<p class="note">This initial definition of the baseline does not limit the evaluator from using additional operating systems, web browsers, assistive technologies and other user agents at a later point — for example to evaluate content that was not identified at this early stage of the evaluation process. In this case the baseline is extended with the additional tools that were used.</p>
 
 <p class="note">For some products in closed networks, such as an intranet product, where both the users and the computers used to access the product are known, this baseline may be limited to the operating systems, applications, web browsers and assistive technologies used within this closed network. However, in most cases this baseline is ideally broader to cover the majority of current user agents used by people with disabilities in any applicable particular geographic region and language community.</p>
 
@@ -66,14 +66,14 @@ During this step the evaluator determines the minimum set of combinations of ope
 
 An evaluation commissioner may be interested in additional information beyond what is needed to evaluate the extent of conformance of the target product to WCAG 2. For example, an evaluation commissioner might be interested in:
 
-*   Evaluation of additional views beyond what is needed to form a representative sample set from the target digital product;
-*   Reports of all occurrences of issues rather than representative examples of the types of issues on the target digital product;
-*   Analysis of particular use cases, situations, and user groups for interacting with the target digital product;
-*   Description of possible solutions to the issues encountered beyond the scope of the evaluation;
-*   Evaluation involving users with disabilities;
-*   Adherence to specific documentation or reporting templates.
+*   evaluation of additional views beyond what is needed to form a representative sample set from the target digital product,
+*   reports of all occurrences of issues rather than representative examples of the types of issues on the target digital product,
+*   analysis of particular use cases, situations, and user groups for interacting with the target digital product,
+*   description of possible solutions to the issues encountered beyond the scope of the evaluation,
+*   evaluation involving users with disabilities, and
+*   adherence to specific documentation or reporting templates.
 
-Such additional evaluation requirements that are agreed on with the evaluator need to be clarified early on and documented. This also needs to be reflected in the resulting report, for example, to clarify how the selection of the sample set was carried out.
+Such additional evaluation requirements that are agreed on with the evaluator need to be clarified early on and documented. This also needs to be reflected in the resulting report — for example, to clarify how the selection of the sample set was carried out.
 
 ### Step 2: Explore the target digital product {#step2}
 
@@ -91,7 +91,7 @@ During this step the evaluator explores the target product to be evaluated, to d
 
 Explore the target product to identify its common views, which may also be specific states of views. Typically these are linked directly from the main entry point of the target product (like the home page on a website, or the start screen of an app), and often linked from the header, navigation, and footer sections of other samples. The outcome of this step is a list of all common pages or views of the target product.
 
-#### Step 2.2: Identify essential functionality of the product {#step2b}
+#### Step 2.2: Identify essential functionality of the digital product {#step2b}
 
 <p class="methodology-requirement"><strong id="req2b">Methodology Requirement 2.2:</strong> Identify an initial list of <a href="#functionality">essential functionality</a> of the target product.</p>
 
@@ -103,9 +103,9 @@ Explore the target product to identify its essential functionality. While some f
 
 Some examples of product functionality include:
 
-*   Selecting and purchasing products from the web shop;
-*   Completing and submitting the survey forms;
-*   Registering for an account on the product.
+*   selecting and purchasing products from the web shop,
+*   completing and submitting the survey forms, and
+*   registering for an account on the product.
 
 #### Step 2.3: Identify the variety of sample types {#step2c}
 
@@ -113,21 +113,21 @@ Some examples of product functionality include:
 
 Samples with varying styles, layouts, structures, and functionality often have varying support for accessibility. They are often generated by different templates and scripts, or authored by different people. They may appear differently, behave differently, and contain different content depending on the particular product user and context.
 
-During this step the evaluator explores the target product to identify the different **types** of samples. The outcome of this step is a list of descriptions of the types of content identified, rather than specific instances of samples. This list will be used in the following steps to help select representative sample set for evaluation.
+During this step the evaluator explores the target product to identify the different **types** of samples. The outcome of this step is a list of descriptions of the types of content identified, rather than specific instances of samples. This list will be used in the following steps to help select a representative sample set for evaluation.
 
 ##### Examples of sample types
 
-Some examples of different types of samples that evaluators can look for include:
+Examples of the different types of samples that evaluators can look for include samples that:
 
-*   varying styles, layout, structure, navigation, interaction, and visual design;
-*   varying types of content such as forms, tables, lists, headings, multimedia, and scripting;
-*   varying functional components such as date picker, lightbox, slider, and others;
-*   using varying technologies such as HTML, CSS, JavaScript, WAI-ARIA, PDF, etc.;
-*   from varying areas of the product (home page, web shop, departments, etc.) including any applications;
-*   with varying coding styles and created using varying [templates](#template) (if this is known to the evaluator);
-*   authored by varying people, departments, and other entities (if this is known to the evaluator);
-*   that change appearance and behavior depending on the user, device, browser, context, and settings;
-*   with dynamic content, error messages, dialog-boxes, pop-up windows, and other interaction.
+*   vary in style, layout, structure, navigation, interaction, and visual design,
+*   include different types of content, such as forms, tables, lists, headings, multimedia, and scripting,
+*   include different functional components, such as date pickers, lightboxes, and sliders,
+*   use different technologies, such as HTML, CSS, JavaScript, WAI-ARIA, and PDF,
+*   are drawn from different areas of the product (such as home page, web shop, and other departments), including any applications,
+*   reflect different coding styles and [templates](#template) (if this is known to the evaluator),
+*   are authored by different people, departments, or other entities (if this is known to the evaluator),
+*   change in appearance and behavior depending on the user, device, browser, context, and settings,
+*   include dynamic content, error messages, dialog boxes, pop-up windows, and other interactions.
 
 #### Step 2.4: Identify technologies relied upon {#step2d}
 
@@ -150,18 +150,18 @@ During this step, the technologies relied upon for conformance are identified. T
 
 <p class="methodology-requirement"><strong id="req2e">Methodology Requirement 2.5:</strong> Identify other samples that are relevant to people with disabilities and to accessibility of the digital product.</p>
 
-Some digital products include samples that are specifically relevant for people with disabilities and the accessibility of the digital product. The outcome of this step is a list of such samples, if they have not already been identified as part of [Step 2.1: Identify Common Views of the Digital Product](#step2a).
+Some digital products include samples that are specifically relevant for people with disabilities and the accessibility of the digital product. The outcome of this step is a list of such samples, if they have not already been identified as part of [Step 2.1: Identify common views of the digital product](#step2a).
 
 ##### Examples of other relevant samples
 
 Examples of other relevant samples include those:
 
-*   explaining the accessibility features of the digital product;
-*   with information and help on the use of the digital product;
-*   explaining settings, preferences, options, shortcuts, etc.;
+*   explaining the accessibility features of the digital product,
+*   with information and help on the use of the digital product,
+*   explaining settings, preferences, options, shortcuts, etc., and
 *   with contact information, directions, and support instructions.
 
-### Step 3: Select a representative sample {#step3}
+### Step 3: Select a representative sample set {#step3}
 
 <p class="methodology-requirement"><strong id="req3">Methodology Requirement 3:</strong> Select a representative sample set from the digital product according to <a href="#req3a">Methodology Requirement 3.1</a>, <a href="#req3b">Methodology Requirement 3.2</a>, and <a href="#req3c">Methodology Requirement 3.3</a>.</p>
 
@@ -169,36 +169,36 @@ Select a sample set that is representative of the target product to be evaluated
 
 <div class="note">
   <p>If feasible, it is recommended to evaluate the entire digital product. The sampling procedure may then be skipped.</p>
-  <p>There are also other specific cases where it makes sense to skip the sampling procedure, and evaluate the entire digital product instead. Such cases include:</p>
+  <p>There are also other specific cases where it makes sense to skip the sampling procedure, and evaluate the entire digital product instead. Such cases include when the digital product:</p>
   <ul>
-    <li>when the digital product has a small number of views, for example in some native apps or kiosks,</li>
-    <li>when the digital product cannot meaningfully be split into views, for example in certain kinds of documents.</li>
+    <li>has a small number of views — for example in some native apps or kiosks, and</li>
+    <li>cannot meaningfully be split into views — for example in certain kinds of documents.</li>
   </ul>
   <p>When the sampling procedure is skipped, use the entire product as “selected sample set” in the remaining steps of this evaluation process.</p>
 </div>
 
-<p id="samplesize">The actual size of the sample set needed to evaluate a digital product depends on many factors including:</p>
+<p id="samplesize">The actual size of the sample set needed to evaluate a digital product depends on many factors, including:</p>
 
 *   **Size of the digital product** — products with more pages or views typically require a larger sample set to evaluate.
-*   **Age of the digital product** — older digital products tend to have more (often not easy to find) content with different levels of complexity, consistency, and design and development processes, so that a larger sample set is typically required to evaluate.
+*   **Age of the digital product** — older digital products tend to have more (often not easy to find) content with different levels of complexity, consistency, and design and development processes, so a larger sample set is typically required to evaluate.
 *   **Complexity of the digital product** — higher complexity requires a larger sample set to evaluate; consider the following:
-    *   **How interactive the content is** — products with content that is rich in interaction require larger sample sets to cover the functions provided by a sample and the different states that individual samples can have;
-    *   **How the content is generated** — products with content that is aggregated from different sources or that is processed as it is served (at runtime) typically require larger sample sets to cover the combinations of content that can be generated;
-    *   **How the content is implemented** — products that are available in different versions, are served according to users and their preferences, or adapt to access devices require larger sample sets to cover these different situations.
+    *   **How interactive the content is** — products with content that is rich in interaction require larger sample sets to cover the functions provided by a sample and the different states that individual samples can have.
+    *   **How the content is generated** — products with content that is aggregated from different sources or that is processed as it is served (at runtime) typically require larger sample sets to cover the combinations of content that can be generated.
+    *   **How the content is implemented** — products that are available in different versions, served according to users and their preferences, or that adapt to access devices require larger sample sets to cover these different situations.
 *   **Consistency of the product** — lower consistency requires a larger sample set to evaluate; consider the following:
-    *   **Variety of sample types** — products with a broader variety of sample types (see [Step 2.3: Identify the Variety of Sample Types](#step2c)) require larger sample sets to evaluate;
-    *   **Variety of functionality** — digital products with a broader variety of functionality (see [Step 2.2: Identify Essential Functionality of the Digital Product](#step2b)), in particular different types of applications, require larger sample sets to evaluate;
-    *   **Variety of technologies** — digital products with a broader variety of technologies in use (see [Step 2.4: Identify Technologies Relied Upon](#step2d)) require larger sample sets to evaluate;
+    *   **Variety of sample types** — products with a broader variety of sample types (see [Step 2.3: Identify the types of samples](#step2c)) require larger sample sets to evaluate.
+    *   **Variety of functionality** — digital products with a broader variety of functionality (see [Step 2.2: Identify essential functionality of the digital product](#step2b)), in particular different types of applications, require larger sample sets to evaluate.
+    *   **Variety of technologies** — digital products with a broader variety of technologies in use (see [Step 2.4: Identify technologies relied upon](#step2d)) require larger sample sets to evaluate.
     *   **Variety of coding styles** — products with a broader variety of coding styles (typically these are from different scripts that generate the code, templates, and web page authors) require larger sample sets to evaluate.
 *   **Adherence to development processes** — lower adherence requires a larger sample set to evaluate; consider the following:
-    *   **Formalization of the process** — products with formalized development and quality assurance processes tend to show more consistency in the coding and quality of the samples so that they typically require smaller sample sets to evaluate;
-    *   **Training for the developers** — products with designers, developers, and content authors that receive regular training tend to have more consistent accessibility performance so that they typically require smaller sample sets to evaluate;
-    *   **Development tools being used** — products that are developed and maintained using a consistent set of tools such as a content management system (CMS) also tend to be more consistent and require smaller sample sets to evaluate;
+    *   **Formalization of the process** — products with formalized development and quality assurance processes tend to show more consistency in the coding and quality of the samples so that they typically require smaller sample sets to evaluate.
+    *   **Training for the developers** — products with designers, developers, and content authors who receive regular training tend to have more consistent accessibility performance, so they typically require smaller sample sets to evaluate.
+    *   **Development tools being used** — products that are developed and maintained using a consistent set of tools such as a content management system (CMS) also tend to be more consistent and require smaller sample sets to evaluate.
     *   **Number of authors** — products that are developed and maintained by a more confined set of authors, including content editors, tend to be more consistent and require smaller sample sets to evaluate.
 *   **Required level of confidence** — higher confidence in the evaluation results often requires evaluation of a larger sample set.
 *   **Availability of prior evaluation findings** — smaller sample sets may be required when evaluators have access to prior evaluation findings, including test results from manual and automated accessibility testing.
 
-The selection carried out during this step relies initially on the exploration carried out in [Step 2: Explore the Target Product](#step2). The selection is also continually refined during the following [Step 4: Evaluate the Selected Sample](#step4), as the evaluator learns more about the particular implementation aspects of the target product.
+The selection carried out during this step relies initially on the exploration carried out in [Step 2: Explore the target digital product](#step2). The selection is also continually refined during the following [Step 4: Evaluate the selected sample set](#step4), as the evaluator learns more about the particular implementation aspects of the target product.
 
 #### Step 3.1: Include a structured sample set {#step3a}
 
@@ -206,12 +206,12 @@ The selection carried out during this step relies initially on the exploration c
 
 Select a sample set that includes:
 
-1.  Common views identified in [Step 2.1: Identify Common Views of the Digital Product](#step2a):
-2.  Relevant samples identified in [Step 2.5: Identify Other Relevant Samples](#step2e);
-3.  If not reflected in the previous steps, select additional samples with:
-    1.  Essential functionality identified in [Step 2.2: Identify Essential Functionality of the Digital Product](#step2b);
-    2.  Different types of samples identified in [Step 2.3: Identify the Variety of Sample Types](#step2c);
-    3.  Content using the technologies identified in [Step 2.4: Identify Technologies Relied Upon](#step2d).
+1.  common views identified in [Step 2.1: Identify common views of the digital product](#step2a),
+2.  relevant samples identified in [Step 2.5: Identify other relevant samples](#step2e), and
+3.  if not reflected in the previous steps, additional samples with:
+    1.  essential functionality identified in [Step 2.2: Identify essential functionality of the digital product](#step2b),
+    2.  different types of samples identified in [Step 2.3: Identify the types of samples](#step2c), and
+    3.  content using the technologies identified in [Step 2.4: Identify technologies relied upon](#step2d).
 
 <p class="note">An individual sample may reflect more than one of each of the criteria listed above. For example, a single sample may be representative of a particular design layout, functionality, and technologies used. The purpose of this step is to have representation of the different types of samples, functionality, and technologies that occur on the digital product. Careful selection of these representative instances can significantly reduce the required sample set size while maintaining appropriate representation of the entire digital product. The number of required instances of samples depends on the particular aspects of the digital product explained in the previous section, <a href="#sample">factors influencing the sample set size</a>.</p>
 
@@ -225,10 +225,10 @@ The number of samples to randomly select is **10% of the structured sample set**
 
 To perform this selection, randomly select unique samples from the target digital product that are not already part of the structured sample set selected through the previous steps. Depending on the type of product and the access that an evaluator has for it there are different techniques that may need to be used for this selection. The evaluator may:
 
-*   Use a tool that will traverse the digital product and propose a list of randomly selected samples;
-*   Use a script that will generate a list of all samples available on a digital product, to select from;
-*   Manually list all pages, views, or screens in a the digital product and pick items from that list randomly;
-*   Use server logs, crawlers, search engines and other creative methods to get to a random sample set.
+*   use a tool that will traverse the digital product and propose a list of randomly selected samples,
+*   use a script that will generate a list of all samples available on a digital product, to select from,
+*   manually list all pages, views, or screens in a the digital product and pick items from that list randomly, and
+*   use server logs, crawlers, search engines and other creative methods to get to a random sample set.
 
 Document the samples that were randomly selected as these will need to be compared to the remaining structured sample set in [Step 4.3: Compare Structured and Random Samples Sets](#step4c).
 
@@ -242,19 +242,19 @@ The selected sample set has to include all pages or views that belong to a serie
 
 Use the following steps to include the necessary samples:
 
-1.  For each sample set selected through [Step 3.1: Include a Structured Sample Set](#step3a) and [Step 3.2: Include a Randomly Selected Sample](#step3b) that is part of a process, locate the starting point (sample) for the process and include it in the selected sample;
+1.  For each sample set selected through [Step 3.1: Include a structured sample set](#step3a) and [Step 3.2: Include a randomly selected sample set](#step3b) that is part of a process, locate the starting point (sample) for the process and include it in the selected sample.
 2.  For each starting point for a process, identify and record at least the default sequence of samples to complete the process. Include these samples.  
     <p class="note">The default sequence follows the standard use case, describing the default path through the complete process. It assumes that there are no user input errors and no selection of additional options. For example, for a web shop application, the user would proceed to checkout, confirm the default payment option, provide all required payment details correctly, and complete the purchase, without changing the contents of the shopping cart, using a stored user profile, selecting alternative options for payment or shipping address, providing erroneous input, and so forth.</p>
 3.  For each process, identify and record the branch sequences of samples that are commonly accessed and critical for the successful completion of the process. Include these samples.  
     <p class="note">Branch sequences may terminate where they re-enter the default branch of the process. For example, adding a new shipping address will be registered as a critical alternative branch that leads back to the default branch of the process.</p>
 
-<p class="note">In most cases it is necessary to record and specify the actions needed to proceed from one sample to the next in a sequence to complete a process so that they can be replicated later. An example of such action could be "fill out name and address, and select the 'Submit' button". In most cases the web address (URI will not be sufficient to identify the sample in a complete process. It is also useful to clearly record when samples are part of a process so that evaluators can focus their effort on the relevant changes such as elements that were added, modified, or made visible.</p>
+<p class="note">In most cases it is necessary to record and specify the actions needed to proceed from one sample to the next in a sequence to complete a process so that they can be replicated later. An example of such action could be "fill out name and address, and select the 'Submit' button". In most cases the web address (URI) will not be sufficient to identify the sample in a complete process. It is also useful to clearly record when samples are part of a process so that evaluators can focus their effort on the relevant changes, such as elements that were added, modified, or made visible.</p>
 
 ### Step 4: Evaluate the selected sample set {#step4}
 
 <p class="methodology-requirement"><strong id="req4">Methodology Requirement 4:</strong> Evaluate the selected sample set according to <a href="#req4a">Methodology Requirement 4.1</a>, <a href="#req4b">Methodology Requirement 4.2</a>, and <a href="#req4c">Methodology Requirement 4.3</a>.</p>
 
-During this step the evaluator, evaluates (in detail) all of the samples selected in [Step 3: Select a Representative Sample Set](#step3), and compares the structured sample set to the randomly selected sample set. The evaluation is carried out according to the five WCAG 2 [conformance requirements](https://www.w3.org/TR/WCAG22/#conformance-reqs) at the target conformance level defined in [Step 1.2: Define the Conformance Target](#step1b).
+During this step the evaluator evaluates (in detail) all of the samples selected in [Step 3: Select a representative sample set](#step3), and compares the structured sample set to the randomly selected sample set. The evaluation is carried out according to the five WCAG 2 [conformance requirements](https://www.w3.org/TR/WCAG22/#conformance-reqs) at the target conformance level defined in [Step 1.2: Define the conformance target](#step1b).
 
 The five WCAG 2.2 conformance requirements are:
 
@@ -264,7 +264,7 @@ The five WCAG 2.2 conformance requirements are:
 4.  [Only Accessibility-Supported Ways of Using Technologies](https://www.w3.org/TR/WCAG22/#cc4)
 5.  [Non-Interference](https://www.w3.org/TR/WCAG22/#cc5)
 
-Further guidance on evaluating to these conformance requirements is provided in the following sections. The [WCAG 2 Layers of Guidance](https://www.w3.org/TR/WCAG22/#wcag-2-layers-of-guidance) and [Understanding Conformance](https://www.w3.org/WAI/WCAG22/Understanding/conformance) provide more background and guidance on the WCAG 2 conformance requirements, which is beyond the scope of this document.
+Further guidance on evaluating against these conformance requirements is provided in the following sections. The [WCAG 2 Layers of Guidance](https://www.w3.org/TR/WCAG22/#wcag-2-layers-of-guidance) and [Understanding Conformance](https://www.w3.org/WAI/WCAG22/Understanding/conformance) provide more background and guidance on the WCAG 2 conformance requirements, which is beyond the scope of this document.
 
 <p class="note">Carrying out this step requires deep understanding of the WCAG 2 conformance requirements and the expertise described in section <a href="#expertise">Required Expertise</a>.</p>
 
@@ -272,17 +272,17 @@ Further guidance on evaluating to these conformance requirements is provided in 
 
 <p class="methodology-requirement"><strong id="req4a">Methodology Requirement 4.1:</strong> Check that each sample that is not within or at the end of a complete process conforms to each of the five WCAG 2 conformance requirements at the target conformance level.</p>
 
-For each sample selected in [Step 3: Select a Representative Sample Set](#step3) that is not within or at the end of a complete process, check its conformance with each of the five WCAG conformance requirements, with the target conformance level defined in [Step 1.2: Define the Conformance Target](#step1b). This includes all components of the sample without activating any functions, entering any data, or otherwise initiating a process. Such functionality and interaction, including  samples that are within or the end of a complete process, will be evaluated in the subsequent step.
+For each sample selected in [Step 3: Select a representative sample set](#step3) that is not within or at the end of a complete process, check its conformance with each of the five WCAG conformance requirements, with the target conformance level defined in [Step 1.2: Define the conformance target](#step1b). This includes all components of the sample without activating any functions, entering any data, or otherwise initiating a process. Such functionality and interaction, including  samples that are within or the end of a complete process, will be evaluated in the subsequent step.
 
 <p class="note">Many samples will have components, such as the header, navigation bars, search form, and others that occur repeatedly. While the requirement is to check <a href="https://www.w3.org/TR/WCAG22/#cc2">full pages</a>, typically these components do not need to be re-evaluated on each occurrence unless they appear or behave differently, or when additional evaluation requirements are defined in <a href="#step1d">Step 1.4: Define Additional Evaluation Requirements (Optional)</a>.</p>
 
 ##### WCAG 2 success criteria
 
-There are typically several ways to determine whether WCAG 2 Success Criteria have been met or not met. W3C/WAI provides one set of (non-normative) [Techniques for WCAG 2.2](https://www.w3.org/WAI/WCAG22/Techniques/), which documents ways of meeting particular WCAG 2 Success Criteria. It also includes documented _common failures_, which are known ways in which content does not meet particular WCAG 2 Success Criteria. [Understanding Techniques for WCAG Success Criteria](https://www.w3.org/WAI/WCAG22/Understanding/) provides more guidance on the WCAG 2 concept of _Techniques_.
+There are typically several ways to determine whether WCAG 2 success criteria have been met or not met. W3C/WAI provides one set of (non-normative) [Techniques for WCAG 2.2](https://www.w3.org/WAI/WCAG22/Techniques/), which documents ways of meeting particular WCAG 2 success criteria. It also includes documented _common failures_, which are known ways in which content does not meet particular WCAG 2 success criteria. [Understanding Techniques for WCAG success criteria](https://www.w3.org/WAI/WCAG22/Understanding/) provides more guidance on the WCAG 2 concept of _Techniques_.
 
-Evaluators can use such documented guidance to check whether particular web content meets or fails to meet WCAG 2 Success Criteria. Documented techniques and failures can also be useful background in evaluation reports. However, it is not required to use the particular set of techniques and failures documented by W3C/WAI. In fact, evaluators do not need to follow any techniques and failures at all. Evaluators might use other approaches to evaluate whether WCAG 2 Success Criteria have been met or not met. For example, evaluators may utilize specific testing instructions and protocols that meet the [requirements for sufficient techniques](https://www.w3.org/WAI/WCAG22/Understanding/understanding-techniques#sufficient-techniques), and that may be publicly documented or only available to the evaluators. More guidance on the use of techniques is provided in the previously linked [Understanding Techniques for WCAG Success Criteria](https://www.w3.org/WAI/WCAG22/Understanding/understanding-techniques).
+Evaluators can use such documented guidance to check whether particular web content meets or fails to meet WCAG 2 success criteria. Documented techniques and failures can also be useful background in evaluation reports. However, it is not required to use the particular set of techniques and failures documented by W3C/WAI. In fact, evaluators do not need to follow any techniques and failures at all. Evaluators might use other approaches to evaluate whether WCAG 2 success criteria have been met or not met. For example, evaluators may utilize specific testing instructions and protocols that meet the [requirements for sufficient techniques](https://www.w3.org/WAI/WCAG22/Understanding/understanding-techniques#sufficient-techniques), and that may be publicly documented or only available to the evaluators. More guidance on the use of techniques is provided in the previously linked [Understanding Techniques for WCAG Success Criteria](https://www.w3.org/WAI/WCAG22/Understanding/understanding-techniques).
 
-<p class="note">WCAG 2 Success Criteria are each formulated as a “testable statement that will be either true or false when applied to specific web content”. When there is no content presented to the user that relates to specific Success Criteria (for example, no video on the web page), then the Success Criteria are "satisfied" according to WCAG 2. Optionally, an evaluation report can specifically indicate Success Criteria for which there is no relevant content, for example, with "not present". <a href="https://www.w3.org/WAI/WCAG22/Understanding/conformance">Understanding Conformance</a> provides more background and guidance.
+<p class="note">WCAG 2 success criteria are each formulated as a “testable statement that will be either true or false when applied to specific web content”. When there is no content presented to the user that relates to specific success criteria (for example, no video on the web page), then the success criteria are "satisfied" according to WCAG 2. Optionally, an evaluation report can specifically indicate success criteria for which there is no relevant content, for example, with "not present". <a href="https://www.w3.org/WAI/WCAG22/Understanding/conformance">Understanding Conformance</a> provides more background and guidance.
 
 ##### Conforming alternate versions
 
@@ -292,7 +292,7 @@ Content on a sample might have alternate versions. For example, video content ma
 
 ##### Accessibility support
 
-Content on a sample needs to be provided in a way that is _accessibility supported_ (either directly or through an alternate version). For example, the captions for a video need to be provided in a way that they can be displayed to users. The WCAG 2 definition for [accessibility supported](https://www.w3.org/TR/WCAG22/#dfn-accessibility-supported) defines specific requirements for the use of [web content technologies](https://www.w3.org/TR/WCAG22/#dfn-technologies) to qualify as accessibility-supported. [Understanding Accessibility Support Web Technology Uses](https://www.w3.org/WAI/WCAG22/Understanding/conformance#documented-lists) provides further guidance on accessibility support that is beyond the scope of this document. However, WCAG 2 does not define a particular threshold or set of software that a digital product needs to support for accessibility. The definition of such a baseline depends on several parameters including the purpose, target audience, and language of the digital product. The baseline used to evaluate a particular digital product is defined in [Step 1.3: Define an Accessibility Support Baseline](#step1c).
+Content on a sample needs to be provided in a way that is _accessibility supported_ (either directly or through an alternate version). For example, the captions for a video need to be provided in a way that they can be displayed to users. The WCAG 2 definition for [accessibility supported](https://www.w3.org/TR/WCAG22/#dfn-accessibility-supported) defines specific requirements for the use of [web content technologies](https://www.w3.org/TR/WCAG22/#dfn-technologies) to qualify as accessibility-supported. [Understanding Accessibility Support Web Technology Uses](https://www.w3.org/WAI/WCAG22/Understanding/conformance#documented-lists) provides further guidance on accessibility support that is beyond the scope of this document. However, WCAG 2 does not define a particular threshold or set of software that a digital product needs to support for accessibility. The definition of such a baseline depends on several parameters including the purpose, target audience, and language of the digital product. The baseline used to evaluate a particular digital product is defined in [Step 1.3: Define an accessibility support baseline](#step1c).
 
 ##### Non-interference
 
@@ -302,19 +302,19 @@ Content on a sample may not conform to WCAG 2, even though the sample as a whole
 
 <p class="methodology-requirement"><strong id="req4b">Methodology Requirement 4.2:</strong> Check that all interaction for each sample that is part of a <a href="https://www.w3.org/TR/WCAG22/#cc3">complete process</a> conforms to each of the five WCAG 2 conformance requirements at the target conformance level.</p>
 
-For each complete process identified in [Step 3.3: Include Complete Processes](#step3c), follow the identified default and branch sequences of samples, and evaluate each according to [Step 4.1: Check All Initial Samples](#step4a). However, in this case it is not necessary to evaluate all content but only the content that changes along the process.
+For each complete process identified in [Step 3.3: Include complete processes](#step3c), follow the identified default and branch sequences of samples, and evaluate each according to [Step 4.1: Check all initial samples](#step4a). However, in this case it is not necessary to evaluate all content but only the content that changes along the process.
 
-Functionality, entering data, notifications, and other interaction is part of this check. In particular it includes:
+Functionality, entering data, notifications, and other interaction is part of this check. In particular, it includes:
 
-*   Interaction with forms, input elements, dialog boxes, and other components;
-*   Confirmations for input, error messages, and other feedback from user interaction;
-*   Behavior using different settings, preferences, devices, and interaction parameters.
+*   interaction with forms, input elements, dialog boxes, and other components,
+*   confirmations for input, error messages, and other feedback from user interaction, and
+*   behavior using different settings, preferences, devices, and interaction parameters.
 
 #### Step 4.3: Compare structured and random sample sets {#step4c}
 
 <p class="methodology-requirement"><strong id="req4c">Methodology Requirement 4.3:</strong> Check that each sample in the randomly selected sample set does not show types of content and outcomes that are not represented in the structured sample set.</p>
 
-While the individual occurrences of WCAG 2 Success Criteria will vary between the structured and randomly selected sample sets, the randomly selected sample set should not show new _types_ of content not present in the structured sample set. Also the outcomes from evaluating the randomly selected sample set should not show new findings to those of the structured sample set. If the randomly selected sample set shows new types of content or new evaluation findings then it is an indication that the structured sample set was not sufficiently representative of the content provided on the website. In this case evaluators need to go back to [Step 3: Select a Representative Sample Set](#step3) to select additional samples that reflect the newly identified types of content and findings. Also the findings of [Step 2: Explore the Target Digital Product](#step2) might need to be adjusted accordingly. This step is repeated until the structured sample set is adequately representative of the content provided on the digital product.
+While the individual occurrences of WCAG 2 success criteria will vary between the structured and randomly selected sample sets, the randomly selected sample set should not show new _types_ of content not present in the structured sample set. Also the outcomes from evaluating the randomly selected sample set should not show new findings to those of the structured sample set. If the randomly selected sample set shows new types of content or new evaluation findings then it is an indication that the structured sample set was not sufficiently representative of the content provided on the website. In this case evaluators need to go back to [Step 3: Select a representative sample set](#step3) to select additional samples that reflect the newly identified types of content and findings. Also the findings of [Step 2: Explore the target digital product](#step2) might need to be adjusted accordingly. This step is repeated until the structured sample set is adequately representative of the content provided on the digital product.
 
 ### Step 5: Report the evaluation findings {#step5}
 
@@ -324,7 +324,7 @@ While evaluation findings are reported at the end of the process, documenting th
 
 #### Step 5.1: Document the outcomes of each step {#step5a}
 
-<p class="methodology-requirement"><strong id="req5a">Methodology Requirement 5.1:</strong> Document each outcome of the steps defined in <a href="#step1">Step 1: Define the Evaluation Scope</a>, <a href="#step2">Step 2: Explore the Target Digital Product</a>, <a href="#step3">Step 3: Select a Representative Sample</a>, and <a href="#step4">Step 4: Evaluate the Selected Sample Set</a>.</p>
+<p class="methodology-requirement"><strong id="req5a">Methodology Requirement 5.1:</strong> Document each outcome of the steps defined in <a href="#step1">Step 1: Define the Evaluation Scope</a>, <a href="#step2">Step 2: Explore the Target Digital Product</a>, <a href="#step3">Step 3: Select a representative sample set</a>, and <a href="#step4">Step 4: Evaluate the selected sample set</a>.</p>
 
 For transparency, replicability of the evaluation results and justifications for any statements made based on this evaluation, it is essential to document the outcomes for each of the previous steps (including all sub-sections). 
 
@@ -334,33 +334,33 @@ This **documentation does not need to be public**, the level of confidentiality 
 
 Include at least the following:
 
-*   **About the Evaluation**
+*   **About the evaluation**
     *   Name of the [evaluator](#evaluator) (optionally including contact details)
     *   Name of the [evaluation commissioner](#commissioner)
     *   Date of the evaluation (completion date or duration period)
-    *   Optional: version number and/or unique identifier of the evaluation
-    *   Optional: list of dates, such as the date of the initial report and dates of repeat evaluations
-    *   Optional: name of the person, team or organization responsible for the digital product (this may be different from the evaluation commissioner)
-    *   Optional: methodology used for evaluation
-*   **Evaluation Scope**
-    *   Scope of the digital product defined in [Step 1.1: Define the Scope of the Digital Product](#step1a)
-    *   Conformance target defined in [Step 1.2. Define the Conformance Target](#step1b)
-    *   Accessibility support baseline defined in [Step 1.3: Define an Accessibility Support Baseline](#step1c)
-    *   Additional requirements, if any, defined in [Step 1.4: Define Additional Evaluation Requirements (Optional)](#step1d)
-*   **Digital Product Exploration**
-    *   Technologies relied upon identified in [Step 2.4: Identify Technologies Relied Upon](#step2d)
-    *   Optional: Common views identified in [Step 2.1: Identify Common Views of the Digital Product](#step2a)
-    *   Optional: Essential functionality identified in [Step 2.2: Identify Essential Functionality of the Digital Product](#step2b)
-    *   Optional: Variety of sample types identified in [Step 2.3: Identify the Variety of Samples](#step2c)
-    *   Optional: Other relevant samples identified in [Step 2.5: Identify Other Relevant Samples](#step2e)
-*   **Representative Sample Set**
-    *   Pages or views selected through structured sampling in [Step 3.1: Include a Structured Sample Set](#step3a)
-    *   Randomly selected samples  and selection method used in [Step 3.2: Include a Randomly Selected Sample Set](#step3b)
-    *   Complete processes selected in [Step 3.3: Include Complete Processes](#step3c)
-*   **Sample Set Evaluated**
-    *   Evaluation outcomes from [Step 4.1: Check All Initial Samples](#step4a)
-    *   Evaluation outcomes from [Step 4.2: Check All Complete Processes](#step4b)
-    *   Evaluation outcomes from [Step 4.3: Compare Structured and Random Sample Sets](#step4c)
+    *   Optional: Version number and/or unique identifier of the evaluation
+    *   Optional: List of dates, such as the date of the initial report and dates of repeat evaluations
+    *   Optional: Name of the person, team or organization responsible for the digital product (this may be different from the evaluation commissioner)
+    *   Optional: Methodology used for evaluation
+*   **Evaluation scope**
+    *   Scope of the digital product defined in [Step 1.1: Define the scope of the digital product](#step1a)
+    *   Conformance target defined in [Step 1.2: Define the conformance target](#step1b)
+    *   Accessibility support baseline defined in [Step 1.3: Define an accessibility support baseline](#step1c)
+    *   Additional requirements, if any, defined in [Step 1.4: Define additional evaluation requirements (optional)](#step1d)
+*   **Digital product exploration**
+    *   Technologies relied upon identified in [Step 2.4: Identify technologies relied upon](#step2d)
+    *   Optional: Common views identified in [Step 2.1: Identify common views of the digital product](#step2a)
+    *   Optional: Essential functionality identified in [Step 2.2: Identify essential functionality of the digital product](#step2b)
+    *   Optional: Variety of sample types identified in [Step 2.3: Identify the types of samples](#step2c)
+    *   Optional: Other relevant samples identified in [Step 2.5: Identify other relevant samples](#step2e)
+*   **Representative sample set**
+    *   Pages or views selected through structured sampling in [Step 3.1: Include a structured sample set](#step3a)
+    *   Randomly selected samples  and selection method used in [Step 3.2: Include a randomly selected sample set](#step3b)
+    *   Complete processes selected in [Step 3.3: Include complete processes](#step3c)
+*   **Sample set evaluated**
+    *   Evaluation outcomes from [Step 4.1: Check all initial samples](#step4a)
+    *   Evaluation outcomes from [Step 4.2: Check all complete processes](#step4b)
+    *   Evaluation outcomes from [Step 4.3: Compare structured and random sample sets](#step4c)
   
 <p class="note">As part of documenting evaluation outcomes, clear issue descriptions, steps to reproduce, screenshots and/or videos can help teams resolve issues more quickly.</p>
 
@@ -370,9 +370,9 @@ Reports may also include additional information depending on any additional eval
 
 #### Step 5.2: Record the evaluation specifics (optional) {#step5b}
 
-<p class="methodology-requirement"><strong id="req5b">Methodology Requirement 5.2:</strong> Archive the samples evaluated, and record the evaluation tools, web browsers, assistive technologies, other software, and methods used to evaluate them (Optional).</p>
+<p class="methodology-requirement"><strong id="req5b">Methodology Requirement 5.2:</strong> Archive the samples evaluated, and record the evaluation tools, web browsers, assistive technologies, other software, and methods used to evaluate them (optional).</p>
 
-While optional, it is good practice for evaluators to keep record of the evaluation specifics, for example to support conflict resolution in the case of dispute. This includes archiving the samples evaluated, and recording the evaluation tools, web browsers, assistive technologies, other software, and methods used to evaluate them. This recording is typically kept internal and not shared by the evaluator unless otherwise agreed on in [Step 1.4: Define Additional Evaluation Requirements (Optional)](#step1d).
+While optional, it is good practice for evaluators to keep record of the evaluation specifics — for example to support conflict resolution in the case of dispute. This includes archiving the samples evaluated, and recording the evaluation tools, web browsers, assistive technologies, other software, and methods used to evaluate them. This recording is typically kept internal and not shared by the evaluator unless otherwise agreed on in [Step 1.4: Define additional evaluation requirements (optional)](#step1d).
 
 Records of the evaluation specifics could include any of the following:
 
@@ -380,7 +380,8 @@ Records of the evaluation specifics could include any of the following:
     <p class="note">Some tools can save the dynamically generated or modified content (DOM) as displayed during the evaluation rather than the initial content of the files and resources, which is often different;</p>
 *   Screenshots of the samples;
 *   Description of the path to locate the samples, especially when they are part of a process;
-*   Description of the settings, input, and actions used to generate or navigate to the samples. Specific test credentials (user-IDs, etc.) required to replicate a unique data set or workflow;
+*   Description of the settings, input, and actions used to generate or navigate to the samples. 
+*   Specific test credentials (user-IDs, etc.) required to replicate a unique data set or workflow;
 *   Names and versions of the evaluation tools, web browsers and add-ons, assistive technology, and other software used;
 *   The methods, procedures, and techniques used to evaluate conformance to WCAG 2.
 
@@ -394,16 +395,16 @@ Records of the evaluation specifics could include any of the following:
 
 **Reminder:** In the majority of situations, using this methodology alone does not result in [WCAG 2 conformance claims](https://www.w3.org/TR/WCAG22/#conformance-claims) for the target digital product; see [Relation to WCAG 2 Conformance Claims](#context) for more background.
 
-Product owners may wish to make public statements about the outcomes from evaluations following this methodology. This can be done when at least every non-optional methodology requirement is satisfied, the conformance target defined in [Step 1.2. Define the Conformance Target](#step1b) is satisfied by all samples evaluated (in [Step 4: Evaluate the Selected Sample](#step4)), and the product owner commits to ensuring the validity and maintaining the accuracy of the evaluation statement made.
+Product owners may wish to make public statements about the outcomes from evaluations following this methodology. This can be done when at least every non-optional methodology requirement is satisfied, the conformance target defined in [Step 1.2: Define the conformance target](#step1b) is satisfied by all samples evaluated (in [Step 4: Evaluate the selected sample set](#step4)), and the product owner commits to ensuring the validity and maintaining the accuracy of the evaluation statement made.
 
 An evaluation statement according to this methodology includes at least the following information:
 
 1.  **Date** of when the evaluation statement was issued;
 2.  **Guidelines title, version and URI:** "Web Content Accessibility Guidelines 2.2 at [https://www.w3.org/TR/WCAG22/](https://www.w3.org/TR/WCAG22/)";
-3.  **Conformance level evaluated**: Level A, AA or AAA, as defined in [Step 1.2. Define the Conformance Target](#step1b);
-4.  **Definition of the Digital Product** as defined in [Step 1.1: Define the Scope of the Digital Product](#step1a);
-5.  **Technologies relied upon** as identified in [Step 2.4: Identify Technologies Relied Upon](#step2d);
-6.  **Accessibility support baseline** as defined in [Step 1.3: Define an Accessibility Support Baseline](#step1c).
+3.  **Conformance level evaluated**: Level A, Level AA or Level AAA, as defined in [Step 1.2: Define the conformance target](#step1b);
+4.  **Definition of the Digital Product** as defined in [Step 1.1: Define the scope of the digital product](#step1a);
+5.  **Technologies relied upon** as identified in [Step 2.4: Identify technologies relied upon](#step2d);
+6.  **Accessibility support baseline** as defined in [Step 1.3: Define an accessibility support baseline](#step1c).
 
 Evaluation statements according to this methodology can also be made when only [partial conformance](https://www.w3.org/TR/WCAG22/#conformance-partial) to WCAG 2 has been achieved. In such cases the evaluation statements also include the following information:
 

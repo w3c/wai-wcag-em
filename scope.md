@@ -1,6 +1,6 @@
 ## Scope of applicability {#applicability}
 
-This methodology is designed to evaluate full, self-enclosed [digital products](#digital-product), such as websites. In [Step 1.a](#step1a), evaluators define what is in scope exactly. 
+This methodology is designed to evaluate full, self-enclosed [digital products](#digital-product), such as websites. In [Step 1.1](#step1a), evaluators define what is in scope of the product exactly. 
 
 ### Principle of product enclosure
 
@@ -23,7 +23,7 @@ This methodology is applicable to a broad variety of digital products. The follo
 <dl class="considerations-particular-products">
 	<div>
 		<dt><img src="images/icon-website.svg" alt="">Websites</dt>
-		<dd>Websites exist in many sizes, anywhere from just the one page to collections of thousands or more. Websites with many pages can use the <a href="#step3">sampling procedure</a> to select a representative <a href="#sampleset">sample set</a>. On websites with a few pages, all pages can be evaluated and the <a href="#step3">sampling procedure</a> can be skipped. </dd>
+		<dd>Websites exist in many sizes, anywhere from just one page to collections of thousands or more pages. Websites with many pages can use the <a href="#step3">sampling procedure</a> to select a representative <a href="#sampleset">sample set</a>. On websites with a few pages, all pages can be evaluated and the <a href="#step3">sampling procedure</a> can be skipped. </dd>
 	</div>
 	<div>
 		<dt><img src="images/icon-web-app.svg" alt="">Web applications</dt>
@@ -68,8 +68,8 @@ This methodology can be applied in different situations and contexts. The follow
 <dt>Re-running product evaluation</dt>
 <dd>Evaluation, according to this methodology, may be re-run after a short period; for example, when issues are identified and repaired by the product's owner or developer, or periodically to monitor progress. In such cases the evaluation can be carried out using a sample that includes:
 
-* A sub-set of the <a href="#sample">samples</a> that were used in the preceding evaluation to facilitate comparability between the results;
-* A replaced sub-set of <a href="#sample">samples</a> from those that were used in the preceding evaluation to improve view coverage;
+* a sub-set of the <a href="#sample">samples</a> that were used in the preceding evaluation to facilitate comparability between the results, and
+* a replaced sub-set of <a href="#sample">samples</a> from those that were used in the preceding evaluation to improve view coverage.
 
 Unless significant changes were made to the digital product, there is usually no need to change the size of the selected sample nor the approach used for sampling. The amount of replaced <a href="#sample">samples</a> in a fresh <a href="#sampleset">sample set</a> is typically about half of the initial <a href="#sampleset">sample set</a>, though this could be increased when samples mostly conform to WCAG 2.</dd>
 
