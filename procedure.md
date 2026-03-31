@@ -403,7 +403,7 @@ An evaluation statement according to this methodology includes at least the foll
 
 1.  **Date** of when the evaluation statement was issued;
 2.  **Guidelines title, version and URI:** "Web Content Accessibility Guidelines 2.2 at [https://www.w3.org/TR/WCAG22/](https://www.w3.org/TR/WCAG22/)";
-3.  **Conformance level evaluated**: Level A, Level AA or Level AAA, as defined in [Step 1.2: Define the conformance target](#step1b);
+3.  **Conformance level evaluated**: Level A, AA or AAA, as defined in [Step 1.2: Define the conformance target](#step1b);
 4.  **Definition of the Digital Product** as defined in [Step 1.1: Define the scope of the digital product](#step1a);
 5.  **Technologies relied upon** as identified in [Step 2.4: Identify technologies relied upon](#step2d);
 6.  **Accessibility support baseline** as defined in [Step 1.3: Define an accessibility support baseline](#step1c).
