@@ -23,7 +23,7 @@ This methodology is applicable to a broad variety of digital products. The follo
 <dl class="considerations-particular-products">
 	<div>
 		<dt><img src="images/icon-website.svg" alt="">Websites</dt>
-		<dd>Websites exist in many sizes, anywhere from just one page to collections of thousands or more pages. Websites with many pages can use the <a>sampling procedure</a> to select a representative <a>sample set</a>. On websites with a few pages, all pages can be evaluated and the <a>sampling procedure</a> can be skipped. </dd>
+		<dd>Websites exist in many sizes, anywhere from just one page to collections of thousands or more pages. Websites with many pages can use the <a href="#step3">sampling procedure</a> to select a representative <a>sample set</a>. On websites with a few pages, all pages can be evaluated and the sampling procedure can be skipped. </dd>
 	</div>
 	<div>
 		<dt><img src="images/icon-web-app.svg" alt="">Web applications</dt>
