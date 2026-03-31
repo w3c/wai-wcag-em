@@ -73,7 +73,7 @@ An evaluation commissioner may be interested in additional information beyond wh
 *   evaluation involving users with disabilities, and
 *   adherence to specific documentation or reporting templates.
 
-Such additional evaluation requirements that are agreed on with the evaluator need to be clarified early on and documented. This also needs to be reflected in the resulting report — for example, to clarify how the selection of the sample set was carried out.
+Such additional evaluation requirements that are agreed on with the evaluator need to be clarified early on and documented. This also needs to be reflected in the resulting report. For example, to clarify how the selection of the sample set was carried out.
 
 ### Step 2: Explore the target digital product {#step2}
 
