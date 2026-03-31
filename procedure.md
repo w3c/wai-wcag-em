@@ -374,7 +374,7 @@ Reports may also include additional information depending on any additional eval
 
 <p class="methodology-requirement"><strong id="req5b">Methodology Requirement 5.2:</strong> Archive the samples evaluated, and record the evaluation tools, web browsers, assistive technologies, other software, and methods used to evaluate them (optional).</p>
 
-While optional, it is good practice for evaluators to keep record of the evaluation specifics — for example to support conflict resolution in the case of dispute. This includes archiving the samples evaluated, and recording the evaluation tools, web browsers, assistive technologies, other software, and methods used to evaluate them. This recording is typically kept internal and not shared by the evaluator unless otherwise agreed on in [Step 1.4: Define additional evaluation requirements (optional)](#step1d).
+While optional, it is good practice for evaluators to keep record of the evaluation specifics. For example, to support conflict resolution in the case of dispute. This includes archiving the samples evaluated, and recording the evaluation tools, web browsers, assistive technologies, other software, and methods used to evaluate them. This recording is typically kept internal and not shared by the evaluator unless otherwise agreed on in [Step 1.4: Define additional evaluation requirements (optional)](#step1d).
 
 Records of the evaluation specifics could include any of the following:
 
