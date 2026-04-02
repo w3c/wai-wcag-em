@@ -60,7 +60,7 @@ var respecConfig = {
 			companyURI: "https://www.w3.org",			
 		},
     ],
-
+	
 	localBiblio: {
 		"Easy-Checks" : {
 		  title: "Easy Checks - A First Review of Web Accessibility",
@@ -139,6 +139,8 @@ var respecConfig = {
 		() => {
 			// Remove stray <p> elements added by Markdown between dt/dd elements
 			document.querySelectorAll("dl > p:empty").forEach((el) => el.remove());
+			// Remove all of respec's section numbers, to avoid confusion with our manual step numbering
+			document.querySelectorAll('.secno').forEach(el => el.remove());
 		}
 	]
 };
