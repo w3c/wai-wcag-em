@@ -13,7 +13,7 @@ var respecConfig = {
 	previousMaturity:  "DNOTE",
 	otherLinks: [
 		{
-			key: "Previous Version",
+			key: "Previous version",
 			data: [
 				{
 					href: "https://www.w3.org/TR/2014/NOTE-WCAG-EM-20140710/",

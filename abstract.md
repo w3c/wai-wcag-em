@@ -2,4 +2,4 @@ This document describes a methodology with a step-by-step process to evaluate ho
 
 It provides technology-agnostic guidance to define the evaluation scope, explore the target product, select a representative <a>sample set</a> from products, evaluate the selected sample set, and report the evaluation findings. This procedure is suitable for use in different evaluation contexts, including self-assessment and third-party evaluation. 
 
-This document does not define feature-specific instructions, as the WCAG Success Criteria and [supporting documents](https://www.w3.org/WAI/standards-guidelines/wcag/docs/) cover those. It also does not define additional WCAG 2 requirements, nor does it replace or supersede them in any way. 
+This document does not define feature-specific instructions, as the WCAG success criteria and [supporting documents](https://www.w3.org/WAI/standards-guidelines/wcag/docs/) cover those. It also does not define additional WCAG 2 requirements, nor does it replace or supersede them in any way. 
