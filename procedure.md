@@ -101,7 +101,7 @@ Explore the target product to identify its essential functionality. While some f
 
 <aside class="example" title="Product functionality examples">
 <ul>
-    <li>selecting and purchasing products from the web shop,</li>
+    <li>Selecting and purchasing products from the web shop.</li>
     <li>completing and submitting the survey forms, and</li>
     <li>registering for an account on the product.</li>
 </ul>
