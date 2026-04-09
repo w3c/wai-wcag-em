@@ -102,8 +102,8 @@ Explore the target product to identify its essential functionality. While some f
 <aside class="example" title="Product functionality examples">
 <ul>
     <li>Selecting and purchasing products from the web shop.</li>
-    <li>completing and submitting the survey forms, and</li>
-    <li>registering for an account on the product.</li>
+    <li>Completing and submitting the survey forms.</li>
+    <li>Registering for an account on the product.</li>
 </ul>
 </aside>
 
@@ -117,14 +117,14 @@ During this step the evaluator explores the target product to identify the diffe
 
 <aside class="example" title="Sample type examples">
 
-Examples of the different types of samples that evaluators can look for include samples that:
+Examples of the different types of sample that evaluators can look for include ones that:
 
 *   vary in style, layout, structure, navigation, interaction, and visual design,
 *   include different types of content, such as forms, tables, lists, headings, multimedia, and scripting,
-*   include different functional components, such as date pickers, modal overlays, and carousel/sliders,
+*   include different functional components, such as date pickers, modal overlays, and carousels,
 *   use different technologies, such as HTML, CSS, JavaScript, WAI-ARIA, and PDF,
 *   are drawn from different areas of the product (such as home page, web shop, and other departments), including any applications,
-*   reflect different coding styles and [templates](#template) (if this is known to the evaluator),
+*   reflect different coding styles and [templates](https://www.w3.org/TR/ATAG20/#def-template) (if this is known to the evaluator),
 *   are authored by different people, departments, or other entities (if this is known to the evaluator),
 *   change in appearance and behavior depending on the user, device, browser, context, and settings,
 *   include dynamic content, error messages, dialog boxes, pop-up windows, and other interactions.
@@ -154,7 +154,8 @@ During this step, the technologies relied upon for conformance are identified. T
 
 Some digital products include samples that are specifically relevant for people with disabilities and the accessibility of the digital product. The outcome of this step is a list of such samples, if they have not already been identified as part of [Step 2.1: Identify common views of the digital product](#step2a).
 
-<aside class="example" title="Examples of other relevant samples include those:">
+<aside class="example" title="Other relevant samples">
+<p>Other samples include those:</p>
 <ul>
     <li>explaining the accessibility features of the digital product,</li>
     <li>with information and help on the use of the digital product,</li>
@@ -188,7 +189,7 @@ Select a sample set that is representative of the target product to be evaluated
     *   **How the content is generated** — products with content that is aggregated from different sources or that is processed as it is served (at runtime) typically require larger sample sets to cover the combinations of content that can be generated.
     *   **How the content is implemented** — products that are available in different versions, served according to users and their preferences, or that adapt to access devices require larger sample sets to cover these different situations.
 *   **Consistency of the product** — lower consistency requires a larger sample set to evaluate; consider the following:
-    *   **Variety of sample types** — products with a broader variety of sample types (see [Step 2.3: Identify the types of samples](#step2c)) require larger sample sets to evaluate.
+    *   ** Identify the variety of sample types** — products with a broader variety of sample types (see [Step 2.3: Identify the types of samples](#step2c)) require larger sample sets to evaluate.
     *   **Variety of functionality** — digital products with a broader variety of functionality (see [Step 2.2: Identify essential functionality of the digital product](#step2b)), in particular different types of applications, require larger sample sets to evaluate.
     *   **Variety of technologies** — digital products with a broader variety of technologies in use (see [Step 2.4: Identify technologies relied upon](#step2d)) require larger sample sets to evaluate.
     *   **Variety of coding styles** — products with a broader variety of coding styles (typically these are from different scripts that generate the code, templates, and web page authors) require larger sample sets to evaluate.
