@@ -235,7 +235,7 @@ To perform this selection, randomly select unique samples from the target digita
 
 Document the samples that were randomly selected as these will need to be compared to the remaining structured sample set in [Step 4.3: Compare Structured and Random Samples Sets](#step4c).
 
-<p class="note">While the random sample set need not be selected according to strictly scientific criteria, the scope of the selection needs to span the entire scope of the digital product (any samples on the digital product may be selected), and the selection of individual samples does not follow a predictable pattern. Recording the method used to generate the random sample set is crucial for ensuring the reliability and replicability of the findings.</p>
+<p class="note">While the random sample set need not be selected according to strictly scientific criteria, the scope of the selection needs to span the entire scope of the digital product (any samples on the digital product may be selected), and the selection of individual samples does not follow a predictable pattern. Recording the method used to generate the random sample set is useful for ensuring the reliability and replicability of the findings.</p>
 
 #### Step 3.3: Include complete processes {#step3c}
 
