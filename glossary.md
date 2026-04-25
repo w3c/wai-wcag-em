@@ -17,7 +17,7 @@ For the purposes of this document, the following terms and definitions apply:
 <dt><dfn id="dfn-digital-product">digital product</dfn></dt>
 <dd>coherent collection of one or more related views that together provide common use or functionality
 
-<aside class="example">Web sites, web apps, e-books, kiosk apps, mobile apps and documents (PDF, Word)</aside>
+<aside class="example">Web sites, web apps, e-books, kiosk apps, mobile apps and documents (PDF, Word, EPUB)</aside>
 
 <p class="note">The focus of this methodology is on full, self-enclosed digital products. Digital products may be composed of smaller subsets of views, each of which can be considered to be an individual product. For example, a digital product may include an online shop, an area for each department within the organization, a blog area, and other areas that may each be considered to be a digital product.</p></dd>
 

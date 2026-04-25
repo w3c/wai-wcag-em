@@ -7,7 +7,7 @@ Accessibility evaluations of digital products can be necessary in many situation
 Several factors can impact an evaluation, including: 
 
 - the type of digital product (for example, website, mobile application, kiosk, document),
-- the size of a digital product, its complexity, and which technologies it uses (for example, HTML, WAI-ARIA, PDF),
+- the size of a digital product, its complexity, and which technologies it uses (for example, HTML, WAI-ARIA, PDF, EPUB),
 - the degree of knowledge the evaluators have about how the product was designed and developed, and
 - the main purpose for the evaluation (for example, to issue an accessibility statement, to plan a redesign process, to perform research).
 
