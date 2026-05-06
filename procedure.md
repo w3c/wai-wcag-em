@@ -122,7 +122,7 @@ Examples of the different types of sample that evaluators can look for include o
 *   vary in style, layout, structure, navigation, interaction, and visual design,
 *   include different types of content, such as forms, tables, lists, headings, multimedia, and scripting,
 *   include different functional components, such as date pickers, modal overlays, and carousels,
-*   use different technologies, such as HTML, CSS, JavaScript, WAI-ARIA, and PDF,
+*   use different technologies, such as HTML, CSS, JavaScript, WAI-ARIA, PDF, and EPUB
 *   are drawn from different areas of the product (such as home page, web shop, and other departments), including any applications,
 *   reflect different coding styles and [templates](https://www.w3.org/TR/ATAG20/#def-template) (if this is known to the evaluator),
 *   are authored by different people, departments, or other entities (if this is known to the evaluator),
@@ -135,7 +135,7 @@ Examples of the different types of sample that evaluators can look for include o
 
 <p class="methodology-requirement"><strong id="req2d">Methodology Requirement 2.4:</strong> Identify the technologies <a href="https://www.w3.org/TR/WCAG22/#dfn-relied-upon">relied upon</a> to provide the product.</p>
 
-During this step, the technologies relied upon for conformance are identified. This can include technologies such as HTML, CSS, JavaScript, SVG, WAI-ARIA, and PDF. The outcome of this step is a list of technologies that are [relied upon according to WCAG 2](https://www.w3.org/TR/WCAG22/#dfn-relied-upon). This list will be used in the following steps to help select representative samples for evaluation.
+During this step, the technologies relied upon for conformance are identified. This can include technologies such as HTML, CSS, JavaScript, SVG, WAI-ARIA, PDF, and EPUB. The outcome of this step is a list of technologies that are [relied upon according to WCAG 2](https://www.w3.org/TR/WCAG22/#dfn-relied-upon). This list will be used in the following steps to help select representative samples for evaluation.
 
 <div class="note">
   <p>It is also encouraged to identify other systems relied on for conformance. For example:</p>
