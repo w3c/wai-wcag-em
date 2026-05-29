@@ -39,8 +39,8 @@ It is also important to document any particular aspects of the target product to
 *   use of third-party content and services,
 *   mobile and language versions of the product, and
 *   parts of the product, especially those that may not be easily identifiable as such — for example, an online shop that has a different web address but is still considered to be part of the target product, 
-*   Content or functionality related to specific WCAG success criteria,
-*   Content or functionality that may be subject to additional guidelines.
+*   content or functionality related to specific WCAG success criteria,
+*   content or functionality that may be subject to additional guidelines.
 
 
 #### Step 1.2: Define the conformance target {#step1b}
@@ -163,7 +163,8 @@ Some digital products include samples that are specifically relevant for people 
     <li>explaining the accessibility features of the digital product,</li>
     <li>with information and help on the use of the digital product,</li>
     <li>explaining settings, preferences, options, shortcuts, etc., and</li>
-    <li>with contact information, directions, and support instructions.</li>
+    <li>with contact information, directions, and support instructions,</li>
+    <li>sensitive or high risk functionality such as authentication, managing personal information, or financial transactions.</li>
 </ul>
 </aside>
 
