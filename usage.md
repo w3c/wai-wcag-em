@@ -17,7 +17,7 @@ This includes an understanding of:
 
 In particular, it is assumed that users of this methodology are deeply familiar with all the resources listed in [Background reading](#reading).
 
-### Combined expertise (optional)
+### Combined expertise
 
 This methodology can be carried out by an individual evaluator with the skills described in the previous section ([Required expertise](#expertise)), or a team of evaluators with collective expertise. 
 
@@ -25,13 +25,13 @@ Using the combined expertise of different evaluators may sometimes be necessary 
 
 [Using Combined Expertise to Evaluate Web Accessibility](https://www.w3.org/WAI/test-evaluate/combined-expertise/) provides further guidance on using combined expertise of review teams.
 
-### Involving users (optional)
+### Involving users
 
 Involving people with disabilities (who are not experienced evaluators or part of a review team) may help identify additional accessibility barriers that are not easily discovered by expert evaluation alone. While not required for using this methodology, it is strongly recommended for evaluators to involve real people with a wide range of abilities during the evaluation process.
 
 [Involving Users in Web Accessibility Evaluation](https://www.w3.org/WAI/test-evaluate/involving-users/) provides further guidance on involving users in web accessibility evaluation.
 
-### Evaluation tools (optional)
+### Evaluation tools
 
 This methodology is independent of any particular accessibility evaluation tool, web browser, and other software tool. While most accessibility checks are not fully automatable, evaluation tools can significantly assist evaluators during the evaluation process and contribute to more effective evaluation. For example, some accessibility evaluation tools can scan an entire digital product to help identify relevant <a>samples</a> for manual evaluation. Tools can also assist during manual (human) evaluation of accessibility checks. 
 
