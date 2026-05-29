@@ -118,6 +118,8 @@ Samples with varying styles, layouts, structures, and functionality often have v
 
 During this step the evaluator explores the target product to identify the different **types** of samples. The outcome of this step is a list of descriptions of the types of content identified, rather than specific instances of samples. This list will be used in the following steps to help select a representative sample set for evaluation.
 
+<p class="note">Evaluators are encouraged to ask the evaluation commissioner about different types of samples as well as previous assessments, to ensure different types of content are well represented in their evaluation.</p>
+
 <aside class="example" title="Sample type examples">
 
 Examples of the different types of sample that evaluators can look for include ones that:
