@@ -237,6 +237,8 @@ Document the samples that were randomly selected as these will need to be compar
 
 <p class="note">While the random sample set need not be selected according to strictly scientific criteria, the scope of the selection needs to span the entire scope of the digital product (any samples on the digital product may be selected), and the selection of individual samples does not follow a predictable pattern. Recording the method used to generate the random sample set is useful for ensuring the reliability and replicability of the findings.</p>
 
+<p class="note">If the random sample set methodology picks a view that is identical to a view that is already part of the sample set, another view should be selected. If there are no new views to be found, this step should be considered completed.</p>
+
 #### Step 3.3: Include complete processes {#step3c}
 
 <p class="methodology-requirement"><strong id="req3c">Methodology Requirement 3.3</strong> Include all samples that are part of a <a href="https://www.w3.org/TR/WCAG22/#cc3">complete process</a> in the selected sample set.</p>
