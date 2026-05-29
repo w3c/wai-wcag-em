@@ -9,5 +9,5 @@ This methodology is designed for anyone who wants to follow a common approach fo
 *   compliance and quality assurance managers who want to ensure that they meet quality and policy requirements,
 *   accessibility monitoring activities used to benchmark and to compare accessibility conformance over time,
 *   accessibility researchers and disability advocates who want to explore accessibility conformance practices,
-*   accessibility trainers and educators who want to teach approaches for evaluating the accessibility of a representative sample of of a digital product, and
+*   accessibility trainers and educators who want to teach approaches for evaluating the accessibility of a representative sample of a digital product, and
 *   content authors, designers, and others who want to learn more about digital accessibility and evaluation.
