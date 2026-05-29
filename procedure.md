@@ -370,7 +370,7 @@ Include at least the following:
     *   Evaluation outcomes from [Step 4.2: Check all complete processes](#step4b)
     *   Evaluation outcomes from [Step 4.3: Compare structured and random sample sets](#step4c)
   
-<p class="note">As part of documenting evaluation outcomes, clear issue descriptions, steps to reproduce, screenshots and/or videos can help teams resolve issues more quickly.</p>
+<p class="note">As part of documenting evaluation outcomes, clear issue descriptions, steps to reproduce, severity of the findings, screenshots and/or videos can help teams resolve issues more quickly.</p>
 
 <p class="note">Depending on the desired granularity of the report documentation, the outcomes of <a href="#step4">Step 4: Evaluate the selected sample set</a> may be provided for each evaluated sample, or aggregated over the entire sample set. Reports should include at least one example for each conformance requirement and WCAG 2 Success Criterion not met. It is also good practice for evaluators to indicate issues that occur repeatedly.</p>
 
