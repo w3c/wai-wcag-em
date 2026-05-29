@@ -4,7 +4,8 @@ For the purposes of this document, the following terms and definitions apply:
 
 <dl>
   <dt><dfn id="dfn-actively-available"> actively available</dfn></dt>
-  <dd>available for the user to perceive and use
+  <dd>available for the user to perceive and use 
+    <p class="note">On the web, ”actively available” is content that is not inert (see <a href="https://html.spec.whatwg.org/multipage/interaction.html#inert-subtrees">explanation of inert in HTML</a>).</p>
     <p class="note">This taken is from the definition being developed in WCAG 3.</p>
   </dd>
 <dt><dfn  id="dfn-common-views">common views</dfn></dt>
@@ -44,9 +45,11 @@ For the purposes of this document, the following terms and definitions apply:
 
 <dt><dfn id="dfn-view">view</dfn></dt>
 <dd>
-  <p>content that is <a>actively available</a> in a viewport, including that which can be scrolled or panned to, and any additional content that is included by expansion, while leaving the rest of the content in the viewport actively available</p>
-  <p class="example">Examples of “included by expansion” include, but are not limited to: expanding paragraphs, non-modal dialogs, non-modal popups, error messages that appear embedded in content (for example, an “invalid password” error message).</p>
-  <p class="note">A modal dialog box would constitute a new view because the other content in the viewport is no longer actively available.</p>
+  <p>the collection of content that is <a>actively available</a> in a viewport, including that which can be scrolled, zoomed or panned to, and any additional content that is conditionally shown, while leaving the rest of the content in the viewport actively available</p>
+  <p class="note">“Conditionally shown content” is content that appears based on conditions like user interaction, changes in application state, changes in viewport size, or changes in screen orientation.</p>
+  <p class="example">A modal dialog constitutes a new view, because the other content in the viewport is no longer actively available. On the web, navigating to a different page rather than within one, also constitutes a new view. </p>
+  <p class="example">Non-modal dialogs, expanding paragraphs or sections, tooltips, “toast” notifications, fold out menus, and inline error messages are all part of the same view, as they leave other content actively available. </p>
+  <p class="example">Nested views are also part of the same view (the outer most view). For example, on the web, nested <code>iframe</code>s do not constitute a new view.</p>
   <p class="note">This definition is taken from the definition being developed in WCAG 3.</p>
 </dd>
 </dl>
