@@ -164,7 +164,7 @@ Some digital products include samples that are specifically relevant for people 
     <li>with information and help on the use of the digital product,</li>
     <li>explaining settings, preferences, options, shortcuts, etc., and</li>
     <li>with contact information, directions, and support instructions,</li>
-    <li>sensitive or high risk functionality such as authentication, or financial transactions.</li>
+    <li>sensitive or high risk functionality such as authentication, managing personal information, or financial transactions.</li>
 </ul>
 </aside>
 
