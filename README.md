@@ -23,7 +23,16 @@ python3 -m http.server 8000 & sleep 2 && open http://localhost:8000
 
 ### All changes
 
+#### Since publication of WCAG-EM 2 Draft Note
+
+- 29 May 2026: address majority of concerns around view definition ([c989690](https://github.com/w3c/wai-wcag-em/commit/c9896907837bc270dfbfc847e1efc3304a50119d)), mention applications as well as user agents; change wording so we're talking about conformance of a 'representative sample of' a product, rather than conformance of a product ([3b530d8](https://github.com/w3c/wai-wcag-em/commit/3b530d83610b26bea90ced38198f7c94aa014fd8)), avoid picking the same view twice ([cf1a87e](https://github.com/w3c/wai-wcag-em/commit/cf1a87e0d87cebaa3874010fbc4de45c32edfcfa)), remove 'optional' from all 'using this methodology' headings to avoid calling involvement of users optional ([c8ee114](https://github.com/w3c/wai-wcag-em/commit/c8ee114a2487b1dcc37d29a94c07089a42c8bd69)), mention selection based on WCAG SCs and other guidelines ([911051c](https://github.com/w3c/wai-wcag-em/commit/911051cd40014ad2698eafd0b087460d042d3076)), include hint to possibility of adding severity in issue description ([665cec0](https://github.com/w3c/wai-wcag-em/commit/665cec0be495f875a891959666383ce97ee415d7)), recommend wider sampling ([c3252dc](https://github.com/w3c/wai-wcag-em/commit/c3252dc0ba7b0540cc7f1b29c19747f51d2f0109)). 
+- 6 May 2026: reference epub
+- 10 April 2026: include a number of editorial improvements (thanks @tamsinewing555, @iadawn)
+- 16 March 2026: mention more specific examples to encourage better reports: screenshots, test accounts, prefill data
 - 24 February 2026: update name to "WCAG Evaluation Methodology (WCAG-EM)".
+
+#### Publication of WCAG-EM 2 Draft Note
+ 
 - 17 October 2025: use banking website instead of university website as an example of product enclosure, use new graphic, and update steps in procedure to be styled with CSS ([#133](https://github.com/w3c/wai-wcag-em/pull/113)).
 - 7 October 2025: simplify wording and make it more explicit in which cases sampling can be skipped ([108](https://github.com/w3c/wai-wcag-em/pull/108)).
 - 2 October 2025: simplify steps section and add graphics to steps and types of digital products ([#105](https://github.com/w3c/wai-wcag-em/pull/105)).
