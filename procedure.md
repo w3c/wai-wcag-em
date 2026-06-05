@@ -224,7 +224,7 @@ Select a sample set that includes:
 
 A randomly selected sample set acts as an indicator to verify that the structured sample set selected through the previous steps is sufficiently representative of the content provided on the website. This is an important step to improve the confidence in the overall evaluation outcome  when the evaluation results from both selection approaches correlate.
 
-The number of samples to randomly select is **10% of the structured sample set** selected through the previous steps. For example, if the structured sample set selected for a digital product resulted in 80 samples, then the random sample set size is 8 samples. (Note: The size of the structured sample set is different than the size of the digital product.)
+The number of samples to randomly select is **10% of the structured sample set** selected through the previous steps. For example, if the structured sample set selected for a digital product resulted in 80 samples, then the random sample set size is 8 samples (which are added on top, so in that case, it would leave you with 88 samples in total).
 
 To perform this selection, randomly select unique samples from the target digital product that are not already part of the structured sample set selected through the previous steps. Depending on the type of product and the access that an evaluator has for it there are different techniques that may need to be used for this selection. The evaluator may:
 
