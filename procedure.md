@@ -45,7 +45,7 @@ It is also important to document any particular aspects of the target product to
 
 #### Step 1.2: Define the conformance target {#step1b}
 
-<p class="methodology-requirement"><strong id="req1b">Methodology Requirement 1.2:</strong> Select a target WCAG 2 <a href="https://www.w3.org/TR/WCAG22/#cc1">conformance level</a> (“A”, “AA”, or “AAA”) for the evaluation.</p>
+<p class="methodology-requirement"><strong id="req1b">Methodology Requirement 1.2:</strong> Select a target WCAG 2 <a href="https://www.w3.org/TR/WCAG22/#cc1">conformance level</a> (A, AA, or AAA) for the evaluation.</p>
 
 <p class="note">WCAG 2 Level AA is the generally accepted and recommended target.</p>
 
@@ -65,7 +65,7 @@ During this step the evaluator determines the minimum set of combinations of ope
 
 #### Step 1.4: Define additional evaluation requirements (optional)  {#step1d}
 
-<p class="methodology-requirement"><strong id="req1d">Methodology Requirement 1.4:</strong> Define any additional evaluation requirements agreed by the <a>evaluator</a> and <a>evaluation commissioner</a> (Optional).</p>
+<p class="methodology-requirement"><strong id="req1d">Methodology Requirement 1.4:</strong> Define any additional evaluation requirements agreed by the <a>evaluator</a> and <a>evaluation commissioner</a> (optional).</p>
 
 An evaluation commissioner may be interested in additional information beyond what is needed to evaluate the extent of conformance of the target product to WCAG 2. For example, an evaluation commissioner might be interested in:
 
@@ -104,9 +104,9 @@ Explore the target product to identify its essential functionality. While some f
 
 <aside class="example" title="Product functionality examples">
 <ul>
-    <li>Selecting and purchasing products from the web shop.</li>
-    <li>Completing and submitting the survey forms.</li>
-    <li>Registering for an account on the product.</li>
+    <li>Selecting and purchasing products from the web shop</li>
+    <li>Completing and submitting the survey forms</li>
+    <li>Registering for an account on the product</li>
 </ul>
 </aside>
 
@@ -160,13 +160,13 @@ During this step, the technologies relied upon for conformance are identified. T
 Some digital products include samples that are specifically relevant for people with disabilities and the accessibility of the digital product. The outcome of this step is a list of such samples, if they have not already been identified as part of [Step 2.1: Identify common views of the digital product](#step2a).
 
 <aside class="example" title="Other relevant samples">
-<p>Other samples include those:</p>
+<p>Other samples include those that:</p>
 <ul>
-    <li>explaining the accessibility features of the digital product,</li>
-    <li>with information and help on the use of the digital product,</li>
-    <li>explaining settings, preferences, options, shortcuts, etc., and</li>
-    <li>with contact information, directions, and support instructions,</li>
-    <li>sensitive or high risk functionality such as authentication, managing personal information, or financial transactions.</li>
+    <li>explain the accessibility features of the digital product</li>
+    <li>provide information and help on using the digital product</li>
+    <li>explain settings, preferences, options, shortcuts, and similar features</li>
+    <li>provide contact information, directions, and support instructions</li>
+    <li>support sensitive or high-risk functionality such as authentication, managing personal information, or financial transactions.</li>
 </ul>
 </aside>
 
@@ -186,7 +186,7 @@ Select a sample set that is representative of the target product to be evaluated
   <p>When the sampling procedure is skipped, use the entire product as “selected sample set” in the remaining steps of this evaluation process.</p>
 </div>
 
-<p id="samplesize">The actual size of the sample set needed to evaluate a digital product depends on many factors, including:</p>
+<p id="samplesize">The actual size of the sample set needed to evaluate a digital product depends on many factors, including the following:</p>
 
 *   **Size of the digital product** — products with more pages or views typically require a larger sample set to evaluate.
 *   **Age of the digital product** — older digital products tend to have more (often not easy to find) content with different levels of complexity, consistency, and design and development processes, so a larger sample set is typically required to evaluate.
@@ -195,7 +195,7 @@ Select a sample set that is representative of the target product to be evaluated
     *   **How the content is generated** — products with content that is aggregated from different sources or that is processed as it is served (at runtime) typically require larger sample sets to cover the combinations of content that can be generated.
     *   **How the content is implemented** — products that are available in different versions, served according to users and their preferences, or that adapt to access devices require larger sample sets to cover these different situations.
 *   **Consistency of the product** — lower consistency requires a larger sample set to evaluate; consider the following:
-    *   ** Identify the variety of sample types** — products with a broader variety of sample types (see [Step 2.3: Identify the types of samples](#step2c)) require larger sample sets to evaluate.
+    *   **Variety of sample types** — products with a broader variety of sample types (see [Step 2.3: Identify the types of samples](#step2c)) require larger sample sets to evaluate.
     *   **Variety of functionality** — digital products with a broader variety of functionality (see [Step 2.2: Identify essential functionality of the digital product](#step2b)), in particular different types of applications, require larger sample sets to evaluate.
     *   **Variety of technologies** — digital products with a broader variety of technologies in use (see [Step 2.4: Identify technologies relied upon](#step2d)) require larger sample sets to evaluate.
     *   **Variety of coding styles** — products with a broader variety of coding styles (typically these are from different scripts that generate the code, templates, and web page authors) require larger sample sets to evaluate.
@@ -232,11 +232,11 @@ A randomly selected sample set acts as an indicator to verify that the structure
 
 The number of samples to randomly select is **10% of the structured sample set** selected through the previous steps. For example, if the structured sample set selected for a digital product resulted in 80 samples, then the random sample set size is 8 samples (which are added on top, so in that case, it would leave you with 88 samples in total).
 
-To perform this selection, randomly select unique samples from the target digital product that are not already part of the structured sample set selected through the previous steps. Depending on the type of product and the access that an evaluator has for it there are different techniques that may need to be used for this selection. The evaluator may:
+To perform this selection, randomly select unique samples from the target digital product that are not already part of the structured sample set that was selected through the previous steps. Depending on the type of product and the evaluator's level of access to it, there are different techniques that may need to be used for this selection. The evaluator may:
 
 *   use a tool that will traverse the digital product and propose a list of randomly selected samples,
-*   use a script that will generate a list of all samples available on a digital product, to select from,
-*   manually list all pages, views, or screens in a the digital product and pick items from that list randomly, and
+*   use a script that will generate a list of all samples available on a digital product to select from,
+*   manually list all pages, views, or screens in the digital product and pick items from that list randomly, and
 *   use server logs, crawlers, search engines and other creative methods to get to a random sample set.
 
 Document the samples that were randomly selected as these will need to be compared to the remaining structured sample set in [Step 4.3: Compare Structured and Random Samples Sets](#step4c).
@@ -259,7 +259,7 @@ Use the following steps to include the necessary samples:
 3.  For each process, identify and record the branch sequences of samples that are commonly accessed and critical for the successful completion of the process. Include these samples.  
     <p class="note">Branch sequences may terminate where they re-enter the default branch of the process. For example, adding a new shipping address will be registered as a critical alternative branch that leads back to the default branch of the process.</p>
 
-<p class="note">In most cases it is necessary to record and specify the actions needed to proceed from one sample to the next in a sequence to complete a process so that they can be replicated later. An example of such action could be "fill out name and address, and select the 'Submit' button". In most cases the web address (URL) will not be sufficient to identify the sample in a complete process. It is also useful to clearly record when samples are part of a process so that evaluators can focus their effort on the relevant changes, such as elements that were added, modified, or made visible.</p>
+<p class="note">In most cases, it is necessary to record and specify the actions needed to proceed from one sample to the next in a sequence to complete a process so that they can be replicated later. An example of such action could be "fill out name and address, and select the 'Submit' button". In most cases the web address (URL) will not be sufficient to identify the sample in a complete process. It is also useful to clearly record when samples are part of a process so that evaluators can focus their effort on the relevant changes, such as elements that were added, modified, or made visible.</p>
 
 ### Step 4: Evaluate the selected sample set {#step4}
 
@@ -289,7 +289,7 @@ For each sample selected in [Step 3: Select a representative sample set](#step3)
 
 ##### WCAG 2 success criteria
 
-There are typically several ways to determine whether WCAG 2 success criteria have been met or not met. W3C/WAI provides one set of (non-normative) [Techniques for WCAG 2.2](https://www.w3.org/WAI/WCAG22/Techniques/), which documents ways of meeting particular WCAG 2 success criteria. It also includes documented _common failures_, which are known ways in which content does not meet particular WCAG 2 success criteria. [Understanding Techniques for WCAG success criteria](https://www.w3.org/WAI/WCAG22/Understanding/) provides more guidance on the WCAG 2 concept of _Techniques_.
+There are typically several ways to determine whether WCAG 2 success criteria have been met or not met. W3C/WAI provides one set of (non-normative) [Techniques for WCAG 2.2](https://www.w3.org/WAI/WCAG22/Techniques/), which documents ways of meeting particular WCAG 2 success criteria. It also includes documented <i>common failures</i>, which are known ways in which content does not meet particular WCAG 2 success criteria. [Understanding Techniques for WCAG success criteria](https://www.w3.org/WAI/WCAG22/Understanding/) provides more guidance on the WCAG 2 concept of <i>Techniques</i>.
 
 Evaluators can use such documented guidance to check whether particular web content meets or fails to meet WCAG 2 success criteria. Documented techniques and failures can also be useful background in evaluation reports. However, it is not required to use the particular set of techniques and failures documented by W3C/WAI. In fact, evaluators do not need to follow any techniques and failures at all. Evaluators might use other approaches to evaluate whether WCAG 2 success criteria have been met or not met. For example, evaluators may utilize specific testing instructions and protocols that meet the [requirements for sufficient techniques](https://www.w3.org/WAI/WCAG22/Understanding/understanding-techniques#sufficient-techniques), and that may be publicly documented or only available to the evaluators. More guidance on the use of techniques is provided in the previously linked [Understanding Techniques for WCAG Success Criteria](https://www.w3.org/WAI/WCAG22/Understanding/understanding-techniques).
 
@@ -335,7 +335,7 @@ While evaluation findings are reported at the end of the process, documenting th
 
 #### Step 5.1: Document the outcomes of each step {#step5a}
 
-<p class="methodology-requirement"><strong id="req5a">Methodology Requirement 5.1:</strong> Document each outcome of the steps defined in <a href="#step1">Step 1: Define the Evaluation Scope</a>, <a href="#step2">Step 2: Explore the Target Digital Product</a>, <a href="#step3">Step 3: Select a representative sample set</a>, and <a href="#step4">Step 4: Evaluate the selected sample set</a>.</p>
+<p class="methodology-requirement"><strong id="req5a">Methodology Requirement 5.1:</strong> Document each outcome of the steps defined in <a href="#step1">Step 1: Define the evaluation scope</a>, <a href="#step2">Step 2: Explore the target digital product</a>, <a href="#step3">Step 3: Select a representative sample set</a>, and <a href="#step4">Step 4: Evaluate the selected sample set</a>.</p>
 
 For transparency, replicability of the evaluation results and justifications for any statements made based on this evaluation, it is essential to document the outcomes for each of the previous steps (including all sub-sections). 
 
@@ -377,7 +377,7 @@ Include at least the following:
 
 <p class="note">Depending on the desired granularity of the report documentation, the outcomes of <a href="#step4">Step 4: Evaluate the selected sample set</a> may be provided for each evaluated sample, or aggregated over the entire sample set. Reports should include at least one example for each conformance requirement and WCAG 2 Success Criterion not met. It is also good practice for evaluators to indicate issues that occur repeatedly.</p>
 
-Reports may also include additional information depending on any additional evaluation requirements defined in [Step 1.4: Define Additional Evaluation Requirements (Optional)](#step1d). For example, an evaluation commissioner may request a report indicating every failure occurrence for every sample, more information about the nature and the causes of the identified failures, or repair suggestions to remedy the failures.
+Reports may also include additional information depending on any additional evaluation requirements defined in [Step 1.4: Define additional evaluation requirements (optional)](#step1d). For example, an evaluation commissioner may request a report indicating every failure occurrence for every sample, more information about the nature and the causes of the identified failures, or repair suggestions to remedy the failures.
 
 #### Step 5.2: Record the evaluation specifics (optional) {#step5b}
 
@@ -388,7 +388,7 @@ While optional, it is good practice for evaluators to keep record of the evaluat
 Records of the evaluation specifics could include any of the following:
 
 *   Copies of the files and resources of the samples;  
-    <p class="note">Some tools can save the dynamically generated or modified content (DOM) as displayed during the evaluation rather than the initial content of the files and resources, which is often different;</p>
+    <p class="note">Some tools can save the dynamically generated or modified content &mdash; the Document Object Model (DOM) &mdash; as displayed during the evaluation, rather than the initial content of the files and resources, which is often different;</p>
 *   Screenshots of the samples;
 *   Description of the path to locate the samples, especially when they are part of a process;
 *   Description of the settings, input, and actions used to generate or navigate to the samples. 
@@ -402,7 +402,7 @@ Records of the evaluation specifics could include any of the following:
 
 #### Step 5.3: Provide an evaluation statement (optional) {#step5c}
 
-<p class="methodology-requirement"><strong id="req5c">Methodology Requirement 5.3:</strong> Provide a statement describing the outcomes of the conformance evaluation (Optional).</p>
+<p class="methodology-requirement"><strong id="req5c">Methodology Requirement 5.3:</strong> Provide a statement describing the outcomes of the conformance evaluation (optional).</p>
 
 **Reminder:** In the majority of situations, using this methodology alone does not result in [WCAG 2 conformance claims](https://www.w3.org/TR/WCAG22/#conformance-claims) for the target digital product; see [Relation to WCAG 2 Conformance Claims](#context) for more background.
 
@@ -413,7 +413,7 @@ An evaluation statement according to this methodology includes at least the foll
 1.  **Date** of when the evaluation statement was issued;
 2.  **Guidelines title, version and URI:** "Web Content Accessibility Guidelines 2.2 at [https://www.w3.org/TR/WCAG22/](https://www.w3.org/TR/WCAG22/)";
 3.  **Conformance level evaluated**: Level A, AA or AAA, as defined in [Step 1.2: Define the conformance target](#step1b);
-4.  **Definition of the Digital Product** as defined in [Step 1.1: Define the scope of the digital product](#step1a);
+4.  **Definition of the digital product** as defined in [Step 1.1: Define the scope of the digital product](#step1a);
 5.  **Technologies relied upon** as identified in [Step 2.4: Identify technologies relied upon](#step2d);
 6.  **Accessibility support baseline** as defined in [Step 1.3: Define an accessibility support baseline](#step1c).
 
@@ -426,12 +426,12 @@ Evaluation statements according to this methodology can also be made when only [
 
 #### Step 5.4: Provide an aggregated score (optional) {#step5d}
 
-<p class="methodology-requirement"><strong id="req5d">Methodology Requirement 5.4:</strong> Provide an Aggregated score (Optional).</p>
+<p class="methodology-requirement"><strong id="req5d">Methodology Requirement 5.4:</strong> Provide an Aggregated score (optional).</p>
 
 While aggregated scores provide a numerical indicator to help communicate progress over time, there is currently no single metric that is known to address the required reliability, accuracy, and practicality. In fact, aggregated scores can be misleading and do not provide sufficient context and information to understand the actual accessibility of a digital product. For this and other reasons WCAG 2 does not provide a rating scheme. A [W3C Research Report on Web Accessibility Metrics](https://www.w3.org/TR/accessibility-metrics-report/) provides more background on on-going research, different approaches, and limitations of scoring metrics that are beyond the scope of this document. Whenever a score is provided, it is essential that the scoring approach is documented and made available to the <a>evaluation commissioner</a> along with the report, to facilitate transparency and repeatability.
 
 #### Step 5.5: Provide machine-readable reports (optional) {#step5e}
 
-<p class="methodology-requirement"><strong id="req5e">Methodology Requirement 5.5:</strong> Provide machine-readable reports of the evaluation results (Optional).</p>
+<p class="methodology-requirement"><strong id="req5e">Methodology Requirement 5.5:</strong> Provide machine-readable reports of the evaluation results (optional).</p>
 
 Machine-readable reports facilitate processing the evaluation results by authoring, accessibility evaluation tools, and quality assurance tools. The [Evaluation and Report Language (EARL)](https://www.w3.org/WAI/standards-guidelines/earl/) is a machine-readable format that was specifically designed for this purpose. It is recommended to use EARL for providing machine-readable reports. See also [Understanding Metadata](https://www.w3.org/WAI/WCAG22/Understanding/understanding-metadata) from WCAG 2 to learn more about uses of metadata, including machine-readable reports, such as EARL.
