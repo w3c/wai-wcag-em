@@ -1,13 +1,13 @@
 ## Introduction
 
-This document describes a process to comprehensively evaluate whether a digital product conforms to [Web Content Accessibility Guidelines (WCAG) 2](https://www.w3.org/TR/WCAG22/). 
+This document describes a process to comprehensively evaluate whether a representative sampling of a digital product conforms to [Web Content Accessibility Guidelines (WCAG) 2](https://www.w3.org/TR/WCAG22/). 
 
 Accessibility evaluations of digital products can be necessary in many situations, such as before releasing, acquiring, or redesigning a product, and for periodic monitoring of the accessibility performance of a product over time.
 
 Several factors can impact an evaluation, including: 
 
 - the type of digital product (for example, website, mobile application, kiosk, document),
-- the size of a digital product, its complexity, and which technologies it uses (for example, HTML, WAI-ARIA, PDF),
+- the size of a digital product, its complexity, and which technologies it uses (for example, HTML, WAI-ARIA, PDF, EPUB),
 - the degree of knowledge the evaluators have about how the product was designed and developed, and
 - the main purpose for the evaluation (for example, to issue an accessibility statement, to plan a redesign process, to perform research).
 

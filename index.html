@@ -14,6 +14,8 @@
       .procedure-steps li:not(:last-child) { margin-bottom: 54px; }
       .procedure-steps li:not(:last-child)::after { content: ''; background-image: url(images/arrows.svg); display: block; height: 50px; width: 80px; position: absolute; left: 0; top: calc(100% + 4px); }
       .procedure-steps li::before { content: "Step " counter(list-item); background: var(--procedure-color-dark); padding: var(--procedure-space) 1em; margin: calc(-1 * var(--procedure-space)); margin-right: 1em; font-weight: bold; color: white; }
+      .toc { margin-left: 0rem !important; } /* to compensate for removal of section numbering, inline version  */
+      body:not(.toc-inline) :not(li) > .toc { margin-left: 1rem !important; /* to compensate for removal of section numbering, in content version  */ }
     </style>
   </head>
 
