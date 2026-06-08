@@ -6,7 +6,7 @@ For the purposes of this document, the following terms and definitions apply:
   <dt><dfn id="dfn-actively-available"> actively available</dfn></dt>
   <dd>available for the user to perceive and use 
     <p class="note">On the web, ”actively available” is content that is not inert (see <a href="https://html.spec.whatwg.org/multipage/interaction.html#inert-subtrees">explanation of inert in HTML</a>).</p>
-    <p class="note">This taken is from the definition being developed in WCAG 3.</p>
+    <p class="note">This is taken from the definition being developed in WCAG 3.</p>
   </dd>
 <dt><dfn  id="dfn-common-views">common views</dfn></dt>
 <dd>views that are relevant to the entire digital product
@@ -18,7 +18,7 @@ For the purposes of this document, the following terms and definitions apply:
 <dt><dfn id="dfn-digital-product">digital product</dfn></dt>
 <dd>coherent collection of one or more related views that together provide common use or functionality
 
-<aside class="example">Web sites, web apps, e-books, kiosk apps, mobile apps and documents (PDF, Word, EPUB)</aside>
+<aside class="example">Websites, web apps, e-books, kiosk apps, mobile apps and documents (PDF, Word, EPUB)</aside>
 
 <p class="note">The focus of this methodology is on full, self-enclosed digital products. Digital products may be composed of smaller subsets of views, each of which can be considered to be an individual product. For example, a digital product may include an online shop, an area for each department within the organization, a blog area, and other areas that may each be considered to be a digital product.</p></dd>
 
