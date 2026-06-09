@@ -4,7 +4,7 @@ The information below, related to accessibility essentials, evaluation, and WCAG
 
 ### Web accessibility essentials
 
-The following documents introduce the essential components of accessibility and explain how people with disabilities use the Web. They are critical to understand the broader context of accessibility evaluation:
+The following documents introduce the essential components of accessibility and explain how people with disabilities use the web. They are critical to understand the broader context of accessibility evaluation:
 
 * [Essential Components of Web Accessibility](https://www.w3.org/WAI/fundamentals/components/)
 * [How People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/)
