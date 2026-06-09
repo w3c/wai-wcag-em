@@ -68,12 +68,12 @@ var respecConfig = {
 		  publisher: "Lawton Henry S, ed (2014). W3C.",
 		},
 		"Essential-Components-of-Web-Accessibility" : {
-		  title: "Easy Checks - A First Review of Web Accessibility",
+		  title: "Essential Components of Web Accessibility",
 		  href: "https://www.w3.org/WAI/fundamentals/components/",
 		  publisher: "Lawton Henry S, ed (2005). Essential Components of Web Accessibility. Version 1.3. W3C.",
 		},
 		"How-People-with-Disabilities-Use-the-Web" : {
-		  title: "How People with Disabilities Use the Web.",
+		  title: "How People with Disabilities Use the Web",
 		  href: "https://www.w3.org/WAI/people-use-web/",
 		  publisher: "Abou-Zahra S, ed (2012). Draft. W3C.",
 		},
