@@ -40,6 +40,6 @@ For the purposes of this document, the following terms and definitions apply:
 
 <dt><dfn id="dfn-view">view</dfn></dt>
 <dd>
-  <p><p>A <a href="https://www.w3.org/TR/WCAG22/#dfn-web-page-s">web page</a>, <a href="https://www.w3.org/TR/wcag2ict-22/#document">document</a>, <a href="https://www.w3.org/TR/wcag2ict-22/#software">software</a> or <a href="https://www.w3.org/TR/wcag-3.0/#dfn-view">view</a>, or an equivalent unit of conformance defined in the accessibility standard being evaluated.</p>.
-</dd>
+  <p><p>A <a href="https://www.w3.org/TR/WCAG22/#dfn-web-page-s">web page</a>, <a href="https://www.w3.org/TR/wcag2ict-22/#document">document</a>, <a href="https://www.w3.org/TR/wcag2ict-22/#software">software</a> or <a href="https://www.w3.org/TR/wcag-3.0/#dfn-view">view</a>, or an equivalent unit of conformance defined in the accessibility standard being evaluated.</p>
+  </dd>
 </dl>
