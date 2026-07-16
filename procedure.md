@@ -129,7 +129,7 @@ Examples of the different types of sample that evaluators can look for include o
 *   include different functional components, such as date pickers, modal overlays, and carousels,
 *   use different technologies, such as HTML, CSS, JavaScript, WAI-ARIA, PDF, and EPUB
 *   are drawn from different areas of the product (such as home page, web shop, and other departments), including any applications,
-*   reflect different coding styles and [templates](https://www.w3.org/TR/ATAG20/#def-template) (if this is known to the evaluator),
+*   reflect different coding styles and [templates](https://www.w3.org/TR/ATAG20/#def-Template) (if this is known to the evaluator),
 *   are authored by different people, departments, or other entities (if this is known to the evaluator),
 *   change in appearance and behavior depending on the user, device, browser, context, and settings,
 *   include dynamic content, error messages, dialog boxes, pop-up windows, and other interactions.
