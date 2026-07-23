@@ -4,15 +4,22 @@ For the 2.0 update, contributors included
 Shadi Abou-Zahra;
 Jason Ament;
 Alastair Campbell;
+Graeme Coleman;
 Tamsin Ewing;
+Wilco Fiers;
 Mike Gifford;
 Jan Jaap de Groot;
+Karl Groves; 
+Umut Gultekin;
+Shawn Henry;
 Ian Lloyd;
 Wendy Meerkerk;
+Laurie Reynolds;
 Iacobien Riezebosch;
 Eric Velleman;
 Kevin White;
-Paul van Workum.
+Paul van Workum;
+Kate Zhao.
 
 Editors also solicited feedback in evaluator interviews from 
 Roel Antonisse;
