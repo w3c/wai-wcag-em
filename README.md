@@ -1,8 +1,10 @@
-# 2025 update for WCAG-EM
+# WCAG Evaluation Methodology
 
-This repo contains drafts and explorations of a potential 2025 update of the 2014 [WCAG-EM](https://www.w3.org/TR/WCAG-EM/).
+This repo contains [WCAG-EM](https://www.w3.org/TR/WCAG-EM/), and is used to continue work on future versions.
 
 ## Setup
+
+This is how to use the code in this repository to serve a version of the doument on your machine.
 
 Start a web server from the top-level repository folder and open `index.html`
 
